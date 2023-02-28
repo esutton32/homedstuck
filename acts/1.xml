@@ -1,0 +1,3137 @@
+<act>
+    <entry>
+        <command>Homestuck</command>
+        <date>13/04/09</date>
+        <p>SBURB BETA</p>
+        <p>A young man stands in his bedroom. It just so happens that today, the 13th of April,
+            2009, is this young man's birthday. Though it was thirteen years ago he was given life,
+            it is only today he will be given a name!</p>
+
+        <p>What will the name of this young man be?</p>
+    </entry>
+    <entry>
+        <command>Enter name.</command>
+        <date>13/04/09</date>
+
+        <p>ZOOSMELL POOPLORD</p>
+
+        <p>TRY AGAIN, SMARTASS</p>
+    </entry>
+    <entry>
+        <command>Try again.</command>
+        <date>13/04/09</date>
+
+        <p>(check) JOHN EGBERT</p>
+    </entry>
+    <entry>
+        <command>Examine room.</command>
+        <date>13/04/09</date>
+        <p>Your name is JOHN. As was previously mentioned it is your BIRTHDAY. A number of CAKES are
+            scattered about your room. You have a variety of INTERESTS. You have a passion for
+            REALLY TERRIBLE MOVIES. You like to program computers but you are NOT VERY GOOD AT IT.
+            You have a fondness for PARANORMAL LORE, and are an aspiring AMATEUR MAGICIAN. You also
+            like to play GAMES sometimes.</p>
+
+        <p>What will you do?</p>
+    </entry>
+    <entry>
+        <command>John: Quickly retrieve arms from drawer.</command>
+        <date>13/04/09</date>
+        <p>Your ARMS are in your MAGIC CHEST, pooplord!</p>
+    </entry>
+    <entry>
+        <command>Remove CAKE from MAGIC CHEST.</command>
+        <date>13/04/09</date>
+        <p>Out of sympathy for John's perceived lack of arms, you pick up the CAKE for him and put
+            it on his BED.</p>
+    </entry>
+    <entry>
+        <command>John: Quickly retrieve arms from MAGIC CHEST.</command>
+        <date>13/04/09</date>
+        <p>captchalogue x2</p>
+        <p>You retrieve your FAKE ARMS from the chest. You use these for HILARIOUS ANTICS. </p>
+
+        <p>You CAPTCHALOGUE them in your SYLLADEX. You have no idea what that actually means
+            though.</p>
+
+        <p>There are other items in the chest.</p>
+    </entry>
+    <entry>
+        <command>John: Examine contents of chest.</command>
+        <date>13/04/09</date>
+        <p>captchalogue x2</p>
+
+        <p>Colonel Sassacre's DAUNTING TEXT OF MAGICAL FRIVOLITY AND PRACTICAL JAPERY</p>
+
+        <p>Harry Anderson's WISE GUY</p>
+        <p>In here you keep an array of humorous and mystical ARTIFACTS, each one a devastating
+            weapon in the hands of a SKILLED MAGICIAN or a CUNNING PRANKSTER.</p>
+
+        <p>You are neither of these things.</p>
+
+        <p>Among the ARTIFACTS are: TWO (2) FAKE ARMS [CURRENTLY CAPTCHALOGUED IN YOUR SYLLADEX],
+            ONE (1) PAIR OF TRICK HANDCUFFS, ONE (1) STUNT SWORD, ONE (1) MAGICIAN'S HAT, ONE (1)
+            PAIR OF BEAGLE PUSS GLASSES, SEVERAL (~) SMOKE PELLETS, SEVERAL (~) BLOOD CAPSULES, and
+            ONE (1) COPY OF COLONEL SASSACRE'S DAUNTING TEXT OF MAGICAL FRIVOLITY AND PRACTICAL
+            JAPERY, and ONE (1) COPY OF HARRY ANDERSON'S "WISE GUY", BY MIKE CAVENEY.</p>
+
+        <p>Some of this stuff may come in handy at some point. For now, you decide to just take the
+            SMOKE PELLETS.</p>
+    </entry>
+    <entry>
+        <command>John: Captchalogue smoke pellets.</command>
+        <date>13/04/09</date>
+        <p>sylladex::captchalogue deck</p>
+        <p>You stow the SMOKE PELLETS on one of your CAPTCHALOGUE CARDS in your SYLLADEX.</p>
+
+        <p>You still aren't totally sure what that means, but you are starting to get the hang of
+            the vernacular at least.</p>
+
+        <p>You have two empty CAPTCHALOGUE CARDS remaining.</p>
+    </entry>
+    <entry>
+        <command>John: Equip fake arms.</command>
+        <date>13/04/09</date>
+        <p>You aren't totally sure if "EQUIP" is a verb copasetic with the abstract behavioral
+            medium in which you dwell, but you give it a try anyway.</p>
+
+        <p>Unfortunately, you cannot access the FAKE ARMS! Their card is underneath the one you just
+            used to captchalogue the SMOKE PELLETS. You will have to use the pellets first in order
+            to access the arms. But this is probably unadvisable, since you'd just make your room
+            lousy with smoke!</p>
+
+        <p>Your SYLLADEX'S FETCH MODUS is currently dictated by the logic of a STACK DATA STRUCTURE.
+            You were never all that great with data structures and you find the concept puzzling and
+            mildly irritating.</p>
+
+        <p>But with any hope, perhaps you will advance new, more practical FETCH MODI for your
+            SYLLADEX with a little more experience.</p>
+    </entry>
+    <entry>
+        <command>John: Examine Problem Sleuth Poster.</command>
+        <date>13/04/09</date>
+        <p>Is it even possible to get any more hard boiled than that? You really doubt it. This
+            poster was one of your wisest purchases.</p>
+
+        <p>There is a nice spot on the wall next to it. You've been meaning to hang another poster
+            there soon.</p>
+    </entry>
+    <entry>
+        <command>John: Read note on drawer.</command>
+        <date>13/04/09</date>
+
+        <p>HAPPY BIRTHDAY SON.</p>
+
+        <p>I AM SO PROUD OF YOU.</p>
+        <p>This note is rich with the aromas of FATHERLY AFTERSHAVES AND COLOGNES.</p>
+
+        <p>Beside the note is a ROLLED UP POSTER.</p>
+    </entry>
+    <entry>
+        <command>John: Take poster.</command>
+        <date>13/04/09</date>
+        <p>Another BIRTHDAY ARTIFACT. You wonder what is printed on the poster.</p>
+
+        <p>You'll need some way to hang it on your wall.</p>
+    </entry>
+    <entry>
+        <command>John: Acquire hammer and nails. They will come in handy.</command>
+        <date>13/04/09</date>
+        <p>You first place the HAMMER into your SYLLADEX.</p>
+
+        <p>But now all of your CAPTCHALOGUE CARDS are full. You wonder what will happen if you try
+            to take the NAILS? </p>
+
+        <p>You guess it doesn't hurt to try.</p>
+    </entry>
+    <entry>
+        <command>John: Take nails.</command>
+        <date>13/04/09</date>
+        <p>You captchalogue FOUR (4) NAILS into the top card, and push all the ARTIFACTS down a
+            card.</p>
+
+        <p>The FAKE ARMS are pushed entirely out of the deck!!!</p>
+
+        <p>Oh well. They're probably completely useless anyway. But you probably don't want to do
+            that again, unless you want to drop the SMOKE PELLETS and suffer the consequences.</p>
+
+        <p>In any case, you now feel like you have gathered enough things to get down to business
+            and do some really important stuff. The next thing you do will probably be exceptionally
+            meaningful.</p>
+    </entry>
+    <entry>
+        <command>John: Squawk like an imbecile and shit on your desk.</command>
+        <date>13/04/09</date>
+        <p>This is the dumbest idea you've had in weeks!!!</p>
+
+        <p>STUPID STUPID STUPID.</p>
+
+        <p>And yet the polished surface of your desk...</p>
+
+        <p>It beckons.</p>
+    </entry>
+    <entry>
+        <command>John: Combine the nails and hammer.</command>
+        <date>14/04/09</date>
+        <p>You MERGE the top two cards. </p>
+
+        <p>The HAMMER and NAILS are now captchalogued on the same card and can be used together.</p>
+    </entry>
+    <entry>
+        <command>John: Use hammer/nails on poster.</command>
+        <date>14/04/09</date>
+        <p>You use the HAMMER and NAILS card IN CONJUNCTION with the card beneath it.</p>
+    </entry>
+    <entry>
+        <command>John: Nail poster to wall.</command>
+        <date>14/04/09</date>
+        <p>FRED SAVAGE HOWIE MANDEL</p>
+
+        <p>little</p>
+        <p>monsters</p>
+        <p>You use the HAMMER, NAILS, and POSTER on the blank space on the wall. </p>
+
+        <p>It's glorious. Exactly what you wanted. The old man really came through this time.</p>
+    </entry>
+    <entry>
+        <command>John: Examine Con Air poster.</command>
+        <date>14/04/09</date>
+        <p>CAGE CUSACK</p>
+
+        <p>A JERRY BRUCKHEIMER PRODUCTION</p>
+
+        <p> The most dangerous criminals in the</p>
+        <p> world are about to take flight.</p>
+        <p> Only one man can stop them.</p>
+
+        <p>CON AIR</p>
+        <p>PUT THE BUNNY BACK IN THE BOX.</p>
+
+        <p>I SAID, PUT THE BUNNY BACK IN THE BOX.</p>
+
+        <p>WHY COULDN'T YOU PUT THE BUNNY BACK IN THE BOX?</p>
+    </entry>
+    <entry>
+        <command>John: Examine Deep Impact poster.</command>
+        <date>14/04/09</date>
+        <p>DEEP IMPACT</p>
+        <p>Morgan Freeman's genteel, homespun mannerisms were perfect qualities for a president
+            residing over a crisis. </p>
+
+        <p>OCEANS RISE. CITIES FALL. HOPE SURVIVES.</p>
+
+        <p>WOW.</p>
+
+        <p>Films about impending apocalypse fascinate you. Plus, a black president??? Now you've
+            seen everything!</p>
+    </entry>
+    <entry>
+        <command>John: Examine calendar.</command>
+        <date>14/04/09</date>
+        <p>APRIL</p>
+
+        <p>10: BETA! [x]</p>
+        <p>13: :)</p>
+        <p>You've marked your birthday, the 13th of April. Another day you marked was supposed to be
+            the arrival date for the highly touted SBURB BETA LAUNCH. </p>
+
+        <p>It's been three days already. It's starting to become a sore subject with you.</p>
+    </entry>
+    <entry>
+        <command>John: Eat cake.</command>
+        <date>14/04/09</date>
+        <p>Alert : . . . </p>
+        <p>You are sick to death of cake!!! You've been eating it all day. And you have no intention
+            of clogging your SYLLADEX with it either. The CAKE stays put for now.</p>
+
+        <p>You hear a notice from your COMPUTER. Someone is messaging you.</p>
+    </entry>
+    <entry>
+        <command>John: Examine incoming message.</command>
+        <date>15/04/09</date>
+        <p>[SYSTEM]</p>
+
+        <p>[TYPHEUS]</p>
+
+        <p>[PESTERCHUM]</p>
+
+        <p>[pff.^CAKE]</p>
+
+        <p>[FUCK FUCK FUCK.^CAKE]</p>
+
+        <p>[AAAAAAAAAAAAAUUUUUUUUUUUUUUUGH.~ATH ]</p>
+
+        <p>[ACTUATE] [PESTERCHUM] | 04/13 16:13</p>
+        <p>You pull up to your COMPUTER. This is where you spend most of your time. You decorated
+            your desktop with some rather handsome WALLPAPER which you made yourself. You are really
+            proud of it.</p>
+
+        <p>Your desktop is also littered with various PROGRAMMING PROJECT FILES. You are so bad at
+            programming sometimes you wonder why you even bother with it.</p>
+
+        <p>Your PESTERCHUM application is flashing. Someone is trying to get in touch with you.</p>
+    </entry>
+    <entry>
+        <command>John: Open Pesterchum.</command>
+        <date>15/04/09</date>
+        <p>PESTERCHUM 6.0</p>
+
+        <p>CHAT CLIENT</p>
+
+        <p>CHUMROLL :</p>
+        <p>:) turntechGodhead</p>
+        <p>- tentacleTherapist</p>
+        <p>- gardenGnostic</p>
+        <p>[PESTER!]</p>
+
+        <p>MYCHUMHANDLE :</p>
+        <p>:) ectoBiologist</p>
+
+        <p>MOOD :</p>
+        <p>:) CHUMMY (check)</p>
+        <p>:) BULLY</p>
+        <p>:) PALSY</p>
+        <p>:) PEPPY</p>
+        <p>:) CHIPPER</p>
+        <p>&gt;:( RANCOROUS</p>
+        <p>Only one of your CHUMS is logged in. He's sent you a message.</p>
+    </entry>
+    <entry>
+        <command>John: Open message.</command>
+        <date>15/04/09</date>
+        <p>:: turntechGodhead ::</p>
+
+        <p>PESTERLOG :</p>
+
+        <p>-- turntechGodhead [TG] began pestering ectoBiologist [EB] at 16:13 --</p>
+
+        <p>TG: hey so what sort of insane loot did you rake in today</p>
+
+        <p>[PESTER!]</p>
+        <p>pesterlog</p>
+        <p>-- turntechGodhead [TG] began pestering ectoBiologist [EB] at 16:13 --</p>
+
+        <p>TG: hey so what sort of insane loot did you rake in today</p>
+        <p>EB: i got a little monsters poster, it's so awesome. i'm going to watch it again today,
+            the applejuice scene was so funny.</p>
+        <p>TG: oh hell that is such a coincidence i just found an unopened container of apple juice
+            in my closet it is like fucking christmas up in here</p>
+        <p>EB: ok thats fine, but i just have one question and then a word of caution. have you ever
+            seen a movie called little monsters starring howie mandel and fred savage?</p>
+        <p>TG: but </p>
+        <p>TG: the seal on the bottle is unbroken</p>
+        <p>TG: are you suggesting someone put piss in my apple juice at the factory</p>
+        <p>EB: all im saying is don't you think monster howie mandel has the power to do something
+            as simple as reseal a bottle?</p>
+        <p>EB: try using your brain numbnuts.</p>
+        <p>TG: why did the fat kid or whoever drank it know what piss tasted like</p>
+        <p>TG: i mean his reaction was nigh instantaneous</p>
+        <p>EB: it was the 15th day in a row howie mandel peed in his juice.</p>
+        <p>TG: ok i can accept that </p>
+        <p>TG: monster B-list celebrity douchebags are cunning and persistent pranksters</p>
+        <p>TG: also fred savage has a really punchable face</p>
+        <p>TG: but who cares about this lets stop talking about it</p>
+        <p>TG: did you get the beta yet</p>
+        <p>EB: no.</p>
+        <p>EB: did you?</p>
+        <p>TG: man i got two copies already</p>
+        <p>TG: but i dont care im not going to play it or anything the game sounds boring</p>
+        <p>TG: did you see how it got slammed in game bro????</p>
+        <p>EB: game bro is a joke and we both know it.</p>
+        <p>TG: yeah</p>
+        <p>TG: why dont you go check your mail maybe its there now</p>
+        <p>EB: alright.</p>
+    </entry>
+    <entry>
+        <command>John: Look out window.</command>
+        <date>15/04/09</date>
+        <p>You see the view of your yard from your window.</p>
+
+        <p>Hanging from the tree is your TIRE SWING. In a kid's yard, a tree without a tire swing is
+            like a proper gentleman without a monocle. That is to say, HE CAN HARDLY BE CONSIDERED A
+            TERRIBLY PROPER GENTLEMAN AT ALL. </p>
+
+        <p>And there beside your driveway is the mailbox.</p>
+    </entry>
+    <entry>
+        <command>John: Examine mailbox.</command>
+        <date>15/04/09</date>
+        <p>The little red arm-swingy-dealy thing or whatever it is called is flipped up!</p>
+
+        <p>What the hell is that thing called anyway. You do not have time for these semantics. The
+            red flippy-lever thing means you have new mail. And that means the beta might be
+            here!</p>
+    </entry>
+    <entry>
+        <command>John: Go outside and check mailbox.</command>
+        <date>15/04/09</date>
+        <p>You are about to hurry down stairs when you hear a car pull into the driveway. It looks
+            like your DAD has returned from the grocery store.</p>
+
+        <p>Oh great. He is beating you to the mail.</p>
+    </entry>
+    <entry>
+        <command>John: Forget it. Check mail later.</command>
+        <date>15/04/09</date>
+        <p>Alert : . . . </p>
+        <p>If you go down stairs to get it, he will likely monopolize hours of your time. You decide
+            to chill out up here for a while until the dust settles.</p>
+
+        <p>Sometimes you feel like you are trapped in this room. Stuck, if you will, in a sense
+            which possibly borders on the titular.</p>
+
+        <p>And now your chum is pestering you again. The clockwork of friendship turns ceaselessly,
+            operating the swing-lever dealies of harassment in perpetuity!</p>
+
+        <p>Whatever. The dude can just hold his damn horses.</p>
+    </entry>
+    <entry>
+        <command>John: Examine games on CD rack.</command>
+        <date>16/04/09</date>
+        <p>BARD</p>
+        <p>QUEST</p>
+
+        <p>THE CAPER HAVERS</p>
+
+        <p>PROBLEM</p>
+        <p>SLEUTH</p>
+
+        <p>AND </p>
+        <p>IT </p>
+        <p>DON'T</p>
+        <p>STOP </p>
+
+        <p>?</p>
+
+        <p>GHOSTBUSTERS II</p>
+        <p>MMORPG</p>
+
+        <p>KONAMI</p>
+        <p>little</p>
+        <p>monsters</p>
+        <p>(Original</p>
+        <p> Nintendo</p>
+        <p> Seal of </p>
+        <p> Quality)</p>
+
+        <p>HARRY ANDERSON</p>
+        <p>CALL </p>
+        <p>MY </p>
+        <p>BLUFF </p>
+        <p>You've put countless manhours into this assortment of quality titles.</p>
+    </entry>
+    <entry>
+        <command>John: Read COLONEL SASSACRE'S DAUNTING TEXT.</command>
+        <date>16/04/09</date>
+        <p>Colonel</p>
+        <p>Sassacre's</p>
+
+        <p>DAUNTING TEXT</p>
+        <p>OF</p>
+        <p>MAGICAL FRIVOLITY</p>
+        <p>AND</p>
+        <p>PRACTICAL JAPERY</p>
+        <p>You decide to consult with the Colonel's bottomless wisdom. Good grief this thing is
+            huge. It could kill a cat if you dropped it.</p>
+
+        <p>But to really dig into this hefty book, you will have to captchalogue it. You are not
+            sure you are ready to logjam your other ARTIFACTS beneath it just yet.</p>
+    </entry>
+    <entry>
+        <command>John: Captchalogue fake arms again.</command>
+        <date>16/04/09</date>
+        <p>What did you just say?? You don't want to clog up your...</p>
+
+        <p>Oh, Jesus. In a momentary lapse of concentration, you accidentally captchalogue the arms
+            again.</p>
+    </entry>
+    <entry>
+        <command>John: Set Pesterchum status to "bully".</command>
+        <date>16/04/09</date>
+        <p>:) turntechGodhead</p>
+        <p>You don't think the situation is quite dire enough to go all the way to "RANCOROUS", but
+            you still feel the PESTERCHUM client should reflect your mood change in some way.</p>
+
+        <p>"BULLY" will have to do. You guess.</p>
+
+        <p>This unsurprisingly does nothing whatsoever.</p>
+
+        <p>Oh, right, you forgot your chum is still pestering you.</p>
+    </entry>
+    <entry>
+        <command>John: Answer chum.</command>
+        <date>16/04/09</date>
+        <p>:: turntechGodhead ::</p>
+        <p>PESTERLOG :</p>
+
+        <p>TG: is it there</p>
+        <p>TG: plz say yes</p>
+        <p>pesterlog</p>
+        <p>TG: is it there</p>
+        <p>TG: plz say yes</p>
+        <p>TG: maybe you can play with TT shes been pestering me all day about it</p>
+        <p>TG: shes mackin on me so hard all the time i start to feel embarrassed for her</p>
+        <p>TG: i mean not that i can blame her or anything</p>
+        <p>EB: yes, it is understandable because you are really attractive. i am attracted to
+            you.</p>
+        <p>TG: thank you</p>
+        <p>EB: jk haha.</p>
+        <p>EB: no, i don't have it yet.</p>
+        <p>EB: my dad has the mail and i guess i have to go get it from him and see if it's
+            there.</p>
+        <p>EB: and i've been busy spending all afternoon shitting around with my stupid
+            sylladex.</p>
+        <p>EB: it's so frustrating.</p>
+        <p>TG: whats your modus</p>
+        <p>EB: what?</p>
+        <p>TG: how do you retrieve artifacts from it</p>
+        <p>EB: oh. like one at a time i guess. and if i put too much in, something falls out.</p>
+        <p>TG: stack?? hahahahahaha</p>
+        <p>EB: what is yours?</p>
+        <p>TG: hash map</p>
+        <p>TG: my bro taught me a few tricks he basically knows everything and is awesome</p>
+        <p>EB: what the hell is that?</p>
+        <p>TG: you should probably brush up on your data structures</p>
+        <p>EB: i guess.</p>
+        <p>TG: did you at least allocate your strife specibus</p>
+        <p>EB: no.</p>
+        <p>TG: it could free up a card for you</p>
+        <p>TG: plus let you attack stuff whenever things get too hot to handle</p>
+        <p>TG: which is never</p>
+        <p>TG: what have you got</p>
+        <p>EB: well, i've got a hammer but it's trapped under some arms.</p>
+        <p>TG: wow you really suck at this dont you</p>
+        <p>TG: just get rid of the arms and then allocate the hammer to the specibus</p>
+        <p>EB: how?</p>
+        <p>TG: i dont know just use the arms on any old thing and see if it works</p>
+    </entry>
+    <entry>
+        <command>John: Combine fake arms with cake.</command>
+        <date>16/04/09</date>
+        <p>You stick the FAKE ARMS in the CAKE on your bed.</p>
+
+        <p>This definitely makes the CAKE at least 300% more hilarious. You're sure COLONEL SASSACRE
+            would know the precise index of elevated hilarity.</p>
+    </entry>
+    <entry>
+        <command>John: Allocate hammer to strife specibus.</command>
+        <date>16/04/09</date>
+        <p>kind abstrata</p>
+
+        <p>pizzactrkind</p>
+        <p>batkind</p>
+        <p>rollpinkind</p>
+        <p>plungerkind</p>
+        <p>yoyokind</p>
+        <p>scissorkind</p>
+        <p>peprsprykind</p>
+        <p>chainsawkind</p>
+        <p>crowbarkind</p>
+        <p>broomkind</p>
+        <p>pokerkind</p>
+        <p>icepickkind</p>
+        <p>golfclubkind</p>
+        <p>[hammerkind]</p>
+        <p>jumpropekind</p>
+        <p>shovelkind</p>
+        <p>hatchetkind</p>
+        <p>spoonkind</p>
+        <p>statuekind</p>
+        <p>spatulakind</p>
+        <p>scrwdrvrkind</p>
+        <p>bladekind</p>
+        <p>pistolkind</p>
+        <p>lampkind</p>
+        <p>stungunkind</p>
+        <p>ballkind</p>
+        <p>rakekind</p>
+        <p>plankkind</p>
+        <p>glovekind</p>
+
+        <p>forkkind</p>
+        <p>canekind</p>
+        <p>curlironkind</p>
+        <p>chainkind</p>
+        <p>knifekind</p>
+        <p>tablelegkind</p>
+        <p>shotgunkind</p>
+        <p>needlekind</p>
+        <p>peprmillkind</p>
+        <p>dumbbellkind</p>
+        <p>hckystckkind</p>
+        <p>vacuumkind</p>
+        <p>mopkind</p>
+        <p>trophykind</p>
+        <p>fncysntakind</p>
+        <p>ladlekind</p>
+        <p>cordkind</p>
+        <p>ironkind</p>
+        <p>sawkind</p>
+        <p>cleaverkind</p>
+        <p>iceskatekind</p>
+        <p>wrenchkind</p>
+        <p>umbrellakind</p>
+        <p>plungerkind</p>
+        <p>hosekind</p>
+        <p>bookkind</p>
+        <p>bustkind</p>
+        <p>spadekind</p>
+        <p>pipekind</p>
+
+        <p>nailgunkind</p>
+        <p>hairdyrkind</p>
+        <p>lcrsstckkind</p>
+        <p>thrwstarkind</p>
+        <p>tongskind</p>
+        <p>razorkind</p>
+        <p>fireextkind</p>
+        <p>branchkind</p>
+        <p>bowlgpinkind</p>
+        <p>bombkind</p>
+        <p>woodwindkind</p>
+        <p>staplerkind</p>
+        <p>riflekind</p>
+        <p>sandlstkkind</p>
+        <p>paddlekind</p>
+        <p>bowkind</p>
+        <p>barbwirekind</p>
+        <p>dartkind</p>
+        <p>marblekind</p>
+        <p>plierkind</p>
+        <p>fireworkkind</p>
+        <p>chiselkind</p>
+        <p>aerosolkind</p>
+        <p>shoekind</p>
+        <p>pippetkind</p>
+        <p>fankind</p>
+        <p>brasskind</p>
+        <p>rockkind</p>
+        <p>scythekind</p>
+        <p>You check the back of your STRIFE SPECIBUS for the KIND ABSTRATUS you have in mind for
+            it.</p>
+    </entry>
+    <entry>
+        <command>John: Select "HAMMER".</command>
+        <date>16/04/09</date>
+        <p>captchalogue x1</p>
+
+        <p>strife specibus</p>
+
+        <p>sylladex::strife deck</p>
+        <p>hammerkind</p>
+        <p>Your STRIFE SPECIBUS has been ALLOCATED with the HAMMERKIND ABSTRATUS.</p>
+
+        <p>The HAMMER has been moved from your CAPTCHALOGUE DECK to your STRIFE DECK.</p>
+    </entry>
+    <entry>
+        <command>John: Report progress to TG.</command>
+        <date>16/04/09</date>
+        <p>pesterlog</p>
+        <p>EB: ok, i did it.</p>
+        <p>TG: hammerkind?</p>
+        <p>EB: yeah.</p>
+        <p>TG: ok that will be the permanent allocation for your specibus</p>
+        <p>TG: i guess i should have mentioned that</p>
+        <p>EB: uh...</p>
+        <p>TG: hope you like hammers dude!</p>
+        <p>EB: yeah, that's fine i guess. i can't imagine it's going to be all that relevant.</p>
+    </entry>
+    <entry>
+        <command>John: Captchalogue Colonel's big book.</command>
+        <date>17/04/09</date>
+        <p>Now that you've got some space in your SYLLADEX to work with, you figure you might as
+            well start squandering it immediately.</p>
+
+        <p>Ordinarily this ridiculous book would be way too heavy to carry around in any practical
+            way. You guess maybe this is one respect in which the cards present some
+            convenience.</p>
+    </entry>
+    <entry>
+        <command>John: Examine GameBro Magazine.</command>
+        <date>17/04/09</date>
+        <p>GAME</p>
+        <p>BRO</p>
+
+        <p> SBURB</p>
+
+        <p> Why the "Game of</p>
+        <p>the Year" or whatever</p>
+        <p>isn't as good as some</p>
+        <p> other stuff I like </p>
+        <p> that's better.</p>
+    </entry>
+    <entry>
+        <command>John: Read article.</command>
+        <date>17/04/09</date>
+        <p>GAME</p>
+        <p>BRO</p>
+        <p>FEATURE</p>
+
+        <p>SBURB</p>
+
+        <p>So ok. </p>
+
+        <p>SBURB is this game that</p>
+        <p>a lot of cats seem hella</p>
+        <p>pumped of. And this beta</p>
+        <p>is sitting on my desk for</p>
+        <p>review, so I'm like, yeah</p>
+        <p>man I'll write something. </p>
+
+        <p>But I don't know. I'm like,</p>
+        <p>so this is about houses or</p>
+        <p>some noise? That's fine, I'm sure that's</p>
+        <p>like fucking dynamite in a handbag for</p>
+        <p>some brosephs. But all I'm saying is,</p>
+        <p>when do you get to *thrash* anything?</p>
+        <p>While you're playing house or some shit,</p>
+        <p>are you ever in jeopardy of getting mud</p>
+        <p>on your doll's dress or whatever from</p>
+        <p>busting out, and I quote, "the mad</p>
+        <p>stunts all wicked up-ins"?</p>
+
+        <p>Know what I'm saying, Bro-Yo Ma? I</p>
+        <p>didn't actually play this game, but I gave</p>
+        <p>it 1.5 hats out of 5 hats to keep it real. </p>
+
+        <p>At this point I'd like to give a shout out</p>
+        <p>to my boy Dennis who was over the</p>
+        <p>other day. We were going to chill in front</p>
+        <p>of The Dark Knight and he was so</p>
+        <p>psyched of it y'all.</p>
+
+        <p>So this one time he was</p>
+        <p>leaning against the screen</p>
+        <p>door and the shit popped</p>
+        <p>open, and the back deck</p>
+        <p>was wet and he slipped</p>
+        <p>down the steps and broke</p>
+        <p>his thumb on the lawn. It</p>
+        <p>wasn't a long fall, but hey I</p>
+        <p>guess a thumb bone wasn't</p>
+        <p>made for supporting the</p>
+        <p>brunt of a huge useless tool</p>
+        <p>against wet grass. We never did watch</p>
+        <p>Dark Knight on account of Ron truck-</p>
+        <p>ing his bawling candy-ass girth to the</p>
+        <p>hospital. </p>
+
+        <p>But it's cool, I still got another watch</p>
+        <p>in me, Brotel Rwanda.</p>
+
+        <p>BRO-NOTES :</p>
+        <p>Dennis was so</p>
+        <p>wasted, ha ha. I</p>
+        <p>mean damn.</p>
+
+        <p>Rating for : SBURB</p>
+        <p>[**] [* ] [ ] [ ] [ ]</p>
+    </entry>
+    <entry>
+        <command>John: Captchalogue GameBro.</command>
+        <date>17/04/09</date>
+        <p>It might come in handy if you ever need something that burns easily.</p>
+    </entry>
+    <entry>
+        <command>John: Captchalogue magician's hat.</command>
+        <date>18/04/09</date>
+        <p>You expend your final card on the MAGICIAN'S HAT.</p>
+    </entry>
+    <entry>
+        <command>John: Get funny glasses too.</command>
+        <date>18/04/09</date>
+        <p>You don't have a free card in your SYLLADEX!</p>
+
+        <p>However, you are able to MERGE the BEAGLE PUSS with the MAGICIAN'S HAT to create a CLEVER
+            DISGUISE.</p>
+    </entry>
+    <entry>
+        <command>John: Wear disguise to fool dad.</command>
+        <date>18/04/09</date>
+        <p>John? Who is this "John" you speak of? You are quite certain there has never been, nor
+            ever will be...</p>
+
+        <p>Yeah, this is a really shitty disguise.</p>
+
+        <p>While you are wearing the items, they remain on the card, but it is temporarily removed
+            from the deck, thus freeing up the cards beneath it.</p>
+    </entry>
+    <entry>
+        <command>John: Leave room.</command>
+        <date>18/04/09</date>
+        <p>You exit into the HALLWAY.</p>
+
+        <p>On one wall hangs a picture of a fella who sure knows how to have a laugh, a man after
+            your own heart. You always thought he looked a lot like Michael Cera. But your DAD
+            swears on the many HALLOWED TOMBS of Egypt that it is not. You're not sure about that
+            though.</p>
+
+        <p>On the other wall is one of your DAD'S stupid clowns. Or HARLEQUINS, as he is quick to
+            correct anyone who would venture such brazen assumption.</p>
+    </entry>
+    <entry>
+        <command>John: Go downstairs.</command>
+        <date>18/04/09</date>
+        <p>The accursed odor of fresh baking wafts into your newfound nostrils. Something is brewing
+            in the KITCHEN. It must be the connivings of your arch nemesis, BETTY CROCKER, and the
+            rich, buttery aroma of her plot stinks to high heaven.</p>
+
+        <p>This mission is going to be more difficult than you imagined.</p>
+    </entry>
+    <entry>
+        <command>John: Admire harlequins.</command>
+        <date>18/04/09</date>
+        <p>You check out the shelves of FANCIFUL HARLEQUINS.</p>
+
+        <p>Look at this fucking garbage. You hate this stuff. Funny is funny, but your DAD sure can
+            be a real cornball.</p>
+
+        <p>Sometimes at night you pray for burglars.</p>
+    </entry>
+    <entry>
+        <command>John: Examine fireplace.</command>
+        <date>18/04/09</date>
+        <p>A bright orange flame flickers in the FIREPLACE. It doesn't matter that it's April and
+            not terribly chilly outside. In a home, a FIREPLACE needs a fire, because that's what
+            FIREPLACE is for. A fire BELONGS in a FIREPLACE, dammit, cata(ptcha)gorically, at all
+            times, without exception.</p>
+
+        <p>As domestic myth of unaccountable origin holds, a home borrows the spirit of the flame
+            for as long as it makes a guest of it, much as the moon takes liberty with the sun's
+            rays.</p>
+
+        <p>"The moon's an arrant thief, and her pale fire she snatches from the sun." -Mark
+            Twain</p>
+
+        <p>You are almost certain Mark Twain said that.</p>
+    </entry>
+    <entry>
+        <command>John: Toss GameBro into fire.</command>
+        <date>18/04/09</date>
+        <p>It doesn't burn as quickly as you hoped.</p>
+
+        <p>Each GAMEBRO MAGAZINE is guaranteed to be printed on 40% recycled asbestos. For big ups
+            to Mother Earth, yo.</p>
+    </entry>
+    <entry>
+        <command>John: Fondly regard cremation.</command>
+        <date>18/04/09</date>
+        <p>You examine the SACRED URN containing your departed NANNA'S ASHES.</p>
+
+        <p>When your father gives her portrait a wistful glance now and then, you can tell it brings
+            back painful memories. A tall bookshelf. A ladder. An unabridged COLONEL SASSACRE'S. </p>
+
+        <p>He never wants to talk about it.</p>
+    </entry>
+    <entry>
+        <command>John: Topple urn.</command>
+        <date>18/04/09</date>
+        <p>You clumsily mishandle the SACRED URN. Ash is everywhere.</p>
+
+        <p>In retrospect, upon mulling cinematic tropes regarding ash-filled urns, this outcome was
+            a virtual certainty.</p>
+
+        <p>You'd probably better clean it up before DAD finds it.</p>
+    </entry>
+    <entry>
+        <command>John: Combine father's pipe with clever disguise.</command>
+        <date>18/04/09</date>
+        <p>You think now would be a good time to beef up your CLEVER DISGUISE.</p>
+    </entry>
+    <entry>
+        <command>John: Examine oversized gift.</command>
+        <date>18/04/09</date>
+        <p>CHAMP.</p>
+
+        <p>YOU CAN DO</p>
+        <p>ANYTHING IF YOU PUT</p>
+        <p>YOUR MIND TO IT.</p>
+
+        <p>I BELIEVE IN YOU.</p>
+        <p>Contemplating what could be inside this package is sort of exciting, but it makes you a
+            little nervous at the same time.</p>
+    </entry>
+    <entry>
+        <command>John: Open large present.</command>
+        <date>18/04/09</date>
+        <p>Oh hell no.</p>
+    </entry>
+    <entry>
+        <command>John: Captchalogue ashes.</command>
+        <date>19/04/09</date>
+        <p>First you prop the HARLEQUIN DOLL up on the couch. Having it in the middle of the floor
+            sprawled out all akimbo like that struck you as unseemly.</p>
+
+        <p>You captchalogue the ASHES to your available card.</p>
+    </entry>
+    <entry>
+        <command>John: Combine ashes with urn.</command>
+        <date>19/04/09</date>
+        <p>You merge the SACRED URN with the ASHES.</p>
+
+        <p>Most of the ASH is back in the URN, but it's a total mess. Really it probably would have
+            been tidier if you just used a broom and dustpan.</p>
+    </entry>
+    <entry>
+        <command>John: Put urn back.</command>
+        <date>19/04/09</date>
+        <p>No one will be the wiser. </p>
+
+        <p>Except maybe for people with eyes.</p>
+    </entry>
+    <entry>
+        <command>John: Go get fake arms again.</command>
+        <date>19/04/09</date>
+        <p>Alert : . . . </p>
+        <p>You just got another BRILLIANT idea for something to do with those pointless arms. You
+            pry them out of the CAKE and captchalogue them.</p>
+
+        <p>Looks like PESTERCHUM is acting up again.</p>
+    </entry>
+    <entry>
+        <command>John: Examine 3rd and 4th walls of room.</command>
+        <date>19/04/09</date>
+    </entry>
+    <entry>
+        <command>John: Check Pesterchum.</command>
+        <date>19/04/09</date>
+        <p>:) tentacleTh...</p>
+        <p>Another one of your chums is messaging you.</p>
+    </entry>
+    <entry>
+        <command>John: Check message.</command>
+        <date>19/04/09</date>
+        <p>:: tentacleTherapist ::</p>
+        <p>PESTERLOG : </p>
+        <p>-- tentacleTherapist [TT] began pestering</p>
+        <p>ectoBiologist [EB] at 16:26 -- </p>
+
+        <p>TT: I understand you have recently come </p>
+        <p>into possession of the beta release of </p>
+        <p>"The Game of the Year", as featured in </p>
+        <p>respectable periodicals such as GameBro </p>
+        <p>Magazine. </p>
+        <p>pesterlog</p>
+        <p>TT: I understand you have recently come into possession of the beta release of "The Game
+            of the Year", as featured in respectable periodicals such as GameBro Magazine.</p>
+        <p>EB: that's an ugly rumor.</p>
+        <p>EB: whoever told you that is a filthy liar.</p>
+        <p>EB: and you should probably stop hitting on him all the time or whatever.</p>
+        <p>TT: I can't control myself. </p>
+        <p>TT: I must have a weakness for insufferable pricks. </p>
+        <p>EB: anyway i still haven't checked the mail, my dad has it.</p>
+        <p>EB: i'm trying to go get it from him, so brb</p>
+        <p>TT: John.</p>
+        <p>EB: what?</p>
+        <p>TT: You're wearing one of your disguises now, aren't you?</p>
+        <p>TT: You are typing to me right now while wearing something ridiculous.</p>
+        <p>EB: no, why would you even think that??</p>
+        <p>EB: that's so stupid.</p>
+        <p>TT: Ok.</p>
+        <p>TT: Why don't you go get the game from your father?</p>
+        <p>EB: alright, wish me luck.</p>
+        <p>EB: oh, btw...</p>
+        <p>EB: jk I was wearing a funny disguise this whole time.</p>
+        <p>EB: gotcha! hehehehe</p>
+        <p>TT: I know, John.</p>
+    </entry>
+    <entry>
+        <command>John: Go back downstairs.</command>
+        <date>19/04/09</date>
+        <p>You can now execute that brilliant idea you had.</p>
+
+        <p>There should be just enough FROSTING on the FAKE ARMS to serve as an adequate
+            adhesive.</p>
+    </entry>
+    <entry>
+        <command>John: Attach arms to doll.</command>
+        <date>19/04/09</date>
+        <p>Hehehehehehehehe.</p>
+
+        <p>You don't care what COLONEL SASSACRE says, that makes it AT LEAST a million percent
+            funnier.</p>
+    </entry>
+    <entry>
+        <command>John: Inspect burnt paper on the floor.</command>
+        <date>20/04/09</date>
+        <p>BROBLERONE</p>
+
+        <p>(ADVERTISEMENT)</p>
+        <p>You put this back in the fire where it belongs.</p>
+    </entry>
+    <entry>
+        <command>John: Throw present wrap in fire.</command>
+        <date>20/04/09</date>
+        <p>As long as you're cleaning up...</p>
+    </entry>
+    <entry>
+        <command>John: Captchalogue doll.</command>
+        <date>20/04/09</date>
+        <p>You can carry hefty items, but that thing is just way too big. Get real!</p>
+
+        <p>Besides, you don't even want it.</p>
+    </entry>
+    <entry>
+        <command>John: Read Colonel Sassacre's text.</command>
+        <date>20/04/09</date>
+        <p>COLONEL</p>
+
+        <p>FROM</p>
+        <p>GEO SOULEGEL(?)</p>
+
+        <p>3? &amp; 40 CENTRE ST, NEW YORK No 2078 INS. $20.00 per 1000 net</p>
+        <p> 5? 5th AVE. CHICAGO, ILL No 2079 OUTS. 0.00 </p>
+
+        <p>ALSO BLANK</p>
+
+        <p>THE CREEPY-CRAWLIES!</p>
+
+        <p>Hell's bells, we are having a mighty</p>
+        <p>sporting time of it!</p>
+
+        <p>Hold fast my intrepid fellow prank-</p>
+        <p>smiths! We've merely nicked the mahogany</p>
+        <p>of our japing chests.</p>
+
+        <p>If I may direct the incisive ogle of of your</p>
+        <p>beagle puss to the wriggling regency of</p>
+        <p>rubber bugs, plastic parasites, squirming</p>
+        <p>serpents, pliable pests, and every such</p>
+        <p>order and phyla of creepy-crawlie!</p>
+
+        <p>Land sakes alive, we are cooking with</p>
+        <p>petrol now!</p>
+
+        <p>In further exhibits we shall dwell on</p>
+        <p>artifice useful to your exploits. Is your</p>
+        <p>pappy's rod and reel handy? What about a</p>
+        <p>bit of iron cord; it shouldn't prove</p>
+        <p>elusive. Bring those wriggling rascals to</p>
+        <p>life, and set the nerves of some old maid</p>
+        <p>to the wreck of Hesperus!</p>
+
+        <p>Do you have a bothersome aunt who never</p>
+        <p>seems troubled to find ways with your</p>
+        <p>sunny afternoon hours? A board, splintery</p>
+        <p>fence - a bucket of whitewash perhaps?</p>
+
+        <p>By gum you'll fix her wagon!</p>
+
+        <p>And what of that tawny gent who puts his</p>
+        <p>lackadaisical lean near the sarsaparilla</p>
+        <p>font? You'll have that listless octoroon</p>
+        <p>find the spring in his step just yet!</p>
+        <p>You thought about consulting the text to determine exactly how hilarious the doll is
+            now.</p>
+
+        <p>But this text is way too big to navigate in a timely fashion. You decide to forget
+            it.</p>
+    </entry>
+    <entry>
+        <command>John: Find dad and retrieve mail.</command>
+        <date>20/04/09</date>
+        <p>The door on the left leads to the KITCHEN, from which the smell of baking wafts -- a
+            powerful aroma which could lift an especially portly hobo off his feet.</p>
+
+        <p>The door on the right leads to the STUDY, where your DAD spends a lot of time. </p>
+
+        <p>He could be in either room. Where will you go?</p>
+    </entry>
+    <entry>
+        <command>John: Go in the study.</command>
+        <date>21/04/09</date>
+        <p>It doesn't look like he's in here right now.</p>
+    </entry>
+    <entry>
+        <command>John: Examine father's desk.</command>
+        <date>21/04/09</date>
+        <p>THE SERIOUS JESTER</p>
+        <p>On the desk is a DECK OF PLAYING CARDS, one of your DAD'S PIPES, the April issue of THE
+            SERIOUS JESTER magazine, and a stray CAPTCHALOGUE CARD.</p>
+
+        <p>There is also a CAN OF PEANUTS on the desk. Ha ha, oh DAD. You won't be falling for THAT
+            one again any time soon.</p>
+
+        <p>A severe peanut allergy is a terrible affliction to cope with.</p>
+    </entry>
+    <entry>
+        <command>John: Upgrade costume with hat from hat rack.</command>
+        <date>21/04/09</date>
+        <p>You swap the MAGICIAN'S HAT with the BOWLER HAT.</p>
+
+        <p>This disguise is somewhat less funny, but A LOT more distinguished looking.</p>
+    </entry>
+    <entry>
+        <command>John: Combine second pipe with clever disguise.</command>
+        <date>21/04/09</date>
+        <p>Your DAD maintains numerous pipes around the household. A father without a pipe is like a
+            strapping roughneck without a toothpick. That is to say, HE IS A RATHER PISS-POOR EXCUSE
+            FOR A ROUGHNECK IF YOU ASK ME.</p>
+
+        <p>You'd rather not take the PIPE, though. The first one tastes bad enough as it is.</p>
+
+        <p>How you suffer for your comedy.</p>
+    </entry>
+    <entry>
+        <command>John: Examine captchalogue card.</command>
+        <date>21/04/09</date>
+        <p>THE </p>
+        <p>SERIOUS</p>
+        <p>JESTER </p>
+        <p>Yes!!! This will be perfect for expanding the space in your SYLLA...</p>
+    </entry>
+    <entry>
+        <command>John: Captchalogue captchalogue card.</command>
+        <date>21/04/09</date>
+        <p>ARGH!!!</p>
+    </entry>
+    <entry>
+        <command>[S] John: Play haunting piano refrain.</command>
+        <date>21/04/09</date>
+        <p>(Pages including sound will be preceded by [S] in the command.)</p>
+    </entry>
+    <entry>
+        <command>John: Play 52 Pick-Up.</command>
+        <date>22/04/09</date>
+        <p>You play the prankster's favorite card game, even though you are alone in the room, thus
+            rendering it an especially foolish version of Solitaire.</p>
+
+        <p>SO STUPID. Look at this mess.</p>
+
+        <p>The peanut gallery over there sure is getting a kick out of it. You are allergic to their
+            scorn.</p>
+    </entry>
+    <entry>
+        <command>John: Attempt to leave the house.</command>
+        <date>22/04/09</date>
+        <p>Hi-C ECTO COOLER</p>
+        <p>You go back into the LIVING ROOM and contemplate checking the mailbox outside. You think
+            perhaps you should exhaust all possibilities before plunging headlong into a DAD
+            encounter.</p>
+
+        <p>Your TELEVISION is currently airing a COMMERCIAL.</p>
+    </entry>
+    <entry>
+        <command>John: Exit.</command>
+        <date>23/04/09</date>
+        <p>You exit the house.</p>
+    </entry>
+    <entry>
+        <command>John: Check mail.</command>
+        <date>23/04/09</date>
+        <p>Predictably, the mailbox is empty. You have already been scooped by your father.</p>
+    </entry>
+    <entry>
+        <command>[S] ==&gt;</command>
+        <date>24/04/09</date>
+        <p>HOMESTUCK</p>
+        <p>The streets are empty. Wind skims the voids keeping neighbors apart, as if grazing the
+            hollow of a cut reed, or say, a plundered mailbox. A familiar note is produced. It's the
+            one Desolation plays to keep its instrument in tune.</p>
+
+        <p>It is your thirteenth birthday, and as with all twelve preceding it, something feels
+            missing from your life. The game presently eluding you is only the latest sleight of
+            hand in the repertoire of an unseen riddler, one to engender a sense not of mirth, but
+            of lack. His coarse schemes are those less of a prankster than a common pickpocket. His
+            riddle is Absence itself. It is a mystery dispersing altogether, like the moon's faint
+            reflection, with even one pebble of inquiry dropped in its black well. It is the most
+            diabolical riddle of all.</p>
+
+        <p>"Absence diminishes little passions and increases great ones, as wind extinguishes
+            candles and fans a fire." -Walt Whitman</p>
+
+        <p>Yes, you are certain Walt Whitman said that. One hundred percent positive.</p>
+
+        <p>You have a feeling it's going to be a long day.</p>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>24/04/09</date>
+    </entry>
+    <entry>
+        <command>John: Leave a surprise for the mailman.</command>
+        <date>24/04/09</date>
+        <p>N...</p>
+
+        <p>No!</p>
+    </entry>
+    <entry>
+        <command>John: See if your father left the mail in the car.</command>
+        <date>24/04/09</date>
+        <p>The door is locked and your DAD has the CAR KEYS. You peer in through the driver's side
+            window.</p>
+
+        <p>You don't see any mail, but you do see a GREEN PACKAGE. There is also something
+            underneath it that looks like a slip of paper. </p>
+
+        <p>Could these items have come in the mail? You don't see anything else that's usually in
+            the mail, like bills and coupons. Maybe your DAD forgot to take this stuff inside.</p>
+    </entry>
+    <entry>
+        <command>John: Spy in the kitchen.</command>
+        <date>24/04/09</date>
+        <p>You try to get a gander through the KITCHEN WINDOW, but you can't see a whole lot! It
+            seems your DAD has been doing so much baking, the glass has steamed up.</p>
+
+        <p>God he is so weird.</p>
+
+        <p>But you can see what's on the table just beside the window. It looks like the mail is
+            there! Included among it is a RED PACKAGE, some BILLS, your DAD'S PDA, and an envelope
+            that appears to be suspiciously labeled with the SBURB LOGO. Could it be???</p>
+
+        <p>Unfortunately, the window is locked.</p>
+    </entry>
+    <entry>
+        <command>John: Go back into the kitchen.</command>
+        <date>24/04/09</date>
+        <p>You have no other choice. You are going in. </p>
+
+        <p>CLEVER DISGUISE, it's time to work your magic.</p>
+    </entry>
+    <entry>
+        <command>[S] John: Enter.</command>
+        <date>27/04/09</date>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>27/04/09</date>
+        <p>JOHN: !</p>
+        <p>Your DAD sees right through your costume! You don't know what you were even thinking with
+            this foolish ruse!!!</p>
+
+        <p>You unequip the CLEVER DISGUISE. Your DAD wields a dreaded ARTIFACT OF CONFECTION. He
+            stands between you and the mail.</p>
+
+        <p>There is only one way to settle this.</p>
+    </entry>
+    <entry>
+        <command>[S] STRIFE!</command>
+        <date>28/04/09</date>
+        <p>STRIFE!</p>
+
+        <p>&gt; AGGRIEVE:</p>
+        <p>AUTO-PASTRY!</p>
+
+        <p>&gt; ABJURE:</p>
+        <p>GUARDIAN RUBRIC: CODDLEBRAND</p>
+        <p>DOTESMITE!</p>
+    </entry>
+    <entry>
+        <command>John: Retrieve the package and flee to your room!</command>
+        <date>29/04/09</date>
+        <p>&gt; ABSCOND</p>
+        <p>You cannot ABSCOND! This pesky GUARDIAN is blocking your path! You will need to engineer
+            some sort of distraction.</p>
+
+        <p>And now he brandishes yet another ARTIFACT OF CONFECTION! The man is ruthless. </p>
+
+        <p>You'd better brace for impact in the most comedically striking fashion possible.</p>
+    </entry>
+    <entry>
+        <command>John: Equip disguise for defense.</command>
+        <date>29/04/09</date>
+        <p>BEAGLE AEGIS</p>
+        <p>The BEAGLE AEGIS absorbs the brunt of the treat. Looks like DAD will enjoy the
+            prankster's gambit on that exchange, as is usually the case.</p>
+    </entry>
+    <entry>
+        <command>John: Captachalogue pie tin.</command>
+        <date>29/04/09</date>
+        <p>You take PIE TIN and unequip the BEAGLE PUSS.</p>
+
+        <p>Everything in your SYLLADEX is pushed back a card. The SMOKE PELLETS are ejected from the
+            deck.</p>
+
+        <p>Yes! This could be just the distraction you were...</p>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>29/04/09</date>
+        <p>Nothing happens.</p>
+
+        <p>What a huge letdown.</p>
+    </entry>
+    <entry>
+        <command>John: Take the cake!</command>
+        <date>29/04/09</date>
+        <p> &gt; AGGRIEVE</p>
+        <p> &gt; ABJURE </p>
+        <p>[&gt; ACCEDE] </p>
+        <p> &gt; ABSCOND </p>
+        <p>"When two great forces oppose each other, the victory will go to the one that knows how
+            to yield." -Oscar Wilde</p>
+
+        <p>Wise words by a man who likely could resist everything but temptation.</p>
+
+        <p>The CAKE forces COLONEL SASSACRE'S TEXT out of your SYLLADEX.</p>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>29/04/09</date>
+        <p>Sassacre you beautiful bastard. </p>
+
+        <p>Now's your chance!!!</p>
+    </entry>
+    <entry>
+        <command>John: Abscond.</command>
+        <date>30/04/09</date>
+        <p>Now that DAD is busy placating the SMOKE DETECTOR, you can safely sneak away.</p>
+    </entry>
+    <entry>
+        <command>John: Take PDA.</command>
+        <date>30/04/09</date>
+        <p>You snag your DAD'S PDA. Maybe later you'll switch the background image to something
+            hilarious as a prank. Besides, it may come in handy later.</p>
+
+        <p>Your spare CAPTCHALOGUE CARD is forced out of the SYLLADEX, and consequently integrated
+            with the deck. You now have five cards to work with.</p>
+    </entry>
+    <entry>
+        <command>John: Take package.</command>
+        <date>30/04/09</date>
+        <p>This RED PACKAGE is addressed to you.</p>
+    </entry>
+    <entry>
+        <command>John: Take envelope.</command>
+        <date>30/04/09</date>
+        <p>You got the SBURB BETA!!!</p>
+    </entry>
+    <entry>
+        <command>John: Exit kitchen.</command>
+        <date>30/04/09</date>
+    </entry>
+    <entry>
+        <command>John: Get cake on couch.</command>
+        <date>01/05/09</date>
+        <p>You captchalogue the CAKE on the couch, expelling the PIE TIN from the bottom card.</p>
+    </entry>
+    <entry>
+        <command>John: Combine the cakes to make a double decker cake.</command>
+        <date>01/05/09</date>
+        <p>You then merge the two CAKES across all five cards.</p>
+
+        <p>Everything in your SYLLADEX is smushed between the CAKES. Why don't you think these
+            things through first??</p>
+    </entry>
+    <entry>
+        <command>John: Retreat upstairs!</command>
+        <date>02/05/09</date>
+        <p>You pause at the juncture and head down the hall. You are going to need something to
+            clean up the mess you are about to make by dissecting this CAKE.</p>
+
+        <p>To the left is the BATHROOM. To the right is your DAD'S ROOM. It is locked, and you are
+            forbidden from ever entering. He has secrets.</p>
+    </entry>
+    <entry>
+        <command>John: Go to bathroom and grab a towel.</command>
+        <date>02/05/09</date>
+        <p>You enter the BATHROOM. You can see your BACK YARD from the window. The jewel in its
+            crown is the SWING SET which has provided you with years of joy. There is also a
+            SPRING-MOUNTED POGO-RIDE, which has been responsible for more than one painful injury,
+            and has provided you with years of lament.</p>
+
+        <p>On the sink is your DAD'S RAZOR. On the rack to the side is a FRESH TOWEL.</p>
+    </entry>
+    <entry>
+        <command>John: Remove PDA, envelope and package from cake.</command>
+        <date>02/05/09</date>
+        <p>You take the RAZOR and use it to perform surgery on the CAKE.</p>
+
+        <p>You take the TOWEL and clean off the extracted goods.</p>
+    </entry>
+    <entry>
+        <command>John: Retrieve your items.</command>
+        <date>02/05/09</date>
+        <p>The items force the MANHANDLED CAKE into the TOILET.</p>
+
+        <p>And just like that, your SYLLADEX is full again. God this thing is annoying.</p>
+    </entry>
+    <entry>
+        <command>John: Go to bedroom.</command>
+        <date>02/05/09</date>
+        <p>Alert : . . . </p>
+        <p>Alert : . . . </p>
+    </entry>
+    <entry>
+        <command>John: Admire "Failure to Launch" poster.</command>
+        <date>03/05/09</date>
+        <p>Jodie Fo...</p>
+        <p>Matthew McConaug...</p>
+
+        <p>A TIME TO KILL</p>
+
+        <p>matthew mcconaughey</p>
+        <p>sarah jessica parker</p>
+        <p>failure to launch</p>
+        <p>You're not usually into chick-flicks, but Matthew McConaughey's cool charisma could
+            salvage any heap of smoldering wreckage. </p>
+
+        <p>This is your "McConaughey Wall", a casual shrine to an amazing actor. The film above that
+            one is a lot better, you think.</p>
+
+        <p>CAN YOU SEE HER? I WANT YOU TO PICTURE THAT LITTLE GIRL. [chokes up] NOW IMAGINE SHE'S
+            WHITE. </p>
+
+        <p>You got us Matthew! Your smooth talking exposed our latent racism! Damn you are good!</p>
+    </entry>
+    <entry>
+        <command>[S] John: Check Pesterchum.</command>
+        <date>03/05/09</date>
+        <p>:) gardenGno...</p>
+        <p>:) turntechGo...</p>
+        <p>pesterlog</p>
+        <p>-- gardenGnostic [GG] began pestering ectoBiologist [EB] at 16:34 --</p>
+
+        <p>GG: hi happy birthday john!!!!! &lt;3</p>
+        <p>GG: helloooooo??</p>
+        <p>GG: ok i will talk to you later!!! :D</p>
+
+        <p>-- gardenGnostic [GG] ceased pestering ectoBiologist [EB] at 16:56 --</p>
+
+        <p>-- turntechGodhead [TG] began pestering ectoBiologist [EB] at 16:40 --</p>
+
+        <p>TG: hey GG is looking for you why are you even so popular all of a sudden</p>
+        <p>TG: is today some sort of special occasion or something</p>
+        <p>TG: did you do something to curry favor with ladies</p>
+        <p>TG: did you break your leg on a puppy or some shit</p>
+        <p>TG: dude what are you doing</p>
+        <p>-- turntechGodhead [TG] is now an idle chum! --</p>
+        <p>EB: i discovered a comet that is going to destroy the earth, and it was named after me. </p>
+        <p>EB: now i am famous, and everyone wants to talk to me a lot.</p>
+        <p>TG: no stop</p>
+        <p>TG: just no</p>
+        <p>TG: dont talk about your awful stupid movies or make references to them</p>
+        <p>TG: your gross man-bro crush on matt macconahay is an unsavory thing to behold </p>
+        <p>EB: mcconaughey.</p>
+        <p>TG: sounds like a noise a horse would make </p>
+        <p>TG: ie dumb</p>
+        <p>TG: equally dumb are all those pictures of that clown youve got hanging up</p>
+        <p>EB: those are my dad's.</p>
+        <p>TG: i was talking about nick cage</p>
+        <p>EB: oh, what?! no man, cage is sweet. so sweet.</p>
+        <p>TG: ha ha so lame</p>
+        <p>TG: you dont even like him ironically or anything this is like for real isnt it</p>
+        <p>TG: hahaha</p>
+        <p>EB: i do things ironically sometimes.</p>
+        <p>EB: what about what i sent you for your birthday?</p>
+        <p>TG: no those are awesome</p>
+        <p>EB: what? no, they're stupid, which was the joke. the IRONIC joke. get it?</p>
+        <p>EB: wait...</p>
+        <p>EB: you're actually wearing them, aren't you?</p>
+        <p>TG: im wearing them ironically</p>
+        <p>TG: because theyre awesome</p>
+        <p>TG: the fact that theyre ironic makes them awesome</p>
+        <p>TG: and vice versa</p>
+        <p>TG: are you taking notes on how to be cool?? jesus get a fucking pen</p>
+        <p>EB: you do realize they touched stiller's weird, sort of gaunt face at some point.</p>
+        <p>TG: ew yeah</p>
+        <p>TG: oh well</p>
+        <p>TG: anyway speaking of which</p>
+        <p>TG: did you get the mail</p>
+        <p>EB: yeah.</p>
+        <p>TG: did there happen to be a package there</p>
+        <p>EB: yeah, there's a big red one.</p>
+        <p>TG: you should probably open it</p>
+        <p>EB: i would, but it's trapped under the sburb beta, so i will probably open it after i
+            install the beta.</p>
+        <p>TG: oh man the beta came</p>
+        <p>EB: yeah! wanna play it?</p>
+        <p>TG: haha no way</p>
+        <p>EB: why not!</p>
+        <p>TG: it sounds so HELLS of boring just get TT to play it she is all about that</p>
+        <p>EB: where'd she go.</p>
+        <p>TG: her internet is blinking in and out i guess</p>
+        <p>TG: probably be back online soon</p>
+        <p>TG: oh and christ in a sidecar are you still using the stack modus???</p>
+        <p>TG: seriously dude</p>
+        <p>TG: you need to BONE UP on your data structures that shit is just ridiculous</p>
+        <p>EB: ok, i will.</p>
+    </entry>
+    <entry>
+        <command>John: Open browser and go to mspaintadventures.com</command>
+        <date>04/05/09</date>
+        <p>TYPHEUS</p>
+        <p>BOOKMARKS &gt;</p>
+        <p>ADDRESS : http://www.mspaintadventures.com</p>
+        <p>GO!</p>
+
+        <p>MS</p>
+        <p>MAP | LOG | SEARCH | FAQ || SAVE | LOAD || SHOP | EXTRAS || FORUMS | CONTACT | ANDREW</p>
+
+        <p>MSPAINT ADVENTURES</p>
+        <p>You decide to space out on the computer for a while before doing anything important.</p>
+
+        <p>You open the TYPHEUS web browser and direct it to what is indisputably the most amazing
+            website ever created.</p>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>04/05/09</date>
+        <p>ADDRESS : http://www.mspaintadventures.com?s=3</p>
+
+        <p>MSPAINT ADVENTURES</p>
+
+        <p>Midnight Crew</p>
+
+        <p>You are members of a sinister gang called the Midnight Crew. Your nefarious plots are
+            serpentine in their complexity. Your schemes, convoluted. You are planning a heist in
+            your underground hideout.</p>
+
+        <p>What will you do?</p>
+        <p>The new adventure is ok, but you're not sure if you like it as much as the last one.</p>
+    </entry>
+    <entry>
+        <command>John: Install the Sburb beta.</command>
+        <date>05/05/09</date>
+        <p>You decide it's time for less meta, and more beta.</p>
+
+        <p>You insert the CD and install the SBURB BETA.</p>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>05/05/09</date>
+        <p>SBURB CLIENT</p>
+
+        <p>SBURB version 0.0.1</p>
+
+        <p> SKAIANET SYSTEM INCORPORATED. ALL RIGHTS RESERVED.</p>
+
+        <p>SBURB client is running.</p>
+
+        <p>Waiting for server to establish connection...</p>
+        <p>What the fuck is this.</p>
+    </entry>
+    <entry>
+        <command>John: Bone up on data structures.</command>
+        <date>05/05/09</date>
+        <p>- DATA STRUCTURES</p>
+        <p>- discrete mathematics</p>
+        <p>- ^CAKE</p>
+        <p>- ~ath</p>
+        <p>- DIS*</p>
+        <p>- AUTOMATA</p>
+        <p>You go to your CLOSET, where you keep a lot of clothes and an array of handy COMPUTER
+            PROGRAMMING GUIDES.</p>
+    </entry>
+    <entry>
+        <command>John: Read Data Structures book.</command>
+        <date>05/05/09</date>
+        <p>"I think my rage just crapped its pants" -FUNNYUNCLE</p>
+
+        <p>DATA STRUCTURES for ASSHOLES</p>
+        <p>By Buckminster Funnyuncle</p>
+
+        <p>Your ignorance just made me throw up a little. Get a clue, you computer-illiterate piece
+            of shit.</p>
+
+        <p>FREE FETCH MODUS IN BACK!!!</p>
+        <p>You're not sure you really want to dig into this huge tome. It looks really boring. And
+            kind of ornery.</p>
+
+        <p>Maybe you'll just check out that free modus instead.</p>
+    </entry>
+    <entry>
+        <command>John: Get free Fetch Modus.</command>
+        <date>05/05/09</date>
+        <p>fetch modus</p>
+        <p>FIFO</p>
+        <p>queue</p>
+        <p>You turn to the back inside cover, where a free FETCH MODUS is included in a plastic
+            sleeve.</p>
+
+        <p>This one is dictated by the logic of a QUEUE DATA STRUCTURE, operating on a "First In,
+            First Out" method, rather than a "First In, Last Out" method of a STACK.</p>
+    </entry>
+    <entry>
+        <command>John: Apply Fetch Modus to Sylladex.</command>
+        <date>05/05/09</date>
+        <p>Items captchalogued in your SYLLADEX are no longer immediately accessible. You can only
+            use the item on the bottom card, and must wait for items on upper cards to be pushed
+            back to it.</p>
+
+        <p>For instance, the RED PACKAGE is now inaccessible. You can only use the RAZOR at the
+            moment.</p>
+
+        <p>This modus doesn't strike you as a significant upgrade to your previous one. In fact, it
+            almost seems more inconvenient. You figure you might as well give it a chance
+            though.</p>
+    </entry>
+    <entry>
+        <command>John: Switch back to Stack Modus.</command>
+        <date>06/05/09</date>
+        <p>? fetch modus ?</p>
+        <p>FILO</p>
+        <p>stack ?</p>
+        <p>You suddenly wonder if this is even possible. You don't even remember if you ever had a
+            physical card for the STACK MODUS.</p>
+
+        <p>You find this all to be a little abstract and you'd prefer not to think about it too
+            much.</p>
+    </entry>
+    <entry>
+        <command>John: Put down razor.</command>
+        <date>06/05/09</date>
+        <p>Put it...</p>
+
+        <p>Down?</p>
+
+        <p>...</p>
+
+        <p>You're not quite sure you understand.</p>
+    </entry>
+    <entry>
+        <command>John: Pick up two items.</command>
+        <date>06/05/09</date>
+        <p>You captchalogue one of the CAKES.</p>
+
+        <p>You've finally found a use for all these loitering pastries: DEAD WEIGHT.</p>
+    </entry>
+    <entry>
+        <command>John: Get other cake.</command>
+        <date>06/05/09</date>
+        <p>matthew mcconaughey</p>
+        <p>sarah jessica parker</p>
+        <p>failure to launch</p>
+        <p>The second CAKE causes the RAZOR to launch out the front of your SYLLADEX.</p>
+
+        <p>Oh good lord. </p>
+
+        <p>THAT BEAUTIFUL FACE.</p>
+
+        <p>You wish the RAZOR would have failed to launch.</p>
+    </entry>
+    <entry>
+        <command>John: Get more stuff.</command>
+        <date>06/05/09</date>
+        <p>You open your MAGIC CHEST and captchalogue one of your favorite books of all time, WISE
+            GUY BY MIKE CAVENEY.</p>
+
+        <p>There goes the FRESH TOWEL.</p>
+    </entry>
+    <entry>
+        <command>John: Might as well grab those cuffs.</command>
+        <date>06/05/09</date>
+        <p>You take the TRICK HANDCUFFS, expelling the PDA like a bullet.</p>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>06/05/09</date>
+        <p>Oh God dammit.</p>
+    </entry>
+    <entry>
+        <command>John: Open up that package!</command>
+        <date>07/05/09</date>
+        <p>TO : EB </p>
+        <p>FROM : TG</p>
+        <p>You examine the package. It is from one of your internet chums.</p>
+
+        <p>It's bound in packing tape though. You'll need something sharp to open it. </p>
+
+        <p>Ah, of course! The RAZOR! It's all so simple, you wonder why you didn't...</p>
+    </entry>
+    <entry>
+        <command>John: Get razor.</command>
+        <date>07/05/09</date>
+        <p>BONK</p>
+    </entry>
+    <entry>
+        <command>John: Pick up package again.</command>
+        <date>07/05/09</date>
+        <p>Let's take this from the top.</p>
+    </entry>
+    <entry>
+        <command>John: Captchalogue glass shards.</command>
+        <date>07/05/09</date>
+        <p>CRASH</p>
+        <p>You take three GLASS SHARDS in quick succession and duck for cover.</p>
+
+        <p>Your SYLLADEX rains devastation on your room from above.</p>
+
+        <p>And now that your cards are packed with glass, you probably don't want to do that again
+            any time soon.</p>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>07/05/09</date>
+        <p>You should probably go get that stuff before you forget.</p>
+    </entry>
+    <entry>
+        <command>John: Use the razor on the red package.</command>
+        <date>08/05/09</date>
+        <p>You open the package. There is something suspicious inside. </p>
+
+        <p>Something suspiciously dirty and smelly.</p>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>08/05/09</date>
+        <p>It is a STUFFED BUNNY. Much like the one held hostage briefly by Malkovich's Cyrus "The
+            Virus" while taunting hard-luck protagonist Cameron Poe. And strikingly similar to the
+            one scooped up from the soot of a burning Vegas strip by Cage's Poe and offered to his
+            daughter, a gesture symbolic of a tattered exterior surrounding a heart of gold. Poe
+            wasn't much to look at. But he was a good man.</p>
+
+        <p>But no, it is not merely LIKE that bunny. According to this NOTE OF AUTHENTICITY, it is
+            the VERY SAME BUNNY.</p>
+
+        <p>This is so awesome.</p>
+    </entry>
+    <entry>
+        <command>John: Check status of Sburb beta.</command>
+        <date>08/05/09</date>
+        <p>Alert : . . . </p>
+        <p>Alert : (Sburb-logo)</p>
+        <p>It looks like your computer is trying to get your attention.</p>
+    </entry>
+    <entry>
+        <command>John: Look at monitor.</command>
+        <date>09/05/09</date>
+        <p>SBURB CLIENT</p>
+
+        <p>SBURB version 0.0.1</p>
+
+        <p>(c) SKAIANET SYSTEMS INCORPORATED. ALL RIGHTS RESERVED.</p>
+
+        <p>SBURB client is running.</p>
+
+        <p>A SBURB host user is attempting to connect with you.</p>
+
+        <p>Client has established connection with host.</p>
+
+        <p>Press [ENTER] when ready.</p>
+
+        <p>&gt; _</p>
+
+        <p>[:) tentacleT...]</p>
+    </entry>
+    <entry>
+        <command>John: Check Pesterchum window.</command>
+        <date>09/05/09</date>
+        <p>::tentacleTherapist::</p>
+
+        <p>PESTERLOG</p>
+
+        <p>-- tentacleTherapist [TT] began pestering ectoBiologist [EB] at 17:08 --</p>
+
+        <p>TT: It looks like you managed to retrieve the beta. Excellent.</p>
+        <p>TT: I'm going to try to connect.</p>
+        <p>pesterlog</p>
+        <p>-- tentacleTherapist [TT] began pestering ectoBiologist [EB] at 17:08 --</p>
+
+        <p>TT: It looks like you managed to retrieve the beta. Excellent.</p>
+        <p>TT: I'm going to try to connect.</p>
+        <p>EB: whoa ok but i just got the most awesome present.</p>
+        <p>TT: The rabbit?</p>
+        <p>EB: SO SWEET.</p>
+        <p>TT: I've heard tales of this wretched creature often. Its Homeric legend is practically
+            ensconced in the fold of my personal mythology by now.</p>
+        <p>EB: ha ha, what?</p>
+        <p>TT: Why don't we focus on the matter at hand?</p>
+        <p>EB: oh the game, ok.</p>
+        <p>EB: i don't really know how this works. what am i even looking at here?</p>
+        <p>TT: You are running the client application. I am running the server, so I am the host
+            user. I have established a connection with you. This is sufficient for us to play the
+            game.</p>
+        <p>EB: oh, ok then.</p>
+        <p>TT: Why don't we get started?</p>
+    </entry>
+    <entry>
+        <command>John: Press [ENTER]</command>
+        <date>09/05/09</date>
+    </entry>
+    <entry>
+        <command>[S] ==&gt;</command>
+        <date>09/05/09</date>
+
+        <p>* Derived from a transcript by ShadowOfFate</p>
+
+        <p>Transforming Soffits</p>
+        <p>Reorganizing Keys</p>
+        <p>Formalizing Immersion Joints</p>
+        <p>Justifying Kick Extractors</p>
+        <p>Advising Aggregates</p>
+        <p>Managing Elbows</p>
+        <p>Recasting Connectors</p>
+        <p>Achieving Aluminum Trowels</p>
+        <p>Officiating Disks</p>
+        <p>Exhibiting Absolute Spigots</p>
+        <p>Progressing Coil Hydrants</p>
+        <p>Jerry-building Reflectors</p>
+        <p>Informing Casters</p>
+        <p>Inventing Rubber Hoists</p>
+        <p>Performing Wrenches</p>
+        <p>Judging Chalk Adapters</p>
+        <p>Upgrading Ignition Paths</p>
+        <p>Regrowing Flashing</p>
+        <p>Recommending Ratchets</p>
+        <p>Approving Barriers</p>
+        <p>Sweeping Impact Fillers</p>
+        <p>Sewing Mirrors</p>
+        <p>Detailing Collectors</p>
+        <p>Enforcing Measures</p>
+        <p>Distributing Systems</p>
+        <p>Presenting Plugs</p>
+        <p>Interwinding Registers</p>
+        <p>Piloting Ash Diffusers</p>
+        <p>Gathering Cranks</p>
+        <p>Supplying Eave Pockets</p>
+        <p>Undertaking Scroll Stops</p>
+        <p>Accelerating Straps</p>
+        <p>Designing Fittings</p>
+        <p>Protecting Diamond Boilers</p>
+        <p>Logging Downspouts</p>
+        <p>Correlating Shingles</p>
+        <p>Uniting Mallets</p>
+        <p>Qualifying Electrostatic Lifts</p>
+        <p>Sharing Clamps</p>
+        <p>Obtaining Circular Fluids</p>
+        <p>Ranking Foundation Gauges</p>
+        <p>Sensing Miter Brackets</p>
+        <p>Originating Space Networks</p>
+        <p>Translating Drills</p>
+        <p>Regulating Guards</p>
+        <p>Selecting Gable Padding</p>
+        <p>Utilizing Pellet Dowels</p>
+        <p>Reconciling Artifacts</p>
+        <p>Altering Pulleys</p>
+        <p>Shedding Space Filters</p>
+        <p>Determining Vents</p>
+        <p>Representing Mortar</p>
+        <p>Remaking Flash Rakers</p>
+        <p>Supporting Funnels</p>
+        <p>Typecasting Rotary Chocks</p>
+        <p>Expressing Junctures</p>
+        <p>Resetting Auxiliary Vises</p>
+        <p>Professing Strip Treads</p>
+        <p>Inlaying Matter Trowels</p>
+        <p>Questioning Drivers</p>
+        <p>Forming Edge Fittings</p>
+        <p>Sketching Blanks</p>
+        <p>Overshooting Spark Breakers</p>
+        <p>Rewriting Controls</p>
+        <p>Playing Tunnels</p>
+        <p>Inventorying Buttons</p>
+        <p>Enduring Joist Handles</p>
+        <p>Effecting Ratchet Bibbs</p>
+        <p>Unwinding Couplings</p>
+        <p>Forsaking Vapor Conduits</p>
+        <p>Defining Sockets</p>
+        <p>Calculating Heaters</p>
+        <p>Raising Grids</p>
+        <p>Administering Tiles</p>
+        <p>Measuring Resources</p>
+        <p>Installing Ignition Remotes</p>
+        <p>Extracting Corners</p>
+        <p>Manufacturing Ventilators</p>
+        <p>Delegating Consoles</p>
+        <p>Treating Mounting Stones</p>
+        <p>Enacting Jig Deflectors</p>
+        <p>Intensifying Alleys</p>
+        <p>Improvising Cargo</p>
+        <p>Pinpointing Bobs</p>
+        <p>Prescribing Arc Masonry</p>
+        <p>Structuring Metal Chucks</p>
+        <p>Symbolizing Lathes</p>
+        <p>Activating Plumb Kits</p>
+        <p>Adapting Coatings</p>
+        <p>Fixing Channels</p>
+        <p>Expediting Cordage</p>
+        <p>Planning Compressors</p>
+        <p>Enlisting Hangers</p>
+        <p>Restructuring Keyhole Augers</p>
+        <p>Shearing Ridge Hardware</p>
+        <p>Collecting Reciprocating Bolts</p>
+        <p>Maintaining Corrugated Dimmers</p>
+        <p>Whetting Hole Collars</p>
+        <p>Conducting Mandrels</p>
+        <p>Comparing Assets</p>
+        <p>Compiling Sealants</p>
+        <p>Completing Paths</p>
+        <p>Composing Equivocation Wheels</p>
+        <p>Computing Dampers</p>
+        <p>Conceiving Electrostatic Treatment</p>
+        <p>Ordering Cotter Grates</p>
+        <p>Organizing Ties</p>
+        <p>Orienting Ladders</p>
+        <p>Exceeding Materials</p>
+        <p>Targeting Thermocouples</p>
+        <p>Demonstrating Emery Stock</p>
+        <p>Expanding Latch Bases</p>
+        <p>Training Wardrobe Adhesives</p>
+        <p>Overcomming Fasteners</p>
+        <p>Streamlining Storm Anchors</p>
+        <p>Navigating Springs</p>
+        <p>Perfecting Turnbuckles</p>
+        <p>Verifying Gate Pegs</p>
+        <p>Arbitrating Arithmetic Lifts</p>
+        <p>Negotiating Outlets</p>
+        <p>Normalizing Strips</p>
+        <p>Building Surface Foggers</p>
+        <p>Checking Key Torches</p>
+        <p>Knitting Grinders</p>
+        <p>Mowing Planers</p>
+        <p>Offsetting Stencils</p>
+        <p>Acquiring Bulbs</p>
+        <p>Adopting Rivets</p>
+        <p>Observing Avenues</p>
+        <p>Ascertaining Coaxial Grommets</p>
+        <p>Slinging Wing Winches</p>
+        <p>Instituting Circuit Generators</p>
+        <p>Instructing Wicks</p>
+        <p>Integrating Pry Shutters</p>
+        <p>Interpreting Immersion Lumber</p>
+        <p>Clarifying Coils</p>
+        <p>Classifying Wood Bits</p>
+        <p>Closing Cogs</p>
+        <p>Cataloging Matter Strips</p>
+        <p>Charting Holders</p>
+        <p>Conceptualizing Push Terminals</p>
+        <p>Stimulating Supports</p>
+        <p>Overthrowing Shaft Spacers</p>
+        <p>Quick-freezing Connectors</p>
+        <p>Unbinding Ground Hooks</p>
+        <p>Analyzing Eyes</p>
+        <p>Anticipating Gateways</p>
+        <p>Controlling Proposition Rollers</p>
+        <p>Converting Power Angles</p>
+        <p>Coordinating Staples</p>
+        <p>Correcting Benders</p>
+        <p>Counseling Joist Gaskets</p>
+        <p>Recording Gutter Pipes</p>
+        <p>Recruiting Drains</p>
+        <p>Rehabilitating Rafter Tubes</p>
+        <p>Reinforcing Washers</p>
+        <p>Reporting Guard Valves</p>
+        <p>Naming Freize Sprues</p>
+        <p>Nominating Rings</p>
+        <p>Noting Straps</p>
+        <p>Doubling Nailers</p>
+        <p>Drafting Circuit Hoses</p>
+        <p>Dramatizing Flanges</p>
+        <p>Splitting Framing Compounds</p>
+        <p>Refitting Stems</p>
+        <p>Interweaving Patch Unions</p>
+        <p>Placing Sillcocks</p>
+        <p>Sorting Slot Threads</p>
+        <p>Securing Mode Cutters</p>
+        <p>Diverting Catharsis Plates</p>
+        <p>Procuring Load Thresholds</p>
+        <p>Transferring Syllogism Twine</p>
+        <p>Directing Switch Nuts</p>
+        <p>Referring Time Spools</p>
+        <p>Diagnosing Knobs</p>
+        <p>Discovering Locks</p>
+        <p>Dispensing Hinges</p>
+        <p>Displaying Hasps</p>
+        <p>Resending Arc Binders</p>
+        <p>Retreading Grooves</p>
+        <p>Retrofitting Aesthetics Portals</p>
+        <p>Seeking Stocks</p>
+        <p>Shrinking Wormholes</p>
+        <p>Assembling Blocks</p>
+        <p>Assessing Divets</p>
+        <p>Attaining Lug Boxes</p>
+        <p>Auditing Nescience Passages</p>
+        <p>Conserving Strikes</p>
+        <p>Constructing Braces</p>
+        <p>Contracting Saw Catches</p>
+        <p>Serving Instantiation Irons</p>
+        <p>Recognizing Fluxes</p>
+        <p>Consolidating Fuse Calipers</p>
+        <p>Mapping Shims</p>
+        <p>Reviewing Chop Groovers</p>
+        <p>Scheduling Lag Drives</p>
+        <p>Simplifying Hoists</p>
+        <p>Engineering Levels</p>
+        <p>Enhancing Tack Hollows</p>
+        <p>Establishing Finishing Blocks</p>
+        <p>Estimating Adhesives</p>
+        <p>Evaluating Mortar</p>
+        <p>Examining Auto Turnbuckles</p>
+        <p>Processing Foggers</p>
+        <p>Servicing Avenues</p>
+        <p>Transcribing Existence Rivets</p>
+        <p>Revising Consoles</p>
+        <p>Separating Absolute Stencils</p>
+        <p>Budgeting Sheet Grommets</p>
+        <p>Preparing Kits</p>
+        <p>Realigning Cartesian Mandrels</p>
+        <p>Painting Fasteners</p>
+        <p>Filing Grout Hangers</p>
+        <p>Finalizing Atma Augers</p>
+        <p>Formulating Couplings</p>
+        <p>Identifying Sillcocks</p>
+        <p>Imagining Materials</p>
+        <p>Inducing Shutters</p>
+        <p>Influencing Wheels</p>
+        <p>Licensing Chocks</p>
+        <p>Lifting Extrinsic Mallets</p>
+        <p>Overdrawing Ratchets</p>
+        <p>Overlaying Ventilators</p>
+        <p>Overriding Cardinal Soffits</p>
+        <p>Specifying Element Aggregates</p>
+        <p>Systemizing Divets</p>
+        <p>Shaping Pockets</p>
+        <p>Publicizing Aether Remotes</p>
+        <p>Reducing Slot Stops</p>
+        <p>Governing Archetype Dimmers</p>
+        <p>Monitoring Assets</p>
+        <p>Launching Manifestation Systems</p>
+
+        <p>SBURB</p>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>12/05/09</date>
+        <p>Select</p>
+        <p>Revise</p>
+        <p>Deploy</p>
+        <p>Phernalia Registry</p>
+        <p>Grist Cache</p>
+        <p>Explore Atheneum</p>
+        <p>Alchemy Excursus</p>
+        <p>[Mouseover the interface buttons. -AH]</p>
+    </entry>
+    <entry>
+        <command>TT: Select magic chest.</command>
+        <date>12/05/09</date>
+    </entry>
+    <entry>
+        <command>TT: Zoom out.</command>
+        <date>12/05/09</date>
+    </entry>
+    <entry>
+        <command>TT: Drop chest.</command>
+        <date>12/05/09</date>
+        <p>pesterlog</p>
+        <p>EB: whoa, what are you doing??</p>
+        <p>TT: Sorry. I'm just getting a feel for the controls.</p>
+        <p>EB: is my magic chest on the roof now??</p>
+        <p>TT: Yes.</p>
+        <p>EB: :(</p>
+        <p>TT: I will try to be more careful next time.</p>
+    </entry>
+    <entry>
+        <command>John: Get the card.</command>
+        <date>12/05/09</date>
+        <p>You find your missing STACK FETCH MODUS, and quickly reapply it to your SYLLADEX. You can
+            now opt for either the STACK or QUEUE modus any time.</p>
+
+        <p>You toggle between your FETCH MODI with gleeful abandon.</p>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>12/05/09</date>
+        <p>It looks like your DAD is leaving again for more baking supplies. You're relieved to have
+            the house to yourself again, if only for a few minutes.</p>
+
+        <p>You just hope he doesn't notice the MAGIC CHEST on the roof. Or all the shit you threw
+            out the window, for that matter.</p>
+    </entry>
+    <entry>
+        <command>TT: Select stuff in yard and move it back into room.</command>
+        <date>12/05/09</date>
+        <p>pesterlog</p>
+        <p>EB: hey, do you think you could do me a favor?</p>
+        <p>EB: can you grab all that stuff outside my broken window and bring it in for me?</p>
+        <p>TT: I'll give it a shot.</p>
+        <p>EB: thx!</p>
+        <p>TT: No luck.</p>
+        <p>TT: It appears to be out of range. I'm guessing it is too far away from you, the
+            "player".</p>
+        <p>EB: :C</p>
+    </entry>
+    <entry>
+        <command>TT: Select John.</command>
+        <date>12/05/09</date>
+        <p>You cannot select a PLAYER!</p>
+
+        <p>JOHN abjures the meddlesome cursor.</p>
+    </entry>
+    <entry>
+        <command>TT: Select bunny.</command>
+        <date>12/05/09</date>
+    </entry>
+    <entry>
+        <command>TT: Put the bunny back in the box.</command>
+        <date>12/05/09</date>
+    </entry>
+    <entry>
+        <command>TT: Revise room.</command>
+        <date>14/05/09</date>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>14/05/09</date>
+    </entry>
+    <entry>
+        <command>TT: Open Phernalia Registry.</command>
+        <date>14/05/09</date>
+        <p>Cruxtruder</p>
+        <p>Totem Lathe</p>
+        <p>Alchemiter</p>
+    </entry>
+    <entry>
+        <command>TT: Deploy Totem Lathe.</command>
+        <date>14/05/09</date>
+        <p>Totem Lathe</p>
+    </entry>
+    <entry>
+        <command>John: Examine Totem Lathe.</command>
+        <date>14/05/09</date>
+        <p>JOHN: ?</p>
+        <p>You don't know what the heck this thing does, but it looks neat!</p>
+    </entry>
+    <entry>
+        <command>TT: Open Grist Cache</command>
+        <date>14/05/09</date>
+        <p>Cache Limit: 20 =&gt; Build Grist: 16/20</p>
+        <p>pesterlog</p>
+        <p>TT: It seems expanding the dimensions of your room cost us some "Build Grist".</p>
+        <p>TT: But deploying the lathe did not appear to incur any expense.</p>
+        <p>TT: It looks like certain objects are freebies, probably to help you set up the game.</p>
+        <p>EB: wow, ok.</p>
+        <p>EB: what do they do?</p>
+        <p>TT: I think it's up to you to find out.</p>
+        <p>TT: All I can do is drop stuff in your house, and move it around, apparently.</p>
+        <p>EB: how do i move stuff around? it sounds fun!</p>
+        <p>TT: I don't think you can as the client. You will need to install the server
+            application.</p>
+        <p>TT: You should have received both in separate envelopes. I am running both on my computer
+            right now.</p>
+        <p>EB: what??</p>
+        <p>TT: Did you get another envelope in the mail?</p>
+        <p>EB: no!</p>
+        <p>TT: Once you install the server and establish a connection, I'm sure you will be able to
+            manipulate my environment in the same manner.</p>
+        <p>TT: Are you sure you didn't get it?</p>
+        <p>EB: oh man.</p>
+        <p>EB: i think i might know where it is.</p>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>14/05/09</date>
+        <p>pesterlog</p>
+        <p>TT: Now that your room is bigger, why don't you move to the far corner?</p>
+        <p>TT: It will extend the range of the cursor, and I can reach the items.</p>
+        <p>TT: Which... you threw out the window for some reason?</p>
+        <p>EB: good idea!</p>
+        <p>TT: What have you been doing in here all afternoon, anyway?</p>
+        <p>EB: ugh, i was fussing with my retarded sylladex.</p>
+        <p>EB: but i think i have it under control now.</p>
+        <p>EB: what modus do you use?</p>
+        <p>TT: I like to use trees.</p>
+        <p>EB: oh no, that sounds so awkward.</p>
+        <p>TT: It's not exceptionally practical.</p>
+        <p>TT: But I think they are elegant.</p>
+    </entry>
+    <entry>
+        <command>John: Stand in corner.</command>
+        <date>14/05/09</date>
+    </entry>
+    <entry>
+        <command>TT: Deploy Cruxtruder.</command>
+        <date>15/05/09</date>
+        <p>Pre-punched Card</p>
+        <p>Alchemiter</p>
+        <p>Cruxtruder</p>
+    </entry>
+    <entry>
+        <command>TT: Deploy Alchemiter.</command>
+        <date>15/05/09</date>
+        <p>Punch Designix</p>
+        <p>Pre-punched Card</p>
+        <p>Alchemiter</p>
+        <p>pesterlog</p>
+        <p>EB: why is the floor shaking?</p>
+        <p>EB: are you dropping more stuff in my house?</p>
+        <p>TT: Yes. Two more large gizmos.</p>
+        <p>EB: sweet!</p>
+        <p>EB: what is with all these big contraptions?</p>
+        <p>TT: If I had to guess, they appear to facilitate a sort of system involving punch
+            card-based alchemy.</p>
+        <p>EB: huh.</p>
+        <p>EB: to what end?</p>
+        <p>EB: i mean what are we supposed to be doing in this game?</p>
+        <p>TT: That remains to be seen.</p>
+        <p>TT: Maybe you should go investigate?</p>
+    </entry>
+    <entry>
+        <command>John: Get PDA.</command>
+        <date>15/05/09</date>
+        <p>SERIOUS BUSINESS</p>
+
+        <p>The following matters have been submitted in a frank and forthright</p>
+        <p>manner for pipefan413's judicious appraisal.</p>
+
+        <p>f grayslacks66 - 17:24</p>
+
+        <p>Decided to return home for fresh tie. Soiled tie will be laundered</p>
+        <p>immediately upon return</p>
+
+        <p>f wellPressedAttire - 17:23</p>
+
+        <p>Use ballpoint pen to roll up tip of cloth. Extract pen. Press rolled</p>
+        <p>cloth against ceramic surface, e.g. restroom sink. In future: consider</p>
+        <p>repositioning hat hook and/or coffee pot.</p>
+
+        <p>f officeurchin1280 - 17:23</p>
+
+        <p>Photographic documentation of incident?</p>
+
+        <p>f grayslacks66 - 17:22</p>
+
+        <p>Was posturing unevenly to reach for hat on wall hook. Tip of tie</p>
+        <p>slipped in open mouth of pot. Duration of "dunk": approx. 3 seconds.</p>
+
+        <p>f 2busy4this - 17:22</p>
+
+        <p>pl elab on 'incident'</p>
+
+        <p>f grayslacks66 - 17:21</p>
+
+        <p>Need counsel on removing coffee from necktie. Incident occurred 45</p>
+        <p>seconds ago. Beverage essences rapidly settling into fabric.</p>
+
+        <p>[SYSTEM]</p>
+        <p>You grab the PDA, switching back to STACK MODUS so it is readily accessible.</p>
+
+        <p>The interface is oddly sterile. No hilarious clown wallpapers or anything like that.
+            (Oops, you mean harlequin wallpapers.)</p>
+
+        <p>The SERIOUS BUSINESS application is open. It seems your DAD uses it to keep tabs on
+            various acquaintances... his fellow street performers, maybe?</p>
+
+        <p>You guess the performing arts must be pretty serious business after all.</p>
+    </entry>
+    <entry>
+        <command>John: Install Pesterchum.</command>
+        <date>15/05/09</date>
+        <p>PESTERCHUM 6.0</p>
+
+        <p>CHAT CLIENT</p>
+
+        <p>CHUMROLL :</p>
+        <p>- turntableGodhead</p>
+        <p>:) tentacleTherapist</p>
+        <p>- gardenGnostic</p>
+
+        <p>[PESTER!]</p>
+
+        <p>MYCHUMHANDLE :</p>
+        <p>:) ectoBiologist</p>
+
+        <p>MOOD :</p>
+        <p>[:) CHUMMY ] [:) BULLY (check) ]</p>
+        <p>[:) PALSY ] [:) PEPPY ]</p>
+        <p>[:) CHIPPER ] [&gt;:( RANCOROUS ]</p>
+
+        <p>[PESTERCHUM]</p>
+        <p>[SB]</p>
+        <p>[SYSTEM]</p>
+        <p>This should be useful. Now you can keep tabs on your chums while you wander around the
+            house.</p>
+    </entry>
+    <entry>
+        <command>John: Go out to balcony.</command>
+        <date>15/05/09</date>
+        <p>pesterlog</p>
+        <p>EB: hey, i'm out on the balcony now.</p>
+        <p>EB: i am messaging from my dad's pda.</p>
+        <p>TT: The one you threw into the yard?</p>
+        <p>EB: no, i am telling you.</p>
+        <p>EB: it jumped out of my sylladex like a frightened weasel.</p>
+        <p>TT: What were you doing with it in the first place?</p>
+        <p>TT: I am not sensing a lot of regard for the personal property of others.</p>
+        <p>TT: Is this how your pent-up frustration with your father manifests itself?</p>
+        <p>EB: what? no.</p>
+        <p>EB: those were all accidents.</p>
+        <p>EB: please take your psycho-babblery elsewhere, miss!</p>
+        <p>TT: Your bathroom is a mess.</p>
+        <p>TT: Did you do that too?</p>
+        <p>EB: oh man, see this isn't cool.</p>
+        <p>EB: all this snooping nonsense!</p>
+        <p>TT: There's a cake in the toilet.</p>
+        <p>EB: yes. there is.</p>
+        <p>TT: I'm tempted to clean it up for you.</p>
+        <p>EB: ok, if that will satisfy your weird ocd complex then go ahead.</p>
+        <p>TT: My Obsessive-Compulsive Disorder complex?</p>
+        <p>TT: Can a disorder also be a complex?</p>
+        <p>EB: in your case, probably!</p>
+        <p>TT: Sounds complicated.</p>
+        <p>EB: anyway...</p>
+        <p>EB: i am going to have a look at this enormous platformy thing you put on the
+            balcony.</p>
+    </entry>
+    <entry>
+        <command>John: Examine Alchemiter in a cautious manner.</command>
+        <date>15/05/09</date>
+        <p>You have no idea what to do with this thing. You can't find any controls for it.</p>
+
+        <p>Having exhausted all other possibilities, you just decide to stand on it.</p>
+
+        <p>This isn't very cautious of you, actually.</p>
+    </entry>
+    <entry>
+        <command>John: Look through telescope.</command>
+        <date>16/05/09</date>
+        <p>It is a clear, sunny day. Nothing out of the ordinary to report. At least, not beyond the
+            walls of your own home.</p>
+    </entry>
+    <entry>
+        <command>TT: Grab the soiled toilet.</command>
+        <date>16/05/09</date>
+        <p>16/20 =&gt; 14</p>
+        <p>pesterlog</p>
+        <p>TT: Whoops.</p>
+        <p>EB: whoops what?</p>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>16/05/09</date>
+        <p>pesterlog</p>
+        <p>EB: what was that noise?</p>
+        <p>EB: is this something i should go investigate?</p>
+        <p>TT: No, I have it under control.</p>
+        <p>TT: You can keep playing with your telescope.</p>
+    </entry>
+    <entry>
+        <command>John: Investigate.</command>
+        <date>16/05/09</date>
+        <p>pesterlog</p>
+        <p>EB: augh!</p>
+        <p>TT: I think I can patch it up.</p>
+        <p>TT: Just give me a little space.</p>
+        <p>TT: Why don't you go have a look at the Cruxtruder?</p>
+        <p>EB: the what?</p>
+        <p>TT: The thing I put in your living room.</p>
+    </entry>
+    <entry>
+        <command>John: Hop down the hole.</command>
+        <date>17/05/09</date>
+        <p>You jump down to the UTILITY ROOM.</p>
+    </entry>
+    <entry>
+        <command>John: Get sledgehammer and card.</command>
+        <date>17/05/09</date>
+        <p>strife specibus</p>
+
+        <p>sylladex : strife deck</p>
+
+        <p>hammerkind</p>
+        <p>You take the SLEDGEHAMMER and the CAPTCHALOGUE CARD, combine the two, and quickly apply
+            it to your STRIFE SPECIBUS.</p>
+
+        <p>You think it's cool that things don't always have to be a federal fucking issue.</p>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>17/05/09</date>
+        <p>Alert : . . . </p>
+        <p>It looks like another one of your chums is pestering you on your PDA.</p>
+    </entry>
+    <entry>
+        <command>John: Answer chum.</command>
+        <date>17/05/09</date>
+        <p>pesterlog</p>
+        <p>-- gardenGnostic [GG] began pestering ectoBiologist [EB] at 17:25 --</p>
+
+        <p>GG: john did you get my package??</p>
+        <p>EB: oh hey!</p>
+        <p>EB: no, not yet.</p>
+        <p>GG: darn! are you sure? it was in a green box..... </p>
+        <p>EB: oh!</p>
+        <p>EB: yes, but it is in my dad's car and he is still out at the store.</p>
+        <p>EB: he should be back soon.</p>
+        <p>GG: great!!! so what are you up to today?</p>
+        <p>EB: i am up to my neck in this sburb stuff.</p>
+        <p>EB: TT is making a royal mess of my house.</p>
+        <p>GG: lol!</p>
+        <p>GG: whats sburb??</p>
+        <p>EB: oh, it is this game.</p>
+        <p>EB: it's ok i guess. i'm still figuring it out.</p>
+        <p>GG: whoa what was that?????</p>
+        <p>EB: what was what?</p>
+        <p>GG: there was a loud noise outside my house!!</p>
+        <p>GG: it sounded like an explosion!!!!</p>
+        <p>EB: wow, really?</p>
+        <p>GG: i will go outside and look....</p>
+        <p>EB: oh man, alright but be careful, ok?</p>
+        <p>GG: i will! :)</p>
+
+        <p>-- gardenGnostic [GG] ceased pestering ectoBiologist [EB] at 17:28 --</p>
+    </entry>
+    <entry>
+        <command>John: Might as well check out the Cruxtruder.</command>
+        <date>17/05/09</date>
+        <p>pesterlog</p>
+        <p>EB: oh hell no, you put this thing in front of the door?</p>
+        <p>TT: There's a door there?</p>
+        <p>EB: um, YEAH???</p>
+        <p>TT: I didn't see it.</p>
+        <p>TT: I just thought it fit nicely into that groove.</p>
+        <p>EB: you mean you thought it was elegant?</p>
+        <p>EB: ok well what do i do with this thing.</p>
+        <p>EB: hello?</p>
+        <p>EB: what are you doing up there now?</p>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>17/05/09</date>
+        <p>14/20 =&gt; 12</p>
+        <p>pesterlog</p>
+        <p>TT: Oh fuck.</p>
+    </entry>
+    <entry>
+        <command>John: Examine wheel on the Cruxtruder.</command>
+        <date>18/05/09</date>
+        <p>When you turn the wheel, something seems to be pushing up from underneath the lid.</p>
+
+        <p>But you aren't strong enough to make the lid come off!</p>
+    </entry>
+    <entry>
+        <command>TT: Put bathtub in driveway.</command>
+        <date>18/05/09</date>
+        <p>CONNECTION LOST</p>
+        <p>On the tub's journey to the driveway, the connection is interrupted.</p>
+    </entry>
+    <entry>
+        <command>John: Scold TT.</command>
+        <date>18/05/09</date>
+        <p>pesterlog</p>
+        <p>EB: you can see me, right.</p>
+        <p>EB: tell me what is wrong with this picture.</p>
+        <p>TT: Sorry. I keep losing the wireless signal.</p>
+        <p>TT: Must be the weather.</p>
+        <p>TT: I would look for a stronger signal in another part of the house, but I'd rather not
+            risk an encounter with my mother.</p>
+        <p>TT: I battled through her cloud of gin and derision once already this evening.</p>
+        <p>EB: haha, yeah I hear you.</p>
+        <p>TT: Yes. Cake, jesters, unfaltering love and support.</p>
+        <p>TT: Quite a road to hoe there.</p>
+        <p>TT: Though I suppose I'm complicit for not informing Social Services about your
+            situation.</p>
+        <p>EB: i know!</p>
+        <p>EB: what about going outside?</p>
+        <p>EB: maybe you could catch a neighbor's signal.</p>
+        <p>TT: That presents the same problem.</p>
+        <p>TT: Also, it's raining, remember?</p>
+        <p>TT: And dark.</p>
+        <p>EB: It's dark already?</p>
+        <p>TT: Yes, the sun has already had its way with us here on the east coast.</p>
+        <p>TT: Its lurid glare has moved on to younger timezones.</p>
+        <p>EB: haha, um, ok.</p>
+    </entry>
+    <entry>
+        <command>John: Hit Cruxtruder with sledgehammer.</command>
+        <date>18/05/09</date>
+        <p>pesterlog</p>
+        <p>TT: Need some help?</p>
+    </entry>
+    <entry>
+        <command>TT: Pick up sledgehammer.</command>
+        <date>19/05/09</date>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>19/05/09</date>
+        <p>4:13</p>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>19/05/09</date>
+        <p>4:13 =&gt; :12 =&gt; :11 =&gt; :10</p>
+        <p>pesterlog</p>
+        <p>EB: what is this thing?</p>
+        <p>EB: and what is that clock counting down to?</p>
+        <p>TT: I've been looking at the GameFAQ walkthroughs to figure some of this stuff out.</p>
+        <p>TT: Hold while I read further.</p>
+        <p>EB: ok.</p>
+        <p>TT: All of these walkthroughs are extremely short.</p>
+        <p>TT: None progress much further than this point.</p>
+        <p>EB: weird.</p>
+        <p>EB: well, i mean it is a new game.</p>
+        <p>TT: True.</p>
+        <p>TT: Now that the lid is off, you will need to extrude some "Cruxite".</p>
+    </entry>
+    <entry>
+        <command>John: Turn wheel again.</command>
+        <date>19/05/09</date>
+        <p>4:03 =&gt; 4:02 =&gt; 4:01</p>
+        <p>You extrude ONE (1) CRUXITE DOWEL.</p>
+    </entry>
+    <entry>
+        <command>John: Get cruxite.</command>
+        <date>19/05/09</date>
+        <p>pesterlog</p>
+        <p>TT: I feel like we should be hurrying. That countdown is making me nervous.</p>
+        <p>TT: John?</p>
+        <p>TT: Oh. Your PDA is trapped under the cruxite now, isn't it.</p>
+        <p>TT: Anyway, it looks like you are going to need this card too.</p>
+    </entry>
+    <entry>
+        <command>TT: Deploy Pre-punched Card.</command>
+        <date>19/05/09</date>
+        <p>Pre-punched Card</p>
+    </entry>
+    <entry>
+        <command>John: Get card.</command>
+        <date>19/05/09</date>
+        <p>A SHARD OF GLASS is expelled from the deck and maims the HARLEQUIN DOLL.</p>
+    </entry>
+    <entry>
+        <command>John: Captchalogue fanciful harlequins.</command>
+        <date>19/05/09</date>
+        <p>You take TWO (2) FANCIFUL HARLEQUINS.</p>
+
+        <p>The additional useless freight pushes your PDA to the last card. You then switch to the
+            QUEUE MODUS so you can access the PDA.</p>
+
+        <p>More glass shrapnel flies from the deck.</p>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>19/05/09</date>
+        <p>SPRITE: (textures)</p>
+        <p>pesterlog</p>
+        <p>EB: this thing keeps following me around.</p>
+        <p>EB: i think it's trying to talk to me or something.</p>
+        <p>TT: That is probably the "Kernelsprite".</p>
+        <p>TT: It apparently needs to be "prototyped".</p>
+        <p>TT: Twice, actually.</p>
+        <p>TT: Whatever the hell that means.</p>
+        <p>TT: These walkthroughs are horrendously written.</p>
+        <p>EB: hmm, ok.</p>
+        <p>EB: well, you are the one with the cursor so just do whatever you think is the right
+            thing to do!</p>
+        <p>EB: also, fix my bathroom.</p>
+    </entry>
+    <entry>
+        <command>TT: Drop maimed harlequin into Kernelsprite.</command>
+        <date>20/05/09</date>
+    </entry>
+    <entry>
+        <command>[S] ==&gt;</command>
+        <date>21/05/09</date>
+        <p>The KERNELSPRITE has been prototyped with the HARLEQUIN DOLL.</p>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>21/05/09</date>
+        <p>SPRITE: (spriteglyphs)</p>
+        <p>pesterlog</p>
+        <p>EB: i still can't understand this thing's gobbledygook.</p>
+        <p>TT: That was only "Tier One Prototyping".</p>
+        <p>TT: There is still another tier to the prototyping process.</p>
+        <p>TT: Which for all we know merely advances this entity through increasingly esoteric
+            states of linguistics.</p>
+        <p>EB: the clock is ticking.</p>
+        <p>EB: we don't have time for this asinine tomfoolery.</p>
+        <p>TT: This unmitigated poppycock?</p>
+        <p>EB: extravagant hogwash!</p>
+        <p>EB: ok stop</p>
+        <p>EB: stop typing whatever silly thing you're typing.</p>
+        <p>EB: i'm going upstairs to the big platformy thing.</p>
+        <p>TT: The alchemiter?</p>
+        <p>EB: ??</p>
+        <p>TT: Try to learn the lingo.</p>
+    </entry>
+    <entry>
+        <command>John: Use pre-punched card with the alchemiter.</command>
+        <date>21/05/09</date>
+        <p>There is no slot for a card anywhere to be found on the ALCHEMITER!</p>
+
+        <p>The KERNELSPRITE followed you upstairs.</p>
+    </entry>
+    <entry>
+        <command>TT: Explore Atheneum.</command>
+        <date>21/05/09</date>
+        <p>Perfectly Generic Object</p>
+        <p>2</p>
+        <p>Acquiring a CRUXITE DOWEL seems to have populated the ATHENEUM with one item: a PERFECTLY
+            GENERIC OBJECT.</p>
+    </entry>
+    <entry>
+        <command>John: Captchalogue telescope.</command>
+        <date>21/05/09</date>
+        <p>You snatch the TELESCOPE from its TRIPOD. Who knows, it might be useful. But more
+            importantly, it pushes the CRUXITE to the last card making it available for
+            tinkering.</p>
+
+        <p>The PDA is predictably jettisoned into the yard, over the neighbor's fence.</p>
+    </entry>
+    <entry>
+        <command>John: Put cruxite on weird pattern on alchemiter.</command>
+        <date>21/05/09</date>
+        <p>You place the CRUXITE DOWEL on the ALCHEMITER'S small pedestal. </p>
+
+        <p>Something is happening...</p>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>21/05/09</date>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>21/05/09</date>
+        <p>1 =&gt; 2 =&gt; 3</p>
+        <p>-2 =&gt; -4 =&gt; -6</p>
+
+        <p>12/20 =&gt; 6</p>
+        <p>You set the ALCHEMITER to cast THREE (3) PERFECTLY GENERIC OBJECTS for some reason,
+            expending a total of 6 units of BUILD GRIST.</p>
+
+        <p>These things look completely useless. What a waste!</p>
+
+        <p>Out of the corner of your eye, you notice there's something in the sky.</p>
+    </entry>
+    <entry>
+        <command>John: Switch modus and use telescope to inspect sky.</command>
+        <date>22/05/09</date>
+        <p>You switch back to STACK MODUS and get a closer look with your TELESCOPE.</p>
+
+        <p>Whatever it is, the KERNELSPRITE seems particularly agitated about it.</p>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>22/05/09</date>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>22/05/09</date>
+        <p>3:10 =&gt; :09 =&gt; :08 =&gt; :07 =&gt; :06 =&gt; :05 =&gt; :04 =&gt; :03 =&gt; :02
+            =&gt; :01 =&gt; :00</p>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>22/05/09</date>
+        <p>You're no astronomer, but its trajectory looks suspiciously head-on with your current
+            perspective.</p>
+
+        <p>This is a troubling development.</p>
+    </entry>
+    <entry>
+        <command>John: High-five Kernelsprite.</command>
+        <date>22/05/09</date>
+        <p>You figure you've left him hanging long enough.</p>
+    </entry>
+    <entry>
+        <command>John: Attempt to ingest a unit of build grist.</command>
+        <date>23/05/09</date>
+        <p>Made With Real Fruit</p>
+        <p>EXCELLENT SOURCE</p>
+        <p>OF VITAMIN C</p>
+
+        <p>RE-DO YOUR RO-</p>
+        <p>SWEEPSTAKES</p>
+        <p>YOU COULD WIN $10,000</p>
+
+        <p>Betty Crocker</p>
+
+        <p>Fruit</p>
+        <p>Gushers</p>
+
+        <p>Rockin' Blue Raspberry</p>
+        <p>It is tempting because they strongly resemble Rockin' Blue Raspberry Gushers. However,
+            units of BUILD GRIST are a gaming abstraction and do not seem to exist on the physical
+            plane!</p>
+
+        <p>There is apparently no crisis so imminent that will deter you from contemplating idiotic
+            and frivolous actions.</p>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>23/05/09</date>
+        <p>pesterlog</p>
+        <p>TT: Your dad is getting home.</p>
+        <p>TT: John?</p>
+        <p>TT: What did you do with your PDA this time?</p>
+        <p>TT: I'm working on the bathroom.</p>
+        <p>TT: But we are running low on Build Grist.</p>
+    </entry>
+    <entry>
+        <command>TT: Revise bathroom.</command>
+        <date>23/05/09</date>
+        <p>6/20 =&gt; 2</p>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>23/05/09</date>
+        <p>DAD: ?</p>
+        <p>DAD: ?</p>
+    </entry>
+    <entry>
+        <command>John: Run to your room and contact TT through Pesterchum.</command>
+        <date>23/05/09</date>
+        <p>Alert : . . . </p>
+        <p>Alert : . . . </p>
+        <p>Two chums have been trying to message you.</p>
+    </entry>
+    <entry>
+        <command>John: Answer chums.</command>
+        <date>23/05/09</date>
+        <p>pesterlog</p>
+        <p>TT: I'm working on the bathroom.</p>
+        <p>TT: But we are running low on Build Grist.</p>
+        <p>EB: oh man who cares about the bathroom, now there's a meteor heading for my house!!!</p>
+        <p>TT: I see.</p>
+        <p>TT: Do you suppose it has anything to do with the game?</p>
+        <p>EB: i don't know, maybe! what do i do!</p>
+        <p>TT: I think it's very likely.</p>
+        <p>TT: The walkthroughs vaguely suggest an impending threat before they end.</p>
+        <p>TT: The already poorly constructed sentences become even more curt and ambiguous.</p>
+        <p>TT: As if written hastily and with a sense of alarm.</p>
+        <p>TT: Actually, their dedication to updating the walkthrough under such circumstances is
+            admirable.</p>
+        <p>EB: wow, FASCINATING.</p>
+        <p>EB: ??????</p>
+        <p>TT: If the meteor is a game construct, I think the only thing to do is to proceed, and
+            try to solve the dilemma on the game's terms.</p>
+        <p>TT: Try using the lathe.</p>
+        <p>TT: It says you can use the card on it, but isn't more specific than that.</p>
+        <p>EB: ok i'll do that.</p>
+        <p>TT: Really, it is a labor to read this drivel.</p>
+        <p>TT: If I read any more my brain will need to be spoon-fed from a jar.</p>
+        <p>TT: While it blows spit bubbles in a highchair.</p>
+        <p>TT: I think I will write my own walkthrough.</p>
+        <p>TT: That is, after we make sure you don't die.</p>
+
+        <p>-- turntechGodhead [TG] began pestering ectoBiologist [EB] at 17:34 --</p>
+
+        <p>TG: i heard you got the box</p>
+        <p>TG: i hope you appreciate my heroic fatherly perseverance in getting it to you</p>
+        <p>TG: in my rough and tumble dirty wifebeaterly sort of way</p>
+        <p>TG: also i hope you appreciate how many no-talent douches had their mitts on that bunny
+            before you</p>
+        <p>TG: its like a grubby baton in some huge douchebag marathon</p>
+        <p>TG: hey where are you</p>
+        <p>EB: oh man, the bunny was awesome, but i don't have time to talk, i'm playing sburb and
+            it's kind of a nightmare.</p>
+        <p>EB: TT is breaking everything in my house.</p>
+        <p>TG: dude i told you to steer clear of that game</p>
+        <p>TG: and for that matter you should probably wash your hands of flighty broads and their
+            snarky horseshit altogether</p>
+        <p>EB: and now there's a meteor coming, and i'm not even joking about that!!!</p>
+        <p>EB: it's like a big asteroid or comet or something.</p>
+        <p>EB: in the sky.</p>
+        <p>EB: heading right for my house!!!!!!!!</p>
+        <p>TG: oh man</p>
+        <p>TG: how big is it</p>
+        <p>EB: i dunno.</p>
+        <p>EB: big, i guess.</p>
+        <p>EB: i gotta go!</p>
+        <p>EB: we'll talk later if i am still alive and the earth isn't blown up.</p>
+        <p>TG: like the size of texas</p>
+        <p>TG: or just rhode island</p>
+        <p>TG: theyre always throwing around these geographical comparisons to give us a sense of
+            scale like it really means anything to us</p>
+        <p>TG: but its like it doesnt matter its always just like: WOW THATS PRETTY FUCKING BIG</p>
+        <p>TG: like mr president theres a meteor coming sir. oh yeah, how big is it? its the size of
+            texas sir</p>
+        <p>TG: OH SHIT</p>
+        <p>TG: or, how big is it? its the size of new york city sir</p>
+        <p>TG: OH SHIT</p>
+        <p>TG: sir im afraid the comet is the size of your moms dick</p>
+        <p>TG: OH SNAP</p>
+        <p>TG: sir are you familiar with jupiter</p>
+        <p>TG: you mean like the planet?</p>
+        <p>TG: yeah</p>
+        <p>TG: well its that big sir</p>
+        <p>TG: hmm that sounds pretty big</p>
+        <p>TG: i have a question</p>
+        <p>TG: is it jupiter?</p>
+        <p>TG: yes sir, earth is literally under seige by planet fucking jupiter</p>
+        <p>TG: OH SHIT</p>
+        <p>TG: anyway later</p>
+    </entry>
+    <entry>
+        <command>John: Use pre-punched card on totem lathe.</command>
+        <date>25/05/09</date>
+        <p>You slip the PRE-PUNCHED CARD into a slot on the TOTEM LATHE. Above, the TOOL ARM deploys
+            a configuration of chisels.</p>
+
+        <p>Now you just need something to lathe.</p>
+    </entry>
+    <entry>
+        <command>John: Take cruxite to totem lathe.</command>
+        <date>25/05/09</date>
+        <p>Cursing your lack of foresight, you return to the BALCONY for the CRUXITE DOWEL you left
+            on the pedestal.</p>
+
+        <p>You navigate the hallway leery of your DAD, who is presently puzzling over the new
+            fixture in his hallway.</p>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>25/05/09</date>
+        <p>The perfect crime.</p>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>25/05/09</date>
+        <p>You retrieved the CRUXITE DOWEL.</p>
+
+        <p>DAD just shrugs and heads back downstairs, presumably to do some more baking.</p>
+
+        <p>If only he knew you were hard at work saving his ass.</p>
+    </entry>
+    <entry>
+        <command>John: Use cruxite dowel on totem lathe.</command>
+        <date>25/05/09</date>
+        <p>You clamp the CRUXITE in the lathe.</p>
+    </entry>
+    <entry>
+        <command>John: Activate lathe.</command>
+        <date>25/05/09</date>
+        <p>The lathe carves ONE (1) TOTEM. </p>
+
+        <p>You take the TOTEM.</p>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>25/05/09</date>
+        <p>pesterlog</p>
+        <p>EB: alright, i used the lathe to make this blue shapey thing.</p>
+        <p>EB: now i guess i take it back to the alchemixer again?</p>
+        <p>EB: hello???????</p>
+        <p>-- tentacleTherapist [TT] is no longer connected! --</p>
+        <p>EB: uh...</p>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>25/05/09</date>
+        <p>CONNECTION LOST</p>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>25/05/09</date>
+        <p>2:10 =&gt; :09 =&gt; :08 =&gt; :07 =&gt; :06 =&gt; :05 =&gt; :04 =&gt; :03 =&gt; :02
+            =&gt; :01 =&gt; :00</p>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>26/05/09</date>
+        <p>A young lady stands in her bedroom. Due to a violent storm, her house has just lost
+            power, along with her wireless internet connection. This has severed her link to a
+            popular video game she was playing with a young man at a critical moment. That young man
+            is relying on this young lady to reestablish a connection somehow. This young lady
+            named...</p>
+
+        <p>Named...</p>
+
+        <p>It's on the tip of your tongue. What was the name of this young lady again?</p>
+    </entry>
+    <entry>
+        <command>Enter name.</command>
+        <date>28/05/09</date>
+        <p>FLIGHTY BROAD</p>
+        <p>No, that wasn't it!</p>
+    </entry>
+    <entry>
+        <command>One more time.</command>
+        <date>28/05/09</date>
+        <p>(check) ROSE LALONDE</p>
+    </entry>
+    <entry>
+        <command>Examine room.</command>
+        <date>28/05/09</date>
+        <p>Your name is ROSE. As was previously mentioned you are without ELECTRICITY, although your
+            LAPTOP COMPUTER still functions on BATTERY POWER. You have a variety of INTERESTS. You
+            have a passion for RATHER OBSCURE LITERATURE. You enjoy creative writing and are
+            SOMEWHAT SECRETIVE ABOUT IT. You have a fondness for the BESTIALLY STRANGE AND
+            FICTITIOUS, and sometimes dabble in PSYCHOANALYSIS. You also like to KNIT, and your room
+            is a BIT OF A MESS. And on occasion, if just the right one strikes your fancy, you like
+            to play VIDEO GAMES with your friends.</p>
+
+        <p>What will you do?</p>
+    </entry>
+    <entry>
+        <command>Rose: Retrieve arms from the purple box.</command>
+        <date>28/05/09</date>
+        <p>The PURPLE PACKAGE'S contents are private! No one is allowed to look inside.</p>
+    </entry>
+    <entry>
+        <command>Rose: Writhe like a flagellum and puke on your bed.</command>
+        <date>28/05/09</date>
+        <p>Ugh, what a terrible idea! The thought alone makes you sick to your stomach.</p>
+    </entry>
+    <entry>
+        <command>Rose: Stroke writing journal and mutter, 'My precious...'</command>
+        <date>28/05/09</date>
+        <p>You would only resort to such an embarrassing activity while no one was watching!!!</p>
+
+        <p>These journals are for your eyes only.</p>
+    </entry>
+    <entry>
+        <command>Rose: Get violin.</command>
+        <date>28/05/09</date>
+        <p>You captchalogue the VIOLIN, storing it the ROOT CARD of your SYLLADEX.</p>
+    </entry>
+    <entry>
+        <command>[S] Rose: Play a haunting refrain on the violin.</command>
+        <date>28/05/09</date>
+        <p>You waste approximately 40 seconds playing the violin while your friend is in peril. </p>
+
+        <p>Nice time management skills there, sweetheart!</p>
+    </entry>
+    <entry>
+        <command>John: Tell Liv Tyler you love her before impact.</command>
+        <date>30/05/09</date>
+        <p>Since your good for nothing friend is obviously not going to bail you out in time, you
+            issue words of parting fondness to dear, sweet Liv. Oh, if only Affleck could have been
+            the one to make the final sacrifice instead of her stubborn, blue collar,
+            salt-of-the-earth father. Then she would fall into your arms for consolation, and YOU
+            would be the one to make the deceased Bruce Willis proud.</p>
+    </entry>
+    <entry>
+        <command>Rose: Captchalogue knitting supply bag.</command>
+        <date>30/05/09</date>
+        <p>You get the KNITTING BAG. It occupies the LEFT LEAF CARD under the VIOLIN, per the TREE
+            MODUS'S alphabetical sorting method.</p>
+
+        <p>K &lt; V.</p>
+    </entry>
+    <entry>
+        <command>Rose: Look out window.</command>
+        <date>30/05/09</date>
+        <p>Your panoramic window offers a view of your yard below, and the mausoleum housing your
+            dead cat, JASPERS, who died when you were young. Your MOM had the structure erected with
+            a spirit of scornful IRONY in response to your youthfully innocent request to hold a
+            funeral for the animal. At least, that is how you have come to interpret the gesture in
+            retrospect.</p>
+
+        <p>You can also make out a silhouette of the LABORATORY next door, a facility which likely
+            broadcasts a strong WIRELESS INTERNET SIGNAL. You may be able to connect to the signal
+            from a different part of the house. Perhaps if you seek higher ground?</p>
+    </entry>
+    <entry>
+        <command>Rose: Get laptop.</command>
+        <date>30/05/09</date>
+        <p>You take your LAPTOP and prepare to make the journey through the house.</p>
+
+        <p>L &lt; V. L &gt; K.</p>
+
+        <p>This causes the tree to be unbalanced, so your SYLLADEX auto-balances itself. Now the
+            LAPTOP occupies the ROOT CARD, while the other two items comprise the LEAVES.</p>
+
+        <p>K &lt; L. V &gt; L.</p>
+    </entry>
+    <entry>
+        <command>Rose: Examine book on desk.</command>
+        <date>31/05/09</date>
+        <p>GRIMOIRE</p>
+        <p>FOR SUMMONING THE</p>
+        <p>ZOOLOGICALLY</p>
+        <p>DUBIOUS</p>
+        <p>This book is absolutely indispensable for enthusiasts of your ilk. Of which there are
+            very few.</p>
+    </entry>
+    <entry>
+        <command>Rose: Take book.</command>
+        <date>31/05/09</date>
+        <p>You take the GRIMOIRE.</p>
+
+        <p>G &lt; L, G &lt; K.</p>
+    </entry>
+    <entry>
+        <command>Rose: Go explore the house.</command>
+        <date>01/06/09</date>
+        <p>You leave your BEDROOM. </p>
+
+        <p>Hanging just next to your door in the hallway is a painting of an EXQUISITE WIZARD. Your
+            mother collects these awful things IRONICALLY. She must know how much you detest them,
+            and there is no doubt in your mind she stores these dreadful things in the house to
+            bother you.</p>
+
+        <p>Down the hall to the right is the way to the OBSERVATORY. Perhaps you will be able to
+            connect from up there?</p>
+
+        <p>Your mother's room is also in that direction. You will have to watch your step.</p>
+    </entry>
+    <entry>
+        <command>Rose: Tiptoe to observatory.</command>
+        <date>01/06/09</date>
+        <p>You approach a juncture in the hallway. Beyond the juncture is the OBSERVATORY.</p>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>01/06/09</date>
+    </entry>
+    <entry>
+        <command>Rose: Sneak by.</command>
+        <date>01/06/09</date>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>01/06/09</date>
+        <p>This door leads up to the OBSERVATORY. You haven't ventured up there in quite some
+            time.</p>
+    </entry>
+    <entry>
+        <command>Rose: Go through door.</command>
+        <date>02/06/09</date>
+        <p>The door opens to an exterior walkway, leading to the observatory entrance. </p>
+
+        <p>You've seen less inclement weather before. Oh the things you'll do to help out a
+            friend.</p>
+    </entry>
+    <entry>
+        <command>Rose: Hurry up to that observatory.</command>
+        <date>02/06/09</date>
+    </entry>
+    <entry>
+        <command>Rose: Try to connect!</command>
+        <date>03/06/09</date>
+        <p>You first put your LAPTOP down on the floor to get it situated.</p>
+
+        <p>But removing it from the ROOT CARD causes all the branches and leaves to be severed! Your
+            items are dumped unceremoniously on the floor.</p>
+    </entry>
+    <entry>
+        <command>Rose: See what you can observe.</command>
+        <date>04/06/09</date>
+        <p>You're in a hurry, sure, but that doesn't mean you can't take moment to peek through the
+            HUGE TELESCOPE.</p>
+
+        <p>You find a gap in the clouds. It seems a flurry of smaller METEOROIDS is streaking
+            steadily overhead. You're not sure what this means, but it is somewhat
+            disconcerting.</p>
+    </entry>
+    <entry>
+        <command>Rose: Stack laptop on Grimoire to maximize elevation.</command>
+        <date>04/06/09</date>
+        <p>GRIMOIRE</p>
+        <p>You'll need every advantage you can get.</p>
+    </entry>
+    <entry>
+        <command>Rose: Access laboratory wifi network.</command>
+        <date>04/06/09</date>
+        <p>CETUS</p>
+
+        <p>http://www.gamefaqs.com/doswin/home/927614.html</p>
+
+        <p>SBURB BETA</p>
+
+        <p>Gamespot</p>
+        <p>GameFaqs</p>
+
+        <p> Email Password </p>
+        <p>[ ][ ][login]</p>
+        <p>Sign up|Forgot Password?</p>
+
+        <p>Search [All Platforms] [go]</p>
+
+        <p>Home | What's New | Contribute | Features | Boards | My Games | Answers | Help</p>
+
+        <p>Platforms : DS | GBA | GameCube | PC | PS2 | PS3 | Wii | Xbox | Xbox 360 | All
+            Systems</p>
+
+        <p>PC =&gt; Miscellanous =&gt; Immersive Simulation</p>
+
+        <p>Sburb Beta</p>
+
+        <p>Home | Data | FAQs | Cheats | Images | My Games | Answers | Board | Check Prices</p>
+
+        <p>Sburb Beta</p>
+
+        <p>Page 1 of 176</p>
+        <p>Back to : Bo-</p>
+
+        <p>SBURB SERVER</p>
+
+        <p>Lost connection with client.</p>
+
+        <p>RECONNECTING...</p>
+
+        <p>&gt; _</p>
+
+        <p>AVAILABLE WIRELESS NETWORKS</p>
+
+        <p>SN_LAB0413 UNSECURED</p>
+        <p>SN_LAB9687 SECURED</p>
+        <p>SN_LAB1802 SECURED</p>
+        <p>SN_LAB5565 SECURED</p>
+
+        <p>SBURB SERVER</p>
+
+        <p>Lost connection with client.</p>
+
+        <p>RECONNECTING...</p>
+
+        <p>Server has established connection with client.</p>
+
+        <p>&gt; _</p>
+
+        <p>[HD]</p>
+        <p>[scraps]</p>
+        <p>[leavings]</p>
+        <p>[detritus]</p>
+        <p>There are several signals being broadcasted from the LABORATORY, each of relatively
+            decent strength.</p>
+
+        <p>One of them is mysteriously and quite conveniently UNSECURED, requiring no password.</p>
+
+        <p>You select the signal, and reconnect to the game with John.</p>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>04/06/09</date>
+        <p>0:41 =&gt; :40 =&gt; :39 =&gt; :38 =&gt; :37 =&gt; :36 =&gt; :35 =&gt; :34 =&gt; :33
+            =&gt; :32 =&gt; :31</p>
+        <p>pesterlog</p>
+        <p>TT: I'm back.</p>
+        <p>EB: hurry up and open my door!!!!!!</p>
+        <p>EB: not that it even matters, i think i'm probably dead no matter what!!!!!!</p>
+        <p>TT: Patience. You still haven't used the new totem.</p>
+        <p>EB: ???</p>
+        <p>TT: I believe it will create the item on the punch card.</p>
+        <p>EB: so what is it, like an apple or something?</p>
+        <p>EB: what good will that even do?</p>
+        <p>TT: We'll see.</p>
+        <p>TT: I've found no evidence that anyone has successfully created the item.</p>
+        <p>TT: And the content of the card appears to be variable from session to session.</p>
+        <p>TT: In one instance it was described as an "eggy loking thign" [sic].</p>
+        <p>EB: do we have enough of those building jewels to make it?</p>
+        <p>TT: According to the Atheneum, it is a free item.</p>
+        <p>TT: This speaks to its importance, in my view.</p>
+        <p>TT: Now off you go.</p>
+    </entry>
+    <entry>
+        <command>Rose: Remove door from hinges.</command>
+        <date>04/06/09</date>
+        <p>2/20 =&gt; 0</p>
+        <p>There goes the rest of your BUILD GRIST.</p>
+    </entry>
+    <entry>
+        <command>Rose: Put bathtub back.</command>
+        <date>05/06/09</date>
+        <p>You probably should have just done this in the first place.</p>
+    </entry>
+    <entry>
+        <command>John: Take totem to alchemiter.</command>
+        <date>05/06/09</date>
+        <p>Got to get those stupid blocks out of the way first!</p>
+
+        <p>The KERNELSPRITE is getting awfully worked up about all this!</p>
+    </entry>
+    <entry>
+        <command>Rose: Remove blocks.</command>
+        <date>05/06/09</date>
+        <p>You store the PERFECTLY GENERIC OBJECTS in your PHERNALIA REGISTRY, potentially to be
+            deployed at a later time.</p>
+    </entry>
+    <entry>
+        <command>==&gt;</command>
+        <date>05/06/09</date>
+    </entry>
+    <entry>
+        <command>[S] John: Take bite of apple.</command>
+        <date>07/06/09</date>
+        <p>0:30 =&gt; :29 =&gt; :28 =&gt; :27 =&gt; :26 =&gt; :25 =&gt; :24 =&gt; :23 =&gt; :22
+            =&gt; :21</p>
+        <p>=&gt; :20 =&gt; :19 =&gt; :18 =&gt; :17 =&gt; :16 =&gt; :15 =&gt; :14 =&gt; :13 =&gt; :12
+            =&gt; :11</p>
+        <p>=&gt; :10 =&gt; :09 =&gt; :08 =&gt; :07 =&gt; :06 =&gt; :05 =&gt; :04 =&gt; :03 =&gt; :02
+            =&gt; :01</p>
+    </entry>
+</act>
