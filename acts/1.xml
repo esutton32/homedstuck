@@ -1349,13 +1349,16 @@
     <entry>
         <command>John: Open browser and go to mspaintadventures.com</command>
         <date>04/05/09</date>
-        <p>TYPHEUS</p>
-        <p>BOOKMARKS &gt;</p>
-        <p>ADDRESS : http://www.mspaintadventures.com</p>
-        <p>GO!</p>
-        <p>MS</p>
-        <p>MAP | LOG | SEARCH | FAQ || SAVE | LOAD || SHOP | EXTRAS || FORUMS | CONTACT | ANDREW</p>
-        <p>MSPAINT ADVENTURES</p>
+        <img-txt>
+            <p>TYPHEUS</p>
+            <p>BOOKMARKS &gt;</p>
+            <p>ADDRESS : http://www.mspaintadventures.com</p>
+            <p>GO!</p>
+            <p>MS</p>
+            <p>MAP | LOG | SEARCH | FAQ || SAVE | LOAD || SHOP | EXTRAS || FORUMS | CONTACT |
+                ANDREW</p>
+            <p>MSPAINT ADVENTURES</p>
+        </img-txt>
         <p>You decide to space out on the computer for a while before doing anything important.</p>
         <p>You open the TYPHEUS web browser and direct it to what is indisputably the most amazing
             website ever created.</p>
@@ -1363,8 +1366,10 @@
     <entry>
         <command>==&gt;</command>
         <date>04/05/09</date>
-        <p>ADDRESS : http://www.mspaintadventures.com?s=3</p>
-        <p>MSPAINT ADVENTURES</p>
+        <img-txt>
+            <p>ADDRESS : http://www.mspaintadventures.com?s=3</p>
+            <p>MSPAINT ADVENTURES</p>
+        </img-txt>
         <p>Midnight Crew</p>
         <p>You are members of a sinister gang called the Midnight Crew. Your nefarious plots are
             serpentine in their complexity. Your schemes, convoluted. You are planning a heist in
@@ -1381,34 +1386,40 @@
     <entry>
         <command>==&gt;</command>
         <date>05/05/09</date>
-        <p>SBURB CLIENT</p>
-        <p>SBURB version 0.0.1</p>
-        <p>SKAIANET SYSTEM INCORPORATED. ALL RIGHTS RESERVED.</p>
-        <p>SBURB client is running.</p>
-        <p>Waiting for server to establish connection...</p>
+        <img-txt>
+            <p>SBURB CLIENT</p>
+            <p>SBURB version 0.0.1</p>
+            <p>SKAIANET SYSTEM INCORPORATED. ALL RIGHTS RESERVED.</p>
+            <p>SBURB client is running.</p>
+            <p>Waiting for server to establish connection...</p>
+        </img-txt>
         <p>What the fuck is this.</p>
     </entry>
     <entry>
         <command>John: Bone up on data structures.</command>
         <date>05/05/09</date>
-        <p>- DATA STRUCTURES</p>
-        <p>- discrete mathematics</p>
-        <p>- ^CAKE</p>
-        <p>- ~ath</p>
-        <p>- DIS*</p>
-        <p>- AUTOMATA</p>
+        <img-txt>
+            <p>- DATA STRUCTURES</p>
+            <p>- discrete mathematics</p>
+            <p>- ^CAKE</p>
+            <p>- ~ath</p>
+            <p>- DIS*</p>
+            <p>- AUTOMATA</p>
+        </img-txt>
         <p>You go to your CLOSET, where you keep a lot of clothes and an array of handy COMPUTER
             PROGRAMMING GUIDES.</p>
     </entry>
     <entry>
         <command>John: Read Data Structures book.</command>
         <date>05/05/09</date>
-        <p>"I think my rage just crapped its pants" -FUNNYUNCLE</p>
-        <p>DATA STRUCTURES for ASSHOLES</p>
-        <p>By Buckminster Funnyuncle</p>
-        <p>Your ignorance just made me throw up a little. Get a clue, you computer-illiterate piece
-            of shit.</p>
-        <p>FREE FETCH MODUS IN BACK!!!</p>
+        <img-txt>
+            <p>"I think my rage just crapped its pants" -FUNNYUNCLE</p>
+            <p>DATA STRUCTURES for ASSHOLES</p>
+            <p>By Buckminster Funnyuncle</p>
+            <p>Your ignorance just made me throw up a little. Get a clue, you computer-illiterate
+                piece of shit.</p>
+            <p>FREE FETCH MODUS IN BACK!!!</p>
+        </img-txt>
         <p>You're not sure you really want to dig into this huge tome. It looks really boring. And
             kind of ornery.</p>
         <p>Maybe you'll just check out that free modus instead.</p>
@@ -1416,9 +1427,11 @@
     <entry>
         <command>John: Get free Fetch Modus.</command>
         <date>05/05/09</date>
-        <p>fetch modus</p>
-        <p>FIFO</p>
-        <p>queue</p>
+        <img-txt>
+            <p>fetch modus</p>
+            <p>FIFO</p>
+            <p>queue</p>
+        </img-txt>
         <p>You turn to the back inside cover, where a free FETCH MODUS is included in a plastic
             sleeve.</p>
         <p>This one is dictated by the logic of a QUEUE DATA STRUCTURE, operating on a "First In,
@@ -1439,9 +1452,11 @@
     <entry>
         <command>John: Switch back to Stack Modus.</command>
         <date>06/05/09</date>
-        <p>? fetch modus ?</p>
-        <p>FILO</p>
-        <p>stack ?</p>
+        <img-txt>
+            <p>? fetch modus ?</p>
+            <p>FILO</p>
+            <p>stack ?</p>
+        </img-txt>
         <p>You suddenly wonder if this is even possible. You don't even remember if you ever had a
             physical card for the STACK MODUS.</p>
         <p>You find this all to be a little abstract and you'd prefer not to think about it too
@@ -1464,9 +1479,11 @@
     <entry>
         <command>John: Get other cake.</command>
         <date>06/05/09</date>
-        <p>matthew mcconaughey</p>
-        <p>sarah jessica parker</p>
-        <p>failure to launch</p>
+        <img-txt>
+            <p>matthew mcconaughey</p>
+            <p>sarah jessica parker</p>
+            <p>failure to launch</p>
+        </img-txt>
         <p>The second CAKE causes the RAZOR to launch out the front of your SYLLADEX.</p>
         <p>Oh good lord.</p>
         <p>THAT BEAUTIFUL FACE.</p>
@@ -1492,8 +1509,10 @@
     <entry>
         <command>John: Open up that package!</command>
         <date>07/05/09</date>
-        <p>TO : EB</p>
-        <p>FROM : TG</p>
+        <img-txt>
+            <p>TO : EB</p>
+            <p>FROM : TG</p>
+        </img-txt>
         <p>You examine the package. It is from one of your internet chums.</p>
         <p>It's bound in packing tape though. You'll need something sharp to open it.</p>
         <p>Ah, of course! The RAZOR! It's all so simple, you wonder why you didn't...</p>
@@ -1501,7 +1520,9 @@
     <entry>
         <command>John: Get razor.</command>
         <date>07/05/09</date>
-        <p>BONK</p>
+        <img-txt>
+            <p>BONK</p>
+        </img-txt>
     </entry>
     <entry>
         <command>John: Pick up package again.</command>
@@ -1511,7 +1532,9 @@
     <entry>
         <command>John: Captchalogue glass shards.</command>
         <date>07/05/09</date>
-        <p>CRASH</p>
+        <img-txt>
+            <p>CRASH</p>
+        </img-txt>
         <p>You take three GLASS SHARDS in quick succession and duck for cover.</p>
         <p>Your SYLLADEX rains devastation on your room from above.</p>
         <p>And now that your cards are packed with glass, you probably don't want to do that again
@@ -1543,31 +1566,37 @@
     <entry>
         <command>John: Check status of Sburb beta.</command>
         <date>08/05/09</date>
-        <p>Alert : . . .</p>
-        <p>Alert : (Sburb-logo)</p>
+        <img-txt>
+            <p>Alert : . . .</p>
+            <p>Alert : (Sburb-logo)</p>
+        </img-txt>
         <p>It looks like your computer is trying to get your attention.</p>
     </entry>
     <entry>
         <command>John: Look at monitor.</command>
         <date>09/05/09</date>
-        <p>SBURB CLIENT</p>
-        <p>SBURB version 0.0.1</p>
-        <p>(c) SKAIANET SYSTEMS INCORPORATED. ALL RIGHTS RESERVED.</p>
-        <p>SBURB client is running.</p>
-        <p>A SBURB host user is attempting to connect with you.</p>
-        <p>Client has established connection with host.</p>
-        <p>Press [ENTER] when ready.</p>
-        <p>&gt; _</p>
-        <p>[:) tentacleT...]</p>
+        <img-txt>
+            <p>SBURB CLIENT</p>
+            <p>SBURB version 0.0.1</p>
+            <p>(c) SKAIANET SYSTEMS INCORPORATED. ALL RIGHTS RESERVED.</p>
+            <p>SBURB client is running.</p>
+            <p>A SBURB host user is attempting to connect with you.</p>
+            <p>Client has established connection with host.</p>
+            <p>Press [ENTER] when ready.</p>
+            <p>&gt; _</p>
+            <p>[:) tentacleT...]</p>
+        </img-txt>
     </entry>
     <entry>
         <command>John: Check Pesterchum window.</command>
         <date>09/05/09</date>
-        <p>::tentacleTherapist::</p>
-        <p>PESTERLOG</p>
-        <p>-- tentacleTherapist [TT] began pestering ectoBiologist [EB] at 17:08 --</p>
-        <p>TT: It looks like you managed to retrieve the beta. Excellent.</p>
-        <p>TT: I'm going to try to connect.</p>
+        <img-txt>
+            <p>::tentacleTherapist::</p>
+            <p>PESTERLOG</p>
+            <p>-- tentacleTherapist [TT] began pestering ectoBiologist [EB] at 17:08 --</p>
+            <p>TT: It looks like you managed to retrieve the beta. Excellent.</p>
+            <p>TT: I'm going to try to connect.</p>
+        </img-txt>
         <p>pesterlog</p>
         <p>-- tentacleTherapist [TT] began pestering ectoBiologist [EB] at 17:08 --</p>
         <p>TT: It looks like you managed to retrieve the beta. Excellent.</p>
@@ -1594,252 +1623,256 @@
     <entry>
         <command>[S] ==&gt;</command>
         <date>09/05/09</date>
-        <p>* Derived from a transcript by ShadowOfFate</p>
-        <p>Transforming Soffits</p>
-        <p>Reorganizing Keys</p>
-        <p>Formalizing Immersion Joints</p>
-        <p>Justifying Kick Extractors</p>
-        <p>Advising Aggregates</p>
-        <p>Managing Elbows</p>
-        <p>Recasting Connectors</p>
-        <p>Achieving Aluminum Trowels</p>
-        <p>Officiating Disks</p>
-        <p>Exhibiting Absolute Spigots</p>
-        <p>Progressing Coil Hydrants</p>
-        <p>Jerry-building Reflectors</p>
-        <p>Informing Casters</p>
-        <p>Inventing Rubber Hoists</p>
-        <p>Performing Wrenches</p>
-        <p>Judging Chalk Adapters</p>
-        <p>Upgrading Ignition Paths</p>
-        <p>Regrowing Flashing</p>
-        <p>Recommending Ratchets</p>
-        <p>Approving Barriers</p>
-        <p>Sweeping Impact Fillers</p>
-        <p>Sewing Mirrors</p>
-        <p>Detailing Collectors</p>
-        <p>Enforcing Measures</p>
-        <p>Distributing Systems</p>
-        <p>Presenting Plugs</p>
-        <p>Interwinding Registers</p>
-        <p>Piloting Ash Diffusers</p>
-        <p>Gathering Cranks</p>
-        <p>Supplying Eave Pockets</p>
-        <p>Undertaking Scroll Stops</p>
-        <p>Accelerating Straps</p>
-        <p>Designing Fittings</p>
-        <p>Protecting Diamond Boilers</p>
-        <p>Logging Downspouts</p>
-        <p>Correlating Shingles</p>
-        <p>Uniting Mallets</p>
-        <p>Qualifying Electrostatic Lifts</p>
-        <p>Sharing Clamps</p>
-        <p>Obtaining Circular Fluids</p>
-        <p>Ranking Foundation Gauges</p>
-        <p>Sensing Miter Brackets</p>
-        <p>Originating Space Networks</p>
-        <p>Translating Drills</p>
-        <p>Regulating Guards</p>
-        <p>Selecting Gable Padding</p>
-        <p>Utilizing Pellet Dowels</p>
-        <p>Reconciling Artifacts</p>
-        <p>Altering Pulleys</p>
-        <p>Shedding Space Filters</p>
-        <p>Determining Vents</p>
-        <p>Representing Mortar</p>
-        <p>Remaking Flash Rakers</p>
-        <p>Supporting Funnels</p>
-        <p>Typecasting Rotary Chocks</p>
-        <p>Expressing Junctures</p>
-        <p>Resetting Auxiliary Vises</p>
-        <p>Professing Strip Treads</p>
-        <p>Inlaying Matter Trowels</p>
-        <p>Questioning Drivers</p>
-        <p>Forming Edge Fittings</p>
-        <p>Sketching Blanks</p>
-        <p>Overshooting Spark Breakers</p>
-        <p>Rewriting Controls</p>
-        <p>Playing Tunnels</p>
-        <p>Inventorying Buttons</p>
-        <p>Enduring Joist Handles</p>
-        <p>Effecting Ratchet Bibbs</p>
-        <p>Unwinding Couplings</p>
-        <p>Forsaking Vapor Conduits</p>
-        <p>Defining Sockets</p>
-        <p>Calculating Heaters</p>
-        <p>Raising Grids</p>
-        <p>Administering Tiles</p>
-        <p>Measuring Resources</p>
-        <p>Installing Ignition Remotes</p>
-        <p>Extracting Corners</p>
-        <p>Manufacturing Ventilators</p>
-        <p>Delegating Consoles</p>
-        <p>Treating Mounting Stones</p>
-        <p>Enacting Jig Deflectors</p>
-        <p>Intensifying Alleys</p>
-        <p>Improvising Cargo</p>
-        <p>Pinpointing Bobs</p>
-        <p>Prescribing Arc Masonry</p>
-        <p>Structuring Metal Chucks</p>
-        <p>Symbolizing Lathes</p>
-        <p>Activating Plumb Kits</p>
-        <p>Adapting Coatings</p>
-        <p>Fixing Channels</p>
-        <p>Expediting Cordage</p>
-        <p>Planning Compressors</p>
-        <p>Enlisting Hangers</p>
-        <p>Restructuring Keyhole Augers</p>
-        <p>Shearing Ridge Hardware</p>
-        <p>Collecting Reciprocating Bolts</p>
-        <p>Maintaining Corrugated Dimmers</p>
-        <p>Whetting Hole Collars</p>
-        <p>Conducting Mandrels</p>
-        <p>Comparing Assets</p>
-        <p>Compiling Sealants</p>
-        <p>Completing Paths</p>
-        <p>Composing Equivocation Wheels</p>
-        <p>Computing Dampers</p>
-        <p>Conceiving Electrostatic Treatment</p>
-        <p>Ordering Cotter Grates</p>
-        <p>Organizing Ties</p>
-        <p>Orienting Ladders</p>
-        <p>Exceeding Materials</p>
-        <p>Targeting Thermocouples</p>
-        <p>Demonstrating Emery Stock</p>
-        <p>Expanding Latch Bases</p>
-        <p>Training Wardrobe Adhesives</p>
-        <p>Overcomming Fasteners</p>
-        <p>Streamlining Storm Anchors</p>
-        <p>Navigating Springs</p>
-        <p>Perfecting Turnbuckles</p>
-        <p>Verifying Gate Pegs</p>
-        <p>Arbitrating Arithmetic Lifts</p>
-        <p>Negotiating Outlets</p>
-        <p>Normalizing Strips</p>
-        <p>Building Surface Foggers</p>
-        <p>Checking Key Torches</p>
-        <p>Knitting Grinders</p>
-        <p>Mowing Planers</p>
-        <p>Offsetting Stencils</p>
-        <p>Acquiring Bulbs</p>
-        <p>Adopting Rivets</p>
-        <p>Observing Avenues</p>
-        <p>Ascertaining Coaxial Grommets</p>
-        <p>Slinging Wing Winches</p>
-        <p>Instituting Circuit Generators</p>
-        <p>Instructing Wicks</p>
-        <p>Integrating Pry Shutters</p>
-        <p>Interpreting Immersion Lumber</p>
-        <p>Clarifying Coils</p>
-        <p>Classifying Wood Bits</p>
-        <p>Closing Cogs</p>
-        <p>Cataloging Matter Strips</p>
-        <p>Charting Holders</p>
-        <p>Conceptualizing Push Terminals</p>
-        <p>Stimulating Supports</p>
-        <p>Overthrowing Shaft Spacers</p>
-        <p>Quick-freezing Connectors</p>
-        <p>Unbinding Ground Hooks</p>
-        <p>Analyzing Eyes</p>
-        <p>Anticipating Gateways</p>
-        <p>Controlling Proposition Rollers</p>
-        <p>Converting Power Angles</p>
-        <p>Coordinating Staples</p>
-        <p>Correcting Benders</p>
-        <p>Counseling Joist Gaskets</p>
-        <p>Recording Gutter Pipes</p>
-        <p>Recruiting Drains</p>
-        <p>Rehabilitating Rafter Tubes</p>
-        <p>Reinforcing Washers</p>
-        <p>Reporting Guard Valves</p>
-        <p>Naming Freize Sprues</p>
-        <p>Nominating Rings</p>
-        <p>Noting Straps</p>
-        <p>Doubling Nailers</p>
-        <p>Drafting Circuit Hoses</p>
-        <p>Dramatizing Flanges</p>
-        <p>Splitting Framing Compounds</p>
-        <p>Refitting Stems</p>
-        <p>Interweaving Patch Unions</p>
-        <p>Placing Sillcocks</p>
-        <p>Sorting Slot Threads</p>
-        <p>Securing Mode Cutters</p>
-        <p>Diverting Catharsis Plates</p>
-        <p>Procuring Load Thresholds</p>
-        <p>Transferring Syllogism Twine</p>
-        <p>Directing Switch Nuts</p>
-        <p>Referring Time Spools</p>
-        <p>Diagnosing Knobs</p>
-        <p>Discovering Locks</p>
-        <p>Dispensing Hinges</p>
-        <p>Displaying Hasps</p>
-        <p>Resending Arc Binders</p>
-        <p>Retreading Grooves</p>
-        <p>Retrofitting Aesthetics Portals</p>
-        <p>Seeking Stocks</p>
-        <p>Shrinking Wormholes</p>
-        <p>Assembling Blocks</p>
-        <p>Assessing Divets</p>
-        <p>Attaining Lug Boxes</p>
-        <p>Auditing Nescience Passages</p>
-        <p>Conserving Strikes</p>
-        <p>Constructing Braces</p>
-        <p>Contracting Saw Catches</p>
-        <p>Serving Instantiation Irons</p>
-        <p>Recognizing Fluxes</p>
-        <p>Consolidating Fuse Calipers</p>
-        <p>Mapping Shims</p>
-        <p>Reviewing Chop Groovers</p>
-        <p>Scheduling Lag Drives</p>
-        <p>Simplifying Hoists</p>
-        <p>Engineering Levels</p>
-        <p>Enhancing Tack Hollows</p>
-        <p>Establishing Finishing Blocks</p>
-        <p>Estimating Adhesives</p>
-        <p>Evaluating Mortar</p>
-        <p>Examining Auto Turnbuckles</p>
-        <p>Processing Foggers</p>
-        <p>Servicing Avenues</p>
-        <p>Transcribing Existence Rivets</p>
-        <p>Revising Consoles</p>
-        <p>Separating Absolute Stencils</p>
-        <p>Budgeting Sheet Grommets</p>
-        <p>Preparing Kits</p>
-        <p>Realigning Cartesian Mandrels</p>
-        <p>Painting Fasteners</p>
-        <p>Filing Grout Hangers</p>
-        <p>Finalizing Atma Augers</p>
-        <p>Formulating Couplings</p>
-        <p>Identifying Sillcocks</p>
-        <p>Imagining Materials</p>
-        <p>Inducing Shutters</p>
-        <p>Influencing Wheels</p>
-        <p>Licensing Chocks</p>
-        <p>Lifting Extrinsic Mallets</p>
-        <p>Overdrawing Ratchets</p>
-        <p>Overlaying Ventilators</p>
-        <p>Overriding Cardinal Soffits</p>
-        <p>Specifying Element Aggregates</p>
-        <p>Systemizing Divets</p>
-        <p>Shaping Pockets</p>
-        <p>Publicizing Aether Remotes</p>
-        <p>Reducing Slot Stops</p>
-        <p>Governing Archetype Dimmers</p>
-        <p>Monitoring Assets</p>
-        <p>Launching Manifestation Systems</p>
+        <img-txt>
+            <p>* Derived from a transcript by ShadowOfFate</p>
+            <p>Transforming Soffits</p>
+            <p>Reorganizing Keys</p>
+            <p>Formalizing Immersion Joints</p>
+            <p>Justifying Kick Extractors</p>
+            <p>Advising Aggregates</p>
+            <p>Managing Elbows</p>
+            <p>Recasting Connectors</p>
+            <p>Achieving Aluminum Trowels</p>
+            <p>Officiating Disks</p>
+            <p>Exhibiting Absolute Spigots</p>
+            <p>Progressing Coil Hydrants</p>
+            <p>Jerry-building Reflectors</p>
+            <p>Informing Casters</p>
+            <p>Inventing Rubber Hoists</p>
+            <p>Performing Wrenches</p>
+            <p>Judging Chalk Adapters</p>
+            <p>Upgrading Ignition Paths</p>
+            <p>Regrowing Flashing</p>
+            <p>Recommending Ratchets</p>
+            <p>Approving Barriers</p>
+            <p>Sweeping Impact Fillers</p>
+            <p>Sewing Mirrors</p>
+            <p>Detailing Collectors</p>
+            <p>Enforcing Measures</p>
+            <p>Distributing Systems</p>
+            <p>Presenting Plugs</p>
+            <p>Interwinding Registers</p>
+            <p>Piloting Ash Diffusers</p>
+            <p>Gathering Cranks</p>
+            <p>Supplying Eave Pockets</p>
+            <p>Undertaking Scroll Stops</p>
+            <p>Accelerating Straps</p>
+            <p>Designing Fittings</p>
+            <p>Protecting Diamond Boilers</p>
+            <p>Logging Downspouts</p>
+            <p>Correlating Shingles</p>
+            <p>Uniting Mallets</p>
+            <p>Qualifying Electrostatic Lifts</p>
+            <p>Sharing Clamps</p>
+            <p>Obtaining Circular Fluids</p>
+            <p>Ranking Foundation Gauges</p>
+            <p>Sensing Miter Brackets</p>
+            <p>Originating Space Networks</p>
+            <p>Translating Drills</p>
+            <p>Regulating Guards</p>
+            <p>Selecting Gable Padding</p>
+            <p>Utilizing Pellet Dowels</p>
+            <p>Reconciling Artifacts</p>
+            <p>Altering Pulleys</p>
+            <p>Shedding Space Filters</p>
+            <p>Determining Vents</p>
+            <p>Representing Mortar</p>
+            <p>Remaking Flash Rakers</p>
+            <p>Supporting Funnels</p>
+            <p>Typecasting Rotary Chocks</p>
+            <p>Expressing Junctures</p>
+            <p>Resetting Auxiliary Vises</p>
+            <p>Professing Strip Treads</p>
+            <p>Inlaying Matter Trowels</p>
+            <p>Questioning Drivers</p>
+            <p>Forming Edge Fittings</p>
+            <p>Sketching Blanks</p>
+            <p>Overshooting Spark Breakers</p>
+            <p>Rewriting Controls</p>
+            <p>Playing Tunnels</p>
+            <p>Inventorying Buttons</p>
+            <p>Enduring Joist Handles</p>
+            <p>Effecting Ratchet Bibbs</p>
+            <p>Unwinding Couplings</p>
+            <p>Forsaking Vapor Conduits</p>
+            <p>Defining Sockets</p>
+            <p>Calculating Heaters</p>
+            <p>Raising Grids</p>
+            <p>Administering Tiles</p>
+            <p>Measuring Resources</p>
+            <p>Installing Ignition Remotes</p>
+            <p>Extracting Corners</p>
+            <p>Manufacturing Ventilators</p>
+            <p>Delegating Consoles</p>
+            <p>Treating Mounting Stones</p>
+            <p>Enacting Jig Deflectors</p>
+            <p>Intensifying Alleys</p>
+            <p>Improvising Cargo</p>
+            <p>Pinpointing Bobs</p>
+            <p>Prescribing Arc Masonry</p>
+            <p>Structuring Metal Chucks</p>
+            <p>Symbolizing Lathes</p>
+            <p>Activating Plumb Kits</p>
+            <p>Adapting Coatings</p>
+            <p>Fixing Channels</p>
+            <p>Expediting Cordage</p>
+            <p>Planning Compressors</p>
+            <p>Enlisting Hangers</p>
+            <p>Restructuring Keyhole Augers</p>
+            <p>Shearing Ridge Hardware</p>
+            <p>Collecting Reciprocating Bolts</p>
+            <p>Maintaining Corrugated Dimmers</p>
+            <p>Whetting Hole Collars</p>
+            <p>Conducting Mandrels</p>
+            <p>Comparing Assets</p>
+            <p>Compiling Sealants</p>
+            <p>Completing Paths</p>
+            <p>Composing Equivocation Wheels</p>
+            <p>Computing Dampers</p>
+            <p>Conceiving Electrostatic Treatment</p>
+            <p>Ordering Cotter Grates</p>
+            <p>Organizing Ties</p>
+            <p>Orienting Ladders</p>
+            <p>Exceeding Materials</p>
+            <p>Targeting Thermocouples</p>
+            <p>Demonstrating Emery Stock</p>
+            <p>Expanding Latch Bases</p>
+            <p>Training Wardrobe Adhesives</p>
+            <p>Overcomming Fasteners</p>
+            <p>Streamlining Storm Anchors</p>
+            <p>Navigating Springs</p>
+            <p>Perfecting Turnbuckles</p>
+            <p>Verifying Gate Pegs</p>
+            <p>Arbitrating Arithmetic Lifts</p>
+            <p>Negotiating Outlets</p>
+            <p>Normalizing Strips</p>
+            <p>Building Surface Foggers</p>
+            <p>Checking Key Torches</p>
+            <p>Knitting Grinders</p>
+            <p>Mowing Planers</p>
+            <p>Offsetting Stencils</p>
+            <p>Acquiring Bulbs</p>
+            <p>Adopting Rivets</p>
+            <p>Observing Avenues</p>
+            <p>Ascertaining Coaxial Grommets</p>
+            <p>Slinging Wing Winches</p>
+            <p>Instituting Circuit Generators</p>
+            <p>Instructing Wicks</p>
+            <p>Integrating Pry Shutters</p>
+            <p>Interpreting Immersion Lumber</p>
+            <p>Clarifying Coils</p>
+            <p>Classifying Wood Bits</p>
+            <p>Closing Cogs</p>
+            <p>Cataloging Matter Strips</p>
+            <p>Charting Holders</p>
+            <p>Conceptualizing Push Terminals</p>
+            <p>Stimulating Supports</p>
+            <p>Overthrowing Shaft Spacers</p>
+            <p>Quick-freezing Connectors</p>
+            <p>Unbinding Ground Hooks</p>
+            <p>Analyzing Eyes</p>
+            <p>Anticipating Gateways</p>
+            <p>Controlling Proposition Rollers</p>
+            <p>Converting Power Angles</p>
+            <p>Coordinating Staples</p>
+            <p>Correcting Benders</p>
+            <p>Counseling Joist Gaskets</p>
+            <p>Recording Gutter Pipes</p>
+            <p>Recruiting Drains</p>
+            <p>Rehabilitating Rafter Tubes</p>
+            <p>Reinforcing Washers</p>
+            <p>Reporting Guard Valves</p>
+            <p>Naming Freize Sprues</p>
+            <p>Nominating Rings</p>
+            <p>Noting Straps</p>
+            <p>Doubling Nailers</p>
+            <p>Drafting Circuit Hoses</p>
+            <p>Dramatizing Flanges</p>
+            <p>Splitting Framing Compounds</p>
+            <p>Refitting Stems</p>
+            <p>Interweaving Patch Unions</p>
+            <p>Placing Sillcocks</p>
+            <p>Sorting Slot Threads</p>
+            <p>Securing Mode Cutters</p>
+            <p>Diverting Catharsis Plates</p>
+            <p>Procuring Load Thresholds</p>
+            <p>Transferring Syllogism Twine</p>
+            <p>Directing Switch Nuts</p>
+            <p>Referring Time Spools</p>
+            <p>Diagnosing Knobs</p>
+            <p>Discovering Locks</p>
+            <p>Dispensing Hinges</p>
+            <p>Displaying Hasps</p>
+            <p>Resending Arc Binders</p>
+            <p>Retreading Grooves</p>
+            <p>Retrofitting Aesthetics Portals</p>
+            <p>Seeking Stocks</p>
+            <p>Shrinking Wormholes</p>
+            <p>Assembling Blocks</p>
+            <p>Assessing Divets</p>
+            <p>Attaining Lug Boxes</p>
+            <p>Auditing Nescience Passages</p>
+            <p>Conserving Strikes</p>
+            <p>Constructing Braces</p>
+            <p>Contracting Saw Catches</p>
+            <p>Serving Instantiation Irons</p>
+            <p>Recognizing Fluxes</p>
+            <p>Consolidating Fuse Calipers</p>
+            <p>Mapping Shims</p>
+            <p>Reviewing Chop Groovers</p>
+            <p>Scheduling Lag Drives</p>
+            <p>Simplifying Hoists</p>
+            <p>Engineering Levels</p>
+            <p>Enhancing Tack Hollows</p>
+            <p>Establishing Finishing Blocks</p>
+            <p>Estimating Adhesives</p>
+            <p>Evaluating Mortar</p>
+            <p>Examining Auto Turnbuckles</p>
+            <p>Processing Foggers</p>
+            <p>Servicing Avenues</p>
+            <p>Transcribing Existence Rivets</p>
+            <p>Revising Consoles</p>
+            <p>Separating Absolute Stencils</p>
+            <p>Budgeting Sheet Grommets</p>
+            <p>Preparing Kits</p>
+            <p>Realigning Cartesian Mandrels</p>
+            <p>Painting Fasteners</p>
+            <p>Filing Grout Hangers</p>
+            <p>Finalizing Atma Augers</p>
+            <p>Formulating Couplings</p>
+            <p>Identifying Sillcocks</p>
+            <p>Imagining Materials</p>
+            <p>Inducing Shutters</p>
+            <p>Influencing Wheels</p>
+            <p>Licensing Chocks</p>
+            <p>Lifting Extrinsic Mallets</p>
+            <p>Overdrawing Ratchets</p>
+            <p>Overlaying Ventilators</p>
+            <p>Overriding Cardinal Soffits</p>
+            <p>Specifying Element Aggregates</p>
+            <p>Systemizing Divets</p>
+            <p>Shaping Pockets</p>
+            <p>Publicizing Aether Remotes</p>
+            <p>Reducing Slot Stops</p>
+            <p>Governing Archetype Dimmers</p>
+            <p>Monitoring Assets</p>
+            <p>Launching Manifestation Systems</p>
+        </img-txt>
         <p>SBURB</p>
     </entry>
     <entry>
         <command>==&gt;</command>
         <date>12/05/09</date>
-        <p>Select</p>
-        <p>Revise</p>
-        <p>Deploy</p>
-        <p>Phernalia Registry</p>
-        <p>Grist Cache</p>
-        <p>Explore Atheneum</p>
-        <p>Alchemy Excursus</p>
-        <p>[Mouseover the interface buttons. -AH]</p>
+        <img-txt>
+            <p>Select</p>
+            <p>Revise</p>
+            <p>Deploy</p>
+            <p>Phernalia Registry</p>
+            <p>Grist Cache</p>
+            <p>Explore Atheneum</p>
+            <p>Alchemy Excursus</p>
+            <p>[Mouseover the interface buttons. -AH]</p>
+        </img-txt>
     </entry>
     <entry>
         <command>TT: Select magic chest.</command>
@@ -1913,25 +1946,33 @@
     <entry>
         <command>TT: Open Phernalia Registry.</command>
         <date>14/05/09</date>
-        <p>Cruxtruder</p>
-        <p>Totem Lathe</p>
-        <p>Alchemiter</p>
+        <img-txt>
+            <p>Cruxtruder</p>
+            <p>Totem Lathe</p>
+            <p>Alchemiter</p>
+        </img-txt>
     </entry>
     <entry>
         <command>TT: Deploy Totem Lathe.</command>
         <date>14/05/09</date>
-        <p>Totem Lathe</p>
+        <img-txt>
+            <p>Totem Lathe</p>
+        </img-txt>
     </entry>
     <entry>
         <command>John: Examine Totem Lathe.</command>
         <date>14/05/09</date>
-        <p>JOHN: ?</p>
+        <img-txt>
+            <p>JOHN: ?</p>
+        </img-txt>
         <p>You don't know what the heck this thing does, but it looks neat!</p>
     </entry>
     <entry>
         <command>TT: Open Grist Cache</command>
         <date>14/05/09</date>
-        <p>Cache Limit: 20 =&gt; Build Grist: 16/20</p>
+        <img-txt>
+            <p>Cache Limit: 20 =&gt; Build Grist: 16/20</p>
+        </img-txt>
         <p>pesterlog</p>
         <p>TT: It seems expanding the dimensions of your room cost us some "Build Grist".</p>
         <p>TT: But deploying the lathe did not appear to incur any expense.</p>
@@ -1978,16 +2019,20 @@
     <entry>
         <command>TT: Deploy Cruxtruder.</command>
         <date>15/05/09</date>
-        <p>Pre-punched Card</p>
-        <p>Alchemiter</p>
-        <p>Cruxtruder</p>
+        <img-txt>
+            <p>Pre-punched Card</p>
+            <p>Alchemiter</p>
+            <p>Cruxtruder</p>
+        </img-txt>
     </entry>
     <entry>
         <command>TT: Deploy Alchemiter.</command>
         <date>15/05/09</date>
-        <p>Punch Designix</p>
-        <p>Pre-punched Card</p>
-        <p>Alchemiter</p>
+        <img-txt>
+            <p>Punch Designix</p>
+            <p>Pre-punched Card</p>
+            <p>Alchemiter</p>
+        </img-txt>
         <p>pesterlog</p>
         <p>EB: why is the floor shaking?</p>
         <p>EB: are you dropping more stuff in my house?</p>
@@ -2005,27 +2050,29 @@
     <entry>
         <command>John: Get PDA.</command>
         <date>15/05/09</date>
-        <p>SERIOUS BUSINESS</p>
-        <p>The following matters have been submitted in a frank and forthright</p>
-        <p>manner for pipefan413's judicious appraisal.</p>
-        <p>f grayslacks66 - 17:24</p>
-        <p>Decided to return home for fresh tie. Soiled tie will be laundered</p>
-        <p>immediately upon return</p>
-        <p>f wellPressedAttire - 17:23</p>
-        <p>Use ballpoint pen to roll up tip of cloth. Extract pen. Press rolled</p>
-        <p>cloth against ceramic surface, e.g. restroom sink. In future: consider</p>
-        <p>repositioning hat hook and/or coffee pot.</p>
-        <p>f officeurchin1280 - 17:23</p>
-        <p>Photographic documentation of incident?</p>
-        <p>f grayslacks66 - 17:22</p>
-        <p>Was posturing unevenly to reach for hat on wall hook. Tip of tie</p>
-        <p>slipped in open mouth of pot. Duration of "dunk": approx. 3 seconds.</p>
-        <p>f 2busy4this - 17:22</p>
-        <p>pl elab on 'incident'</p>
-        <p>f grayslacks66 - 17:21</p>
-        <p>Need counsel on removing coffee from necktie. Incident occurred 45</p>
-        <p>seconds ago. Beverage essences rapidly settling into fabric.</p>
-        <p>[SYSTEM]</p>
+        <img-txt>
+            <p>SERIOUS BUSINESS</p>
+            <p>The following matters have been submitted in a frank and forthright</p>
+            <p>manner for pipefan413's judicious appraisal.</p>
+            <p>f grayslacks66 - 17:24</p>
+            <p>Decided to return home for fresh tie. Soiled tie will be laundered</p>
+            <p>immediately upon return</p>
+            <p>f wellPressedAttire - 17:23</p>
+            <p>Use ballpoint pen to roll up tip of cloth. Extract pen. Press rolled</p>
+            <p>cloth against ceramic surface, e.g. restroom sink. In future: consider</p>
+            <p>repositioning hat hook and/or coffee pot.</p>
+            <p>f officeurchin1280 - 17:23</p>
+            <p>Photographic documentation of incident?</p>
+            <p>f grayslacks66 - 17:22</p>
+            <p>Was posturing unevenly to reach for hat on wall hook. Tip of tie</p>
+            <p>slipped in open mouth of pot. Duration of "dunk": approx. 3 seconds.</p>
+            <p>f 2busy4this - 17:22</p>
+            <p>pl elab on 'incident'</p>
+            <p>f grayslacks66 - 17:21</p>
+            <p>Need counsel on removing coffee from necktie. Incident occurred 45</p>
+            <p>seconds ago. Beverage essences rapidly settling into fabric.</p>
+            <p>[SYSTEM]</p>
+        </img-txt>
         <p>You grab the PDA, switching back to STACK MODUS so it is readily accessible.</p>
         <p>The interface is oddly sterile. No hilarious clown wallpapers or anything like that.
             (Oops, you mean harlequin wallpapers.)</p>
@@ -2036,22 +2083,24 @@
     <entry>
         <command>John: Install Pesterchum.</command>
         <date>15/05/09</date>
-        <p>PESTERCHUM 6.0</p>
-        <p>CHAT CLIENT</p>
-        <p>CHUMROLL :</p>
-        <p>- turntableGodhead</p>
-        <p>:) tentacleTherapist</p>
-        <p>- gardenGnostic</p>
-        <p>[PESTER!]</p>
-        <p>MYCHUMHANDLE :</p>
-        <p>:) ectoBiologist</p>
-        <p>MOOD :</p>
-        <p>[:) CHUMMY ] [:) BULLY (check) ]</p>
-        <p>[:) PALSY ] [:) PEPPY ]</p>
-        <p>[:) CHIPPER ] [&gt;:( RANCOROUS ]</p>
-        <p>[PESTERCHUM]</p>
-        <p>[SB]</p>
-        <p>[SYSTEM]</p>
+        <img-txt>
+            <p>PESTERCHUM 6.0</p>
+            <p>CHAT CLIENT</p>
+            <p>CHUMROLL :</p>
+            <p>- turntableGodhead</p>
+            <p>:) tentacleTherapist</p>
+            <p>- gardenGnostic</p>
+            <p>[PESTER!]</p>
+            <p>MYCHUMHANDLE :</p>
+            <p>:) ectoBiologist</p>
+            <p>MOOD :</p>
+            <p>[:) CHUMMY ] [:) BULLY (check) ]</p>
+            <p>[:) PALSY ] [:) PEPPY ]</p>
+            <p>[:) CHIPPER ] [&gt;:( RANCOROUS ]</p>
+            <p>[PESTERCHUM]</p>
+            <p>[SB]</p>
+            <p>[SYSTEM]</p>
+        </img-txt>
         <p>This should be useful. Now you can keep tabs on your chums while you wander around the
             house.</p>
     </entry>
@@ -2102,7 +2151,9 @@
     <entry>
         <command>TT: Grab the soiled toilet.</command>
         <date>16/05/09</date>
-        <p>16/20 =&gt; 14</p>
+        <img-txt>
+            <p>16/20 =&gt; 14</p>
+        </img-txt>
         <p>pesterlog</p>
         <p>TT: Whoops.</p>
         <p>EB: whoops what?</p>
@@ -2135,9 +2186,11 @@
     <entry>
         <command>John: Get sledgehammer and card.</command>
         <date>17/05/09</date>
-        <p>strife specibus</p>
-        <p>sylladex : strife deck</p>
-        <p>hammerkind</p>
+        <img-txt>
+            <p>strife specibus</p>
+            <p>sylladex : strife deck</p>
+            <p>hammerkind</p>
+        </img-txt>
         <p>You take the SLEDGEHAMMER and the CAPTCHALOGUE CARD, combine the two, and quickly apply
             it to your STRIFE SPECIBUS.</p>
         <p>You think it's cool that things don't always have to be a federal fucking issue.</p>
@@ -2145,7 +2198,9 @@
     <entry>
         <command>==&gt;</command>
         <date>17/05/09</date>
-        <p>Alert : . . .</p>
+        <img-txt>
+            <p>Alert : . . .</p>
+        </img-txt>
         <p>It looks like another one of your chums is pestering you on your PDA.</p>
     </entry>
     <entry>
@@ -2194,7 +2249,9 @@
     <entry>
         <command>==&gt;</command>
         <date>17/05/09</date>
-        <p>14/20 =&gt; 12</p>
+        <img-txt>
+            <p>14/20 =&gt; 12</p>
+        </img-txt>
         <p>pesterlog</p>
         <p>TT: Oh fuck.</p>
     </entry>
@@ -2207,7 +2264,9 @@
     <entry>
         <command>TT: Put bathtub in driveway.</command>
         <date>18/05/09</date>
-        <p>CONNECTION LOST</p>
+        <img-txt>
+            <p>CONNECTION LOST</p>
+        </img-txt>
         <p>On the tub's journey to the driveway, the connection is interrupted.</p>
     </entry>
     <entry>
@@ -2250,12 +2309,16 @@
     <entry>
         <command>==&gt;</command>
         <date>19/05/09</date>
-        <p>4:13</p>
+        <img-txt>
+            <p>4:13</p>
+        </img-txt>
     </entry>
     <entry>
         <command>==&gt;</command>
         <date>19/05/09</date>
-        <p>4:13 =&gt; :12 =&gt; :11 =&gt; :10</p>
+        <img-txt>
+            <p>4:13 =&gt; :12 =&gt; :11 =&gt; :10</p>
+        </img-txt>
         <p>pesterlog</p>
         <p>EB: what is this thing?</p>
         <p>EB: and what is that clock counting down to?</p>
@@ -2272,7 +2335,9 @@
     <entry>
         <command>John: Turn wheel again.</command>
         <date>19/05/09</date>
-        <p>4:03 =&gt; 4:02 =&gt; 4:01</p>
+        <img-txt>
+            <p>4:03 =&gt; 4:02 =&gt; 4:01</p>
+        </img-txt>
         <p>You extrude ONE (1) CRUXITE DOWEL.</p>
     </entry>
     <entry>
@@ -2287,7 +2352,9 @@
     <entry>
         <command>TT: Deploy Pre-punched Card.</command>
         <date>19/05/09</date>
-        <p>Pre-punched Card</p>
+        <img-txt>
+            <p>Pre-punched Card</p>
+        </img-txt>
     </entry>
     <entry>
         <command>John: Get card.</command>
@@ -2305,7 +2372,9 @@
     <entry>
         <command>==&gt;</command>
         <date>19/05/09</date>
-        <p>SPRITE: (textures)</p>
+        <img-txt>
+            <p>SPRITE: (textures)</p>
+        </img-txt>
         <p>pesterlog</p>
         <p>EB: this thing keeps following me around.</p>
         <p>EB: i think it's trying to talk to me or something.</p>
@@ -2331,7 +2400,9 @@
     <entry>
         <command>==&gt;</command>
         <date>21/05/09</date>
-        <p>SPRITE: (spriteglyphs)</p>
+        <img-txt>
+            <p>SPRITE: (spriteglyphs)</p>
+        </img-txt>
         <p>pesterlog</p>
         <p>EB: i still can't understand this thing's gobbledygook.</p>
         <p>TT: That was only "Tier One Prototyping".</p>
@@ -2358,8 +2429,10 @@
     <entry>
         <command>TT: Explore Atheneum.</command>
         <date>21/05/09</date>
-        <p>Perfectly Generic Object</p>
-        <p>2</p>
+        <img-txt>
+            <p>Perfectly Generic Object</p>
+            <p>2</p>
+        </img-txt>
         <p>Acquiring a CRUXITE DOWEL seems to have populated the ATHENEUM with one item: a PERFECTLY
             GENERIC OBJECT.</p>
     </entry>
@@ -2384,9 +2457,11 @@
     <entry>
         <command>==&gt;</command>
         <date>21/05/09</date>
-        <p>1 =&gt; 2 =&gt; 3</p>
-        <p>-2 =&gt; -4 =&gt; -6</p>
-        <p>12/20 =&gt; 6</p>
+        <img-txt>
+            <p>1 =&gt; 2 =&gt; 3</p>
+            <p>-2 =&gt; -4 =&gt; -6</p>
+            <p>12/20 =&gt; 6</p>
+        </img-txt>
         <p>You set the ALCHEMITER to cast THREE (3) PERFECTLY GENERIC OBJECTS for some reason,
             expending a total of 6 units of BUILD GRIST.</p>
         <p>These things look completely useless. What a waste!</p>
@@ -2405,8 +2480,10 @@
     <entry>
         <command>==&gt;</command>
         <date>22/05/09</date>
-        <p>3:10 =&gt; :09 =&gt; :08 =&gt; :07 =&gt; :06 =&gt; :05 =&gt; :04 =&gt; :03 =&gt; :02
-            =&gt; :01 =&gt; :00</p>
+        <img-txt>
+            <p>3:10 =&gt; :09 =&gt; :08 =&gt; :07 =&gt; :06 =&gt; :05 =&gt; :04 =&gt; :03 =&gt; :02
+                =&gt; :01 =&gt; :00</p>
+        </img-txt>
     </entry>
     <entry>
         <command>==&gt;</command>
@@ -2423,16 +2500,18 @@
     <entry>
         <command>John: Attempt to ingest a unit of build grist.</command>
         <date>23/05/09</date>
-        <p>Made With Real Fruit</p>
-        <p>EXCELLENT SOURCE</p>
-        <p>OF VITAMIN C</p>
-        <p>RE-DO YOUR RO-</p>
-        <p>SWEEPSTAKES</p>
-        <p>YOU COULD WIN $10,000</p>
-        <p>Betty Crocker</p>
-        <p>Fruit</p>
-        <p>Gushers</p>
-        <p>Rockin' Blue Raspberry</p>
+        <img-txt>
+            <p>Made With Real Fruit</p>
+            <p>EXCELLENT SOURCE</p>
+            <p>OF VITAMIN C</p>
+            <p>RE-DO YOUR RO-</p>
+            <p>SWEEPSTAKES</p>
+            <p>YOU COULD WIN $10,000</p>
+            <p>Betty Crocker</p>
+            <p>Fruit</p>
+            <p>Gushers</p>
+            <p>Rockin' Blue Raspberry</p>
+        </img-txt>
         <p>It is tempting because they strongly resemble Rockin' Blue Raspberry Gushers. However,
             units of BUILD GRIST are a gaming abstraction and do not seem to exist on the physical
             plane!</p>
@@ -2452,19 +2531,25 @@
     <entry>
         <command>TT: Revise bathroom.</command>
         <date>23/05/09</date>
-        <p>6/20 =&gt; 2</p>
+        <img-txt>
+            <p>6/20 =&gt; 2</p>
+        </img-txt>
     </entry>
     <entry>
         <command>==&gt;</command>
         <date>23/05/09</date>
-        <p>DAD: ?</p>
-        <p>DAD: ?</p>
+        <img-txt>
+            <p>DAD: ?</p>
+            <p>DAD: ?</p>
+        </img-txt>
     </entry>
     <entry>
         <command>John: Run to your room and contact TT through Pesterchum.</command>
         <date>23/05/09</date>
-        <p>Alert : . . .</p>
-        <p>Alert : . . .</p>
+        <img-txt>
+            <p>Alert : . . .</p>
+            <p>Alert : . . .</p>
+        </img-txt>
         <p>Two chums have been trying to message you.</p>
     </entry>
     <entry>
@@ -2593,13 +2678,17 @@
     <entry>
         <command>==&gt;</command>
         <date>25/05/09</date>
-        <p>CONNECTION LOST</p>
+        <img-txt>
+            <p>CONNECTION LOST</p>
+        </img-txt>
     </entry>
     <entry>
         <command>==&gt;</command>
         <date>25/05/09</date>
-        <p>2:10 =&gt; :09 =&gt; :08 =&gt; :07 =&gt; :06 =&gt; :05 =&gt; :04 =&gt; :03 =&gt; :02
-            =&gt; :01 =&gt; :00</p>
+        <img-txt>
+            <p>2:10 =&gt; :09 =&gt; :08 =&gt; :07 =&gt; :06 =&gt; :05 =&gt; :04 =&gt; :03 =&gt; :02
+                =&gt; :01 =&gt; :00</p>
+        </img-txt>
     </entry>
     <entry>
         <command>==&gt;</command>
@@ -2615,13 +2704,17 @@
     <entry>
         <command>Enter name.</command>
         <date>28/05/09</date>
-        <p>FLIGHTY BROAD</p>
+        <img-txt>
+            <p>FLIGHTY BROAD</p>
+        </img-txt>
         <p>No, that wasn't it!</p>
     </entry>
     <entry>
         <command>One more time.</command>
         <date>28/05/09</date>
-        <p>(check) ROSE LALONDE</p>
+        <img-txt>
+            <p>(check) ROSE LALONDE</p>
+        </img-txt>
     </entry>
     <entry>
         <command>Examine room.</command>
@@ -2702,10 +2795,12 @@
     <entry>
         <command>Rose: Examine book on desk.</command>
         <date>31/05/09</date>
-        <p>GRIMOIRE</p>
-        <p>FOR SUMMONING THE</p>
-        <p>ZOOLOGICALLY</p>
-        <p>DUBIOUS</p>
+        <img-txt>
+            <p>GRIMOIRE</p>
+            <p>FOR SUMMONING THE</p>
+            <p>ZOOLOGICALLY</p>
+            <p>DUBIOUS</p>
+        </img-txt>
         <p>This book is absolutely indispensable for enthusiasts of your ilk. Of which there are
             very few.</p>
     </entry>
@@ -2776,48 +2871,52 @@
     <entry>
         <command>Rose: Stack laptop on Grimoire to maximize elevation.</command>
         <date>04/06/09</date>
-        <p>GRIMOIRE</p>
+        <img-txt>
+            <p>GRIMOIRE</p>
+        </img-txt>
         <p>You'll need every advantage you can get.</p>
     </entry>
     <entry>
         <command>Rose: Access laboratory wifi network.</command>
         <date>04/06/09</date>
-        <p>CETUS</p>
-        <p>http://www.gamefaqs.com/doswin/home/927614.html</p>
-        <p>SBURB BETA</p>
-        <p>Gamespot</p>
-        <p>GameFaqs</p>
-        <p>Email Password</p>
-        <p>[ ][ ][login]</p>
-        <p>Sign up|Forgot Password?</p>
-        <p>Search [All Platforms] [go]</p>
-        <p>Home | What's New | Contribute | Features | Boards | My Games | Answers | Help</p>
-        <p>Platforms : DS | GBA | GameCube | PC | PS2 | PS3 | Wii | Xbox | Xbox 360 | All
-            Systems</p>
-        <p>PC =&gt; Miscellanous =&gt; Immersive Simulation</p>
-        <p>Sburb Beta</p>
-        <p>Home | Data | FAQs | Cheats | Images | My Games | Answers | Board | Check Prices</p>
-        <p>Sburb Beta</p>
-        <p>Page 1 of 176</p>
-        <p>Back to : Bo-</p>
-        <p>SBURB SERVER</p>
-        <p>Lost connection with client.</p>
-        <p>RECONNECTING...</p>
-        <p>&gt; _</p>
-        <p>AVAILABLE WIRELESS NETWORKS</p>
-        <p>SN_LAB0413 UNSECURED</p>
-        <p>SN_LAB9687 SECURED</p>
-        <p>SN_LAB1802 SECURED</p>
-        <p>SN_LAB5565 SECURED</p>
-        <p>SBURB SERVER</p>
-        <p>Lost connection with client.</p>
-        <p>RECONNECTING...</p>
-        <p>Server has established connection with client.</p>
-        <p>&gt; _</p>
-        <p>[HD]</p>
-        <p>[scraps]</p>
-        <p>[leavings]</p>
-        <p>[detritus]</p>
+        <img-txt>
+            <p>CETUS</p>
+            <p>http://www.gamefaqs.com/doswin/home/927614.html</p>
+            <p>SBURB BETA</p>
+            <p>Gamespot</p>
+            <p>GameFaqs</p>
+            <p>Email Password</p>
+            <p>[ ][ ][login]</p>
+            <p>Sign up|Forgot Password?</p>
+            <p>Search [All Platforms] [go]</p>
+            <p>Home | What's New | Contribute | Features | Boards | My Games | Answers | Help</p>
+            <p>Platforms : DS | GBA | GameCube | PC | PS2 | PS3 | Wii | Xbox | Xbox 360 | All
+                Systems</p>
+            <p>PC =&gt; Miscellanous =&gt; Immersive Simulation</p>
+            <p>Sburb Beta</p>
+            <p>Home | Data | FAQs | Cheats | Images | My Games | Answers | Board | Check Prices</p>
+            <p>Sburb Beta</p>
+            <p>Page 1 of 176</p>
+            <p>Back to : Bo-</p>
+            <p>SBURB SERVER</p>
+            <p>Lost connection with client.</p>
+            <p>RECONNECTING...</p>
+            <p>&gt; _</p>
+            <p>AVAILABLE WIRELESS NETWORKS</p>
+            <p>SN_LAB0413 UNSECURED</p>
+            <p>SN_LAB9687 SECURED</p>
+            <p>SN_LAB1802 SECURED</p>
+            <p>SN_LAB5565 SECURED</p>
+            <p>SBURB SERVER</p>
+            <p>Lost connection with client.</p>
+            <p>RECONNECTING...</p>
+            <p>Server has established connection with client.</p>
+            <p>&gt; _</p>
+            <p>[HD]</p>
+            <p>[scraps]</p>
+            <p>[leavings]</p>
+            <p>[detritus]</p>
+        </img-txt>
         <p>There are several signals being broadcasted from the LABORATORY, each of relatively
             decent strength.</p>
         <p>One of them is mysteriously and quite conveniently UNSECURED, requiring no password.</p>
@@ -2826,8 +2925,10 @@
     <entry>
         <command>==&gt;</command>
         <date>04/06/09</date>
-        <p>0:41 =&gt; :40 =&gt; :39 =&gt; :38 =&gt; :37 =&gt; :36 =&gt; :35 =&gt; :34 =&gt; :33
-            =&gt; :32 =&gt; :31</p>
+        <img-txt>
+            <p>0:41 =&gt; :40 =&gt; :39 =&gt; :38 =&gt; :37 =&gt; :36 =&gt; :35 =&gt; :34 =&gt; :33
+                =&gt; :32 =&gt; :31</p>
+        </img-txt>
         <p>pesterlog</p>
         <p>TT: I'm back.</p>
         <p>EB: hurry up and open my door!!!!!!</p>
@@ -2849,7 +2950,9 @@
     <entry>
         <command>Rose: Remove door from hinges.</command>
         <date>04/06/09</date>
-        <p>2/20 =&gt; 0</p>
+        <img-txt>
+            <p>2/20 =&gt; 0</p>
+        </img-txt>
         <p>There goes the rest of your BUILD GRIST.</p>
     </entry>
     <entry>
@@ -2876,11 +2979,13 @@
     <entry>
         <command>[S] John: Take bite of apple.</command>
         <date>07/06/09</date>
-        <p>0:30 =&gt; :29 =&gt; :28 =&gt; :27 =&gt; :26 =&gt; :25 =&gt; :24 =&gt; :23 =&gt; :22
-            =&gt; :21</p>
-        <p>=&gt; :20 =&gt; :19 =&gt; :18 =&gt; :17 =&gt; :16 =&gt; :15 =&gt; :14 =&gt; :13 =&gt; :12
-            =&gt; :11</p>
-        <p>=&gt; :10 =&gt; :09 =&gt; :08 =&gt; :07 =&gt; :06 =&gt; :05 =&gt; :04 =&gt; :03 =&gt; :02
-            =&gt; :01</p>
+        <img-txt>
+            <p>0:30 =&gt; :29 =&gt; :28 =&gt; :27 =&gt; :26 =&gt; :25 =&gt; :24 =&gt; :23 =&gt; :22
+                =&gt; :21</p>
+            <p>=&gt; :20 =&gt; :19 =&gt; :18 =&gt; :17 =&gt; :16 =&gt; :15 =&gt; :14 =&gt; :13 =&gt;
+                :12 =&gt; :11</p>
+            <p>=&gt; :10 =&gt; :09 =&gt; :08 =&gt; :07 =&gt; :06 =&gt; :05 =&gt; :04 =&gt; :03 =&gt;
+                :02 =&gt; :01</p>
+        </img-txt>
     </entry>
 </act>
