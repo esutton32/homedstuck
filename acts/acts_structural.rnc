@@ -1,0 +1,8 @@
+# Schema for acts of Homestuck (CURRENTLY ONLY STRUCTURAL!)
+start = act
+act = element act {entry+}
+entry = element entry {command, date, img-txt*, p*}
+command = element command {text}
+date = element date {text}
+img-txt = element img-txt {p*}
+p = element p {text}
