@@ -8,3 +8,5 @@
 1. command tagging: `(.+?)(\n<date)` w `<command>\1</command>\2`
 1. ok so i had to put a shit ton of whitespaces before every `<command>` to get this regex to work
 1. `(<command>.+?)\n{3,}(\n)` w `<entry>\1</entry>\2`
+1. normalized whitespace (eliminated) i.e. empty lines and spaces
+1. manually (oh my god) put image text in `img-text` elements
