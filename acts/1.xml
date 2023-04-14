@@ -276,44 +276,50 @@
         <date>15/04/09</date>
         <img-txt>
             <p>:: turntechGodhead ::</p>
-
             <p>PESTERLOG :</p>
             <p>-- turntechGodhead [TG] began pestering ectoBiologist [EB] at 16:13 --</p>
-            <p>TG: hey so what sort of insane loot did you rake in today</p>
+            <p>TG:hey so what sort of insane loot did you rake in today</p>
             <p>[PESTER!]</p>
         </img-txt>
-        <p>pesterlog</p>
-        <p>-- turntechGodhead [TG] began pestering ectoBiologist [EB] at 16:13 --</p>
-        <p>TG: hey so what sort of insane loot did you rake in today</p>
-        <p>EB: i got a little monsters poster, it's so awesome. i'm going to watch it again today,
-            the applejuice scene was so funny.</p>
-        <p>TG: oh hell that is such a coincidence i just found an unopened container of apple juice
-            in my closet it is like fucking christmas up in here</p>
-        <p>EB: ok thats fine, but i just have one question and then a word of caution. have you ever
-            seen a movie called little monsters starring howie mandel and fred savage?</p>
-        <p>TG: but</p>
-        <p>TG: the seal on the bottle is unbroken</p>
-        <p>TG: are you suggesting someone put piss in my apple juice at the factory</p>
-        <p>EB: all im saying is don't you think monster howie mandel has the power to do something
-            as simple as reseal a bottle?</p>
-        <p>EB: try using your brain numbnuts.</p>
-        <p>TG: why did the fat kid or whoever drank it know what piss tasted like</p>
-        <p>TG: i mean his reaction was nigh instantaneous</p>
-        <p>EB: it was the 15th day in a row howie mandel peed in his juice.</p>
-        <p>TG: ok i can accept that</p>
-        <p>TG: monster B-list celebrity douchebags are cunning and persistent pranksters</p>
-        <p>TG: also fred savage has a really punchable face</p>
-        <p>TG: but who cares about this lets stop talking about it</p>
-        <p>TG: did you get the beta yet</p>
-        <p>EB: no.</p>
-        <p>EB: did you?</p>
-        <p>TG: man i got two copies already</p>
-        <p>TG: but i dont care im not going to play it or anything the game sounds boring</p>
-        <p>TG: did you see how it got slammed in game bro????</p>
-        <p>EB: game bro is a joke and we both know it.</p>
-        <p>TG: yeah</p>
-        <p>TG: why dont you go check your mail maybe its there now</p>
-        <p>EB: alright.</p>
+        <pesterlog>
+            <log>
+                <declaration>-- turntechGodhead [TG] began pestering ectoBiologist [EB] at 16:13
+                    --</declaration>
+                <msg from="TG">TG: hey so what sort of insane loot did you rake in today</msg>
+                <msg from="EB">EB: i got a little monsters poster, it's so awesome. i'm going to watch it again
+                    today, the applejuice scene was so funny.</msg>
+                <msg from="TG">TG: oh hell that is such a coincidence i just found an unopened container of
+                    apple juice in my closet it is like fucking christmas up in here</msg>
+                <msg from="EB">EB: ok thats fine, but i just have one question and then a word of caution. have
+                    you ever seen a movie called little monsters starring howie mandel and fred
+                    savage?</msg>
+                <msg from="TG">TG: but</msg>
+                <msg from="TG">TG: the seal on the bottle is unbroken</msg>
+                <msg from="TG">TG: are you suggesting someone put piss in my apple juice at the factory</msg>
+                <msg from="EB">EB: all im saying is don't you think monster howie mandel has the power to do
+                    something as simple as reseal a bottle?</msg>
+                <msg from="EB">EB: try using your brain numbnuts.</msg>
+                <msg from="TG">TG: why did the fat kid or whoever drank it know what piss tasted like</msg>
+                <msg from="TG">TG: i mean his reaction was nigh instantaneous</msg>
+                <msg from="EB">EB: it was the 15th day in a row howie mandel peed in his juice.</msg>
+                <msg from="TG">TG: ok i can accept that</msg>
+                <msg from="TG">TG: monster B-list celebrity douchebags are cunning and persistent
+                    pranksters</msg>
+                <msg from="TG">TG: also fred savage has a really punchable face</msg>
+                <msg from="TG">TG: but who cares about this lets stop talking about it</msg>
+                <msg from="TG">TG: did you get the beta yet</msg>
+                <msg from="EB">EB: no.</msg>
+                <msg from="EB">EB: did you?</msg>
+                <msg from="TG">TG: man i got two copies already</msg>
+                <msg from="TG">TG: but i dont care im not going to play it or anything the game sounds
+                    boring</msg>
+                <msg from="TG">TG: did you see how it got slammed in game bro????</msg>
+                <msg from="EB">EB: game bro is a joke and we both know it.</msg>
+                <msg from="TG">TG: yeah</msg>
+                <msg from="TG">TG: why dont you go check your mail maybe its there now</msg>
+                <msg from="EB">EB: alright.</msg>
+            </log>
+        </pesterlog>
     </entry>
     <entry>
         <command>John: Look out window.</command>
@@ -425,47 +431,53 @@
         <img-txt>
             <p>:: turntechGodhead ::</p>
             <p>PESTERLOG :</p>
-            <p>TG: is it there</p>
-            <p>TG: plz say yes</p>
+            <p>TG:is it there</p>
+            <p>TG:plz say yes</p>
         </img-txt>
-        <p>pesterlog</p>
-        <p>TG: is it there</p>
-        <p>TG: plz say yes</p>
-        <p>TG: maybe you can play with TT shes been pestering me all day about it</p>
-        <p>TG: shes mackin on me so hard all the time i start to feel embarrassed for her</p>
-        <p>TG: i mean not that i can blame her or anything</p>
-        <p>EB: yes, it is understandable because you are really attractive. i am attracted to
-            you.</p>
-        <p>TG: thank you</p>
-        <p>EB: jk haha.</p>
-        <p>EB: no, i don't have it yet.</p>
-        <p>EB: my dad has the mail and i guess i have to go get it from him and see if it's
-            there.</p>
-        <p>EB: and i've been busy spending all afternoon shitting around with my stupid
-            sylladex.</p>
-        <p>EB: it's so frustrating.</p>
-        <p>TG: whats your modus</p>
-        <p>EB: what?</p>
-        <p>TG: how do you retrieve artifacts from it</p>
-        <p>EB: oh. like one at a time i guess. and if i put too much in, something falls out.</p>
-        <p>TG: stack?? hahahahahaha</p>
-        <p>EB: what is yours?</p>
-        <p>TG: hash map</p>
-        <p>TG: my bro taught me a few tricks he basically knows everything and is awesome</p>
-        <p>EB: what the hell is that?</p>
-        <p>TG: you should probably brush up on your data structures</p>
-        <p>EB: i guess.</p>
-        <p>TG: did you at least allocate your strife specibus</p>
-        <p>EB: no.</p>
-        <p>TG: it could free up a card for you</p>
-        <p>TG: plus let you attack stuff whenever things get too hot to handle</p>
-        <p>TG: which is never</p>
-        <p>TG: what have you got</p>
-        <p>EB: well, i've got a hammer but it's trapped under some arms.</p>
-        <p>TG: wow you really suck at this dont you</p>
-        <p>TG: just get rid of the arms and then allocate the hammer to the specibus</p>
-        <p>EB: how?</p>
-        <p>TG: i dont know just use the arms on any old thing and see if it works</p>
+        <pesterlog>
+            <log>
+                <msg from="TG">TG: is it there</msg>
+                <msg from="TG">TG: plz say yes</msg>
+                <msg from="TG">TG: maybe you can play with TT shes been pestering me all day about it</msg>
+                <msg from="TG">TG: shes mackin on me so hard all the time i start to feel embarrassed for
+                    her</msg>
+                <msg from="TG">TG: i mean not that i can blame her or anything</msg>
+                <msg from="EB">EB: yes, it is understandable because you are really attractive. i am attracted
+                    to you.</msg>
+                <msg from="TG">TG: thank you</msg>
+                <msg from="EB">EB: jk haha.</msg>
+                <msg from="EB">EB: no, i don't have it yet.</msg>
+                <msg from="EB">EB: my dad has the mail and i guess i have to go get it from him and see if it's
+                    there.</msg>
+                <msg from="EB">EB: and i've been busy spending all afternoon shitting around with my stupid
+                    sylladex.</msg>
+                <msg from="EB">EB: it's so frustrating.</msg>
+                <msg from="TG">TG: whats your modus</msg>
+                <msg from="EB">EB: what?</msg>
+                <msg from="TG">TG: how do you retrieve artifacts from it</msg>
+                <msg from="EB">EB: oh. like one at a time i guess. and if i put too much in, something falls
+                    out.</msg>
+                <msg from="TG">TG: stack?? hahahahahaha</msg>
+                <msg from="EB">EB: what is yours?</msg>
+                <msg from="TG">TG: hash map</msg>
+                <msg from="TG">TG: my bro taught me a few tricks he basically knows everything and is
+                    awesome</msg>
+                <msg from="EB">EB: what the hell is that?</msg>
+                <msg from="TG">TG: you should probably brush up on your data structures</msg>
+                <msg from="EB">EB: i guess.</msg>
+                <msg from="TG">TG: did you at least allocate your strife specibus</msg>
+                <msg from="EB">EB: no.</msg>
+                <msg from="TG">TG: it could free up a card for you</msg>
+                <msg from="TG">TG: plus let you attack stuff whenever things get too hot to handle</msg>
+                <msg from="TG">TG: which is never</msg>
+                <msg from="TG">TG: what have you got</msg>
+                <msg from="EB">EB: well, i've got a hammer but it's trapped under some arms.</msg>
+                <msg from="TG">TG: wow you really suck at this dont you</msg>
+                <msg from="TG">TG: just get rid of the arms and then allocate the hammer to the specibus</msg>
+                <msg from="EB">EB: how?</msg>
+                <msg from="TG">TG: i dont know just use the arms on any old thing and see if it works</msg>
+            </log>
+        </pesterlog>
     </entry>
     <entry>
         <command>John: Combine fake arms with cake.</command>
@@ -585,15 +597,19 @@
     <entry>
         <command>John: Report progress to TG.</command>
         <date>16/04/09</date>
-        <p>pesterlog</p>
-        <p>EB: ok, i did it.</p>
-        <p>TG: hammerkind?</p>
-        <p>EB: yeah.</p>
-        <p>TG: ok that will be the permanent allocation for your specibus</p>
-        <p>TG: i guess i should have mentioned that</p>
-        <p>EB: uh...</p>
-        <p>TG: hope you like hammers dude!</p>
-        <p>EB: yeah, that's fine i guess. i can't imagine it's going to be all that relevant.</p>
+        <pesterlog>
+            <log>
+                <msg from="EB">EB: ok, i did it.</msg>
+                <msg from="TG">TG: hammerkind?</msg>
+                <msg from="EB">EB: yeah.</msg>
+                <msg from="TG">TG: ok that will be the permanent allocation for your specibus</msg>
+                <msg from="TG">TG: i guess i should have mentioned that</msg>
+                <msg from="EB">EB: uh...</msg>
+                <msg from="TG">TG: hope you like hammers dude!</msg>
+                <msg from="EB">EB: yeah, that's fine i guess. i can't imagine it's going to be all that
+                    relevant.</msg>
+            </log>
+        </pesterlog>
     </entry>
     <entry>
         <command>John: Captchalogue Colonel's big book.</command>
@@ -840,35 +856,39 @@
             <p>PESTERLOG :</p>
             <p>-- tentacleTherapist [TT] began pestering</p>
             <p>ectoBiologist [EB] at 16:26 --</p>
-            <p>TT: I understand you have recently come</p>
+            <p>TT:I understand you have recently come</p>
             <p>into possession of the beta release of</p>
             <p>"The Game of the Year", as featured in</p>
             <p>respectable periodicals such as GameBro</p>
             <p>Magazine.</p>
         </img-txt>
-        <p>pesterlog</p>
-        <p>TT: I understand you have recently come into possession of the beta release of "The Game
-            of the Year", as featured in respectable periodicals such as GameBro Magazine.</p>
-        <p>EB: that's an ugly rumor.</p>
-        <p>EB: whoever told you that is a filthy liar.</p>
-        <p>EB: and you should probably stop hitting on him all the time or whatever.</p>
-        <p>TT: I can't control myself.</p>
-        <p>TT: I must have a weakness for insufferable pricks.</p>
-        <p>EB: anyway i still haven't checked the mail, my dad has it.</p>
-        <p>EB: i'm trying to go get it from him, so brb</p>
-        <p>TT: John.</p>
-        <p>EB: what?</p>
-        <p>TT: You're wearing one of your disguises now, aren't you?</p>
-        <p>TT: You are typing to me right now while wearing something ridiculous.</p>
-        <p>EB: no, why would you even think that??</p>
-        <p>EB: that's so stupid.</p>
-        <p>TT: Ok.</p>
-        <p>TT: Why don't you go get the game from your father?</p>
-        <p>EB: alright, wish me luck.</p>
-        <p>EB: oh, btw...</p>
-        <p>EB: jk I was wearing a funny disguise this whole time.</p>
-        <p>EB: gotcha! hehehehe</p>
-        <p>TT: I know, John.</p>
+        <pesterlog>
+            <log>
+                <msg from="TT">TT: I understand you have recently come into possession of the beta release of
+                    "The Game of the Year", as featured in respectable periodicals such as GameBro
+                    Magazine.</msg>
+                <msg from="EB">EB: that's an ugly rumor.</msg>
+                <msg from="EB">EB: whoever told you that is a filthy liar.</msg>
+                <msg from="EB">EB: and you should probably stop hitting on him all the time or whatever.</msg>
+                <msg from="TT">TT: I can't control myself.</msg>
+                <msg from="TT">TT: I must have a weakness for insufferable pricks.</msg>
+                <msg from="EB">EB: anyway i still haven't checked the mail, my dad has it.</msg>
+                <msg from="EB">EB: i'm trying to go get it from him, so brb</msg>
+                <msg from="TT">TT: John.</msg>
+                <msg from="EB">EB: what?</msg>
+                <msg from="TT">TT: You're wearing one of your disguises now, aren't you?</msg>
+                <msg from="TT">TT: You are typing to me right now while wearing something ridiculous.</msg>
+                <msg from="EB">EB: no, why would you even think that??</msg>
+                <msg from="EB">EB: that's so stupid.</msg>
+                <msg from="TT">TT: Ok.</msg>
+                <msg from="TT">TT: Why don't you go get the game from your father?</msg>
+                <msg from="EB">EB: alright, wish me luck.</msg>
+                <msg from="EB">EB: oh, btw...</msg>
+                <msg from="EB">EB: jk I was wearing a funny disguise this whole time.</msg>
+                <msg from="EB">EB: gotcha! hehehehe</msg>
+                <msg from="TT">TT: I know, John.</msg>
+            </log>
+        </pesterlog>
     </entry>
     <entry>
         <command>John: Go back downstairs.</command>
@@ -1281,70 +1301,83 @@
             <p>:) gardenGno...</p>
             <p>:) turntechGo...</p>
         </img-txt>
-        <p>pesterlog</p>
-        <p>-- gardenGnostic [GG] began pestering ectoBiologist [EB] at 16:34 --</p>
-        <p>GG: hi happy birthday john!!!!! &lt;3</p>
-        <p>GG: helloooooo??</p>
-        <p>GG: ok i will talk to you later!!! :D</p>
-        <p>-- gardenGnostic [GG] ceased pestering ectoBiologist [EB] at 16:56 --</p>
-        <p>-- turntechGodhead [TG] began pestering ectoBiologist [EB] at 16:40 --</p>
-        <p>TG: hey GG is looking for you why are you even so popular all of a sudden</p>
-        <p>TG: is today some sort of special occasion or something</p>
-        <p>TG: did you do something to curry favor with ladies</p>
-        <p>TG: did you break your leg on a puppy or some shit</p>
-        <p>TG: dude what are you doing</p>
-        <p>-- turntechGodhead [TG] is now an idle chum! --</p>
-        <p>EB: i discovered a comet that is going to destroy the earth, and it was named after
-            me.</p>
-        <p>EB: now i am famous, and everyone wants to talk to me a lot.</p>
-        <p>TG: no stop</p>
-        <p>TG: just no</p>
-        <p>TG: dont talk about your awful stupid movies or make references to them</p>
-        <p>TG: your gross man-bro crush on matt macconahay is an unsavory thing to behold</p>
-        <p>EB: mcconaughey.</p>
-        <p>TG: sounds like a noise a horse would make</p>
-        <p>TG: ie dumb</p>
-        <p>TG: equally dumb are all those pictures of that clown youve got hanging up</p>
-        <p>EB: those are my dad's.</p>
-        <p>TG: i was talking about nick cage</p>
-        <p>EB: oh, what?! no man, cage is sweet. so sweet.</p>
-        <p>TG: ha ha so lame</p>
-        <p>TG: you dont even like him ironically or anything this is like for real isnt it</p>
-        <p>TG: hahaha</p>
-        <p>EB: i do things ironically sometimes.</p>
-        <p>EB: what about what i sent you for your birthday?</p>
-        <p>TG: no those are awesome</p>
-        <p>EB: what? no, they're stupid, which was the joke. the IRONIC joke. get it?</p>
-        <p>EB: wait...</p>
-        <p>EB: you're actually wearing them, aren't you?</p>
-        <p>TG: im wearing them ironically</p>
-        <p>TG: because theyre awesome</p>
-        <p>TG: the fact that theyre ironic makes them awesome</p>
-        <p>TG: and vice versa</p>
-        <p>TG: are you taking notes on how to be cool?? jesus get a fucking pen</p>
-        <p>EB: you do realize they touched stiller's weird, sort of gaunt face at some point.</p>
-        <p>TG: ew yeah</p>
-        <p>TG: oh well</p>
-        <p>TG: anyway speaking of which</p>
-        <p>TG: did you get the mail</p>
-        <p>EB: yeah.</p>
-        <p>TG: did there happen to be a package there</p>
-        <p>EB: yeah, there's a big red one.</p>
-        <p>TG: you should probably open it</p>
-        <p>EB: i would, but it's trapped under the sburb beta, so i will probably open it after i
-            install the beta.</p>
-        <p>TG: oh man the beta came</p>
-        <p>EB: yeah! wanna play it?</p>
-        <p>TG: haha no way</p>
-        <p>EB: why not!</p>
-        <p>TG: it sounds so HELLS of boring just get TT to play it she is all about that</p>
-        <p>EB: where'd she go.</p>
-        <p>TG: her internet is blinking in and out i guess</p>
-        <p>TG: probably be back online soon</p>
-        <p>TG: oh and christ in a sidecar are you still using the stack modus???</p>
-        <p>TG: seriously dude</p>
-        <p>TG: you need to BONE UP on your data structures that shit is just ridiculous</p>
-        <p>EB: ok, i will.</p>
+        <pesterlog>
+            <log>
+                <declaration>-- gardenGnostic [GG] began pestering ectoBiologist [EB] at 16:34
+                    --</declaration>
+                <msg from="GG">GG: hi happy birthday john!!!!! &lt;3</msg>
+                <msg from="GG">GG: helloooooo??</msg>
+                <msg from="GG">GG: ok i will talk to you later!!! :D</msg>
+                <declaration>-- gardenGnostic [GG] ceased pestering ectoBiologist [EB] at 16:56
+                    --</declaration>
+            </log>
+            <log>
+                <declaration>-- turntechGodhead [TG] began pestering ectoBiologist [EB] at 16:40
+                    --</declaration>
+                <msg from="TG">TG: hey GG is looking for you why are you even so popular all of a sudden</msg>
+                <msg from="TG">TG: is today some sort of special occasion or something</msg>
+                <msg from="TG">TG: did you do something to curry favor with ladies</msg>
+                <msg from="TG">TG: did you break your leg on a puppy or some shit</msg>
+                <msg from="TG">TG: dude what are you doing</msg>
+                <declaration>-- turntechGodhead [TG] is now an idle chum! --</declaration>
+                <msg from="EB">EB: i discovered a comet that is going to destroy the earth, and it was named
+                    after me.</msg>
+                <msg from="EB">EB: now i am famous, and everyone wants to talk to me a lot.</msg>
+                <msg from="TG">TG: no stop</msg>
+                <msg from="TG">TG: just no</msg>
+                <msg from="TG">TG: dont talk about your awful stupid movies or make references to them</msg>
+                <msg from="TG">TG: your gross man-bro crush on matt macconahay is an unsavory thing to
+                    behold</msg>
+                <msg from="EB">EB: mcconaughey.</msg>
+                <msg from="TG">TG: sounds like a noise a horse would make</msg>
+                <msg from="TG">TG: ie dumb</msg>
+                <msg from="TG">TG: equally dumb are all those pictures of that clown youve got hanging up</msg>
+                <msg from="EB">EB: those are my dad's.</msg>
+                <msg from="TG">TG: i was talking about nick cage</msg>
+                <msg from="EB">EB: oh, what?! no man, cage is sweet. so sweet.</msg>
+                <msg from="TG">TG: ha ha so lame</msg>
+                <msg from="TG">TG: you dont even like him ironically or anything this is like for real isnt
+                    it</msg>
+                <msg from="TG">TG: hahaha</msg>
+                <msg from="EB">EB: i do things ironically sometimes.</msg>
+                <msg from="EB">EB: what about what i sent you for your birthday?</msg>
+                <msg from="TG">TG: no those are awesome</msg>
+                <msg from="EB">EB: what? no, they're stupid, which was the joke. the IRONIC joke. get it?</msg>
+                <msg from="EB">EB: wait...</msg>
+                <msg from="EB">EB: you're actually wearing them, aren't you?</msg>
+                <msg from="TG">TG: im wearing them ironically</msg>
+                <msg from="TG">TG: because theyre awesome</msg>
+                <msg from="TG">TG: the fact that theyre ironic makes them awesome</msg>
+                <msg from="TG">TG: and vice versa</msg>
+                <msg from="TG">TG: are you taking notes on how to be cool?? jesus get a fucking pen</msg>
+                <msg from="EB">EB: you do realize they touched stiller's weird, sort of gaunt face at some
+                    point.</msg>
+                <msg from="TG">TG: ew yeah</msg>
+                <msg from="TG">TG: oh well</msg>
+                <msg from="TG">TG: anyway speaking of which</msg>
+                <msg from="TG">TG: did you get the mail</msg>
+                <msg from="EB">EB: yeah.</msg>
+                <msg from="TG">TG: did there happen to be a package there</msg>
+                <msg from="EB">EB: yeah, there's a big red one.</msg>
+                <msg from="TG">TG: you should probably open it</msg>
+                <msg from="EB">EB: i would, but it's trapped under the sburb beta, so i will probably open it
+                    after i install the beta.</msg>
+                <msg from="TG">TG: oh man the beta came</msg>
+                <msg from="EB">EB: yeah! wanna play it?</msg>
+                <msg from="TG">TG: haha no way</msg>
+                <msg from="EB">EB: why not!</msg>
+                <msg from="TG">TG: it sounds so HELLS of boring just get TT to play it she is all about
+                    that</msg>
+                <msg from="EB">EB: where'd she go.</msg>
+                <msg from="TG">TG: her internet is blinking in and out i guess</msg>
+                <msg from="TG">TG: probably be back online soon</msg>
+                <msg from="TG">TG: oh and christ in a sidecar are you still using the stack modus???</msg>
+                <msg from="TG">TG: seriously dude</msg>
+                <msg from="TG">TG: you need to BONE UP on your data structures that shit is just
+                    ridiculous</msg>
+                <msg from="EB">EB: ok, i will.</msg>
+            </log>
+        </pesterlog>
     </entry>
     <entry>
         <command>John: Open browser and go to mspaintadventures.com</command>
@@ -1594,27 +1627,31 @@
             <p>::tentacleTherapist::</p>
             <p>PESTERLOG</p>
             <p>-- tentacleTherapist [TT] began pestering ectoBiologist [EB] at 17:08 --</p>
-            <p>TT: It looks like you managed to retrieve the beta. Excellent.</p>
-            <p>TT: I'm going to try to connect.</p>
+            <p>TT:It looks like you managed to retrieve the beta. Excellent.</p>
+            <p>TT:I'm going to try to connect.</p>
         </img-txt>
-        <p>pesterlog</p>
-        <p>-- tentacleTherapist [TT] began pestering ectoBiologist [EB] at 17:08 --</p>
-        <p>TT: It looks like you managed to retrieve the beta. Excellent.</p>
-        <p>TT: I'm going to try to connect.</p>
-        <p>EB: whoa ok but i just got the most awesome present.</p>
-        <p>TT: The rabbit?</p>
-        <p>EB: SO SWEET.</p>
-        <p>TT: I've heard tales of this wretched creature often. Its Homeric legend is practically
-            ensconced in the fold of my personal mythology by now.</p>
-        <p>EB: ha ha, what?</p>
-        <p>TT: Why don't we focus on the matter at hand?</p>
-        <p>EB: oh the game, ok.</p>
-        <p>EB: i don't really know how this works. what am i even looking at here?</p>
-        <p>TT: You are running the client application. I am running the server, so I am the host
-            user. I have established a connection with you. This is sufficient for us to play the
-            game.</p>
-        <p>EB: oh, ok then.</p>
-        <p>TT: Why don't we get started?</p>
+        <pesterlog>
+            <log>
+                <declaration>-- tentacleTherapist [TT] began pestering ectoBiologist [EB] at 17:08
+                    --</declaration>
+                <msg from="TT">TT: It looks like you managed to retrieve the beta. Excellent.</msg>
+                <msg from="TT">TT: I'm going to try to connect.</msg>
+                <msg from="EB">EB: whoa ok but i just got the most awesome present.</msg>
+                <msg from="TT">TT: The rabbit?</msg>
+                <msg from="EB">EB: SO SWEET.</msg>
+                <msg from="TT">TT: I've heard tales of this wretched creature often. Its Homeric legend is
+                    practically ensconced in the fold of my personal mythology by now.</msg>
+                <msg from="EB">EB: ha ha, what?</msg>
+                <msg from="TT">TT: Why don't we focus on the matter at hand?</msg>
+                <msg from="EB">EB: oh the game, ok.</msg>
+                <msg from="EB">EB: i don't really know how this works. what am i even looking at here?</msg>
+                <msg from="TT">TT: You are running the client application. I am running the server, so I am the
+                    host user. I have established a connection with you. This is sufficient for us
+                    to play the game.</msg>
+                <msg from="EB">EB: oh, ok then.</msg>
+                <msg from="TT">TT: Why don't we get started?</msg>
+            </log>
+        </pesterlog>
     </entry>
     <entry>
         <command>John: Press [ENTER]</command>
@@ -1885,13 +1922,16 @@
     <entry>
         <command>TT: Drop chest.</command>
         <date>12/05/09</date>
-        <p>pesterlog</p>
-        <p>EB: whoa, what are you doing??</p>
-        <p>TT: Sorry. I'm just getting a feel for the controls.</p>
-        <p>EB: is my magic chest on the roof now??</p>
-        <p>TT: Yes.</p>
-        <p>EB: :(</p>
-        <p>TT: I will try to be more careful next time.</p>
+        <pesterlog>
+            <log>
+                <msg from="EB">EB: whoa, what are you doing??</msg>
+                <msg from="TT">TT: Sorry. I'm just getting a feel for the controls.</msg>
+                <msg from="EB">EB: is my magic chest on the roof now??</msg>
+                <msg from="TT">TT: Yes.</msg>
+                <msg from="EB">EB: :(</msg>
+                <msg from="TT">TT: I will try to be more careful next time.</msg>
+            </log>
+        </pesterlog>
     </entry>
     <entry>
         <command>John: Get the card.</command>
@@ -1911,15 +1951,19 @@
     <entry>
         <command>TT: Select stuff in yard and move it back into room.</command>
         <date>12/05/09</date>
-        <p>pesterlog</p>
-        <p>EB: hey, do you think you could do me a favor?</p>
-        <p>EB: can you grab all that stuff outside my broken window and bring it in for me?</p>
-        <p>TT: I'll give it a shot.</p>
-        <p>EB: thx!</p>
-        <p>TT: No luck.</p>
-        <p>TT: It appears to be out of range. I'm guessing it is too far away from you, the
-            "player".</p>
-        <p>EB: :C</p>
+        <pesterlog>
+            <log>
+                <msg from="EB">EB: hey, do you think you could do me a favor?</msg>
+                <msg from="EB">EB: can you grab all that stuff outside my broken window and bring it in for
+                    me?</msg>
+                <msg from="TT">TT: I'll give it a shot.</msg>
+                <msg from="EB">EB: thx!</msg>
+                <msg from="TT">TT: No luck.</msg>
+                <msg from="TT">TT: It appears to be out of range. I'm guessing it is too far away from you, the
+                    "player".</msg>
+                <msg from="EB">EB: :C</msg>
+            </log>
+        </pesterlog>
     </entry>
     <entry>
         <command>TT: Select John.</command>
@@ -1973,44 +2017,53 @@
         <img-txt>
             <p>Cache Limit: 20 =&gt; Build Grist: 16/20</p>
         </img-txt>
-        <p>pesterlog</p>
-        <p>TT: It seems expanding the dimensions of your room cost us some "Build Grist".</p>
-        <p>TT: But deploying the lathe did not appear to incur any expense.</p>
-        <p>TT: It looks like certain objects are freebies, probably to help you set up the game.</p>
-        <p>EB: wow, ok.</p>
-        <p>EB: what do they do?</p>
-        <p>TT: I think it's up to you to find out.</p>
-        <p>TT: All I can do is drop stuff in your house, and move it around, apparently.</p>
-        <p>EB: how do i move stuff around? it sounds fun!</p>
-        <p>TT: I don't think you can as the client. You will need to install the server
-            application.</p>
-        <p>TT: You should have received both in separate envelopes. I am running both on my computer
-            right now.</p>
-        <p>EB: what??</p>
-        <p>TT: Did you get another envelope in the mail?</p>
-        <p>EB: no!</p>
-        <p>TT: Once you install the server and establish a connection, I'm sure you will be able to
-            manipulate my environment in the same manner.</p>
-        <p>TT: Are you sure you didn't get it?</p>
-        <p>EB: oh man.</p>
-        <p>EB: i think i might know where it is.</p>
+        <pesterlog>
+            <log>
+                <msg from="TT">TT: It seems expanding the dimensions of your room cost us some "Build
+                    Grist".</msg>
+                <msg from="TT">TT: But deploying the lathe did not appear to incur any expense.</msg>
+                <msg from="TT">TT: It looks like certain objects are freebies, probably to help you set up the
+                    game.</msg>
+                <msg from="EB">EB: wow, ok.</msg>
+                <msg from="EB">EB: what do they do?</msg>
+                <msg from="TT">TT: I think it's up to you to find out.</msg>
+                <msg from="TT">TT: All I can do is drop stuff in your house, and move it around,
+                    apparently.</msg>
+                <msg from="EB">EB: how do i move stuff around? it sounds fun!</msg>
+                <msg from="TT">TT: I don't think you can as the client. You will need to install the server
+                    application.</msg>
+                <msg from="TT">TT: You should have received both in separate envelopes. I am running both on my
+                    computer right now.</msg>
+                <msg from="EB">EB: what??</msg>
+                <msg from="TT">TT: Did you get another envelope in the mail?</msg>
+                <msg from="EB">EB: no!</msg>
+                <msg from="TT">TT: Once you install the server and establish a connection, I'm sure you will be
+                    able to manipulate my environment in the same manner.</msg>
+                <msg from="TT">TT: Are you sure you didn't get it?</msg>
+                <msg from="EB">EB: oh man.</msg>
+                <msg from="EB">EB: i think i might know where it is.</msg>
+            </log>
+        </pesterlog>
     </entry>
     <entry>
         <command>==&gt;</command>
         <date>14/05/09</date>
-        <p>pesterlog</p>
-        <p>TT: Now that your room is bigger, why don't you move to the far corner?</p>
-        <p>TT: It will extend the range of the cursor, and I can reach the items.</p>
-        <p>TT: Which... you threw out the window for some reason?</p>
-        <p>EB: good idea!</p>
-        <p>TT: What have you been doing in here all afternoon, anyway?</p>
-        <p>EB: ugh, i was fussing with my retarded sylladex.</p>
-        <p>EB: but i think i have it under control now.</p>
-        <p>EB: what modus do you use?</p>
-        <p>TT: I like to use trees.</p>
-        <p>EB: oh no, that sounds so awkward.</p>
-        <p>TT: It's not exceptionally practical.</p>
-        <p>TT: But I think they are elegant.</p>
+        <pesterlog>
+            <log>
+                <msg from="TT">TT: Now that your room is bigger, why don't you move to the far corner?</msg>
+                <msg from="TT">TT: It will extend the range of the cursor, and I can reach the items.</msg>
+                <msg from="TT">TT: Which... you threw out the window for some reason?</msg>
+                <msg from="EB">EB: good idea!</msg>
+                <msg from="TT">TT: What have you been doing in here all afternoon, anyway?</msg>
+                <msg from="EB">EB: ugh, i was fussing with my retarded sylladex.</msg>
+                <msg from="EB">EB: but i think i have it under control now.</msg>
+                <msg from="EB">EB: what modus do you use?</msg>
+                <msg from="TT">TT: I like to use trees.</msg>
+                <msg from="EB">EB: oh no, that sounds so awkward.</msg>
+                <msg from="TT">TT: It's not exceptionally practical.</msg>
+                <msg from="TT">TT: But I think they are elegant.</msg>
+            </log>
+        </pesterlog>
     </entry>
     <entry>
         <command>John: Stand in corner.</command>
@@ -2033,19 +2086,22 @@
             <p>Pre-punched Card</p>
             <p>Alchemiter</p>
         </img-txt>
-        <p>pesterlog</p>
-        <p>EB: why is the floor shaking?</p>
-        <p>EB: are you dropping more stuff in my house?</p>
-        <p>TT: Yes. Two more large gizmos.</p>
-        <p>EB: sweet!</p>
-        <p>EB: what is with all these big contraptions?</p>
-        <p>TT: If I had to guess, they appear to facilitate a sort of system involving punch
-            card-based alchemy.</p>
-        <p>EB: huh.</p>
-        <p>EB: to what end?</p>
-        <p>EB: i mean what are we supposed to be doing in this game?</p>
-        <p>TT: That remains to be seen.</p>
-        <p>TT: Maybe you should go investigate?</p>
+        <pesterlog>
+            <log>
+                <msg from="EB">EB: why is the floor shaking?</msg>
+                <msg from="EB">EB: are you dropping more stuff in my house?</msg>
+                <msg from="TT">TT: Yes. Two more large gizmos.</msg>
+                <msg from="EB">EB: sweet!</msg>
+                <msg from="EB">EB: what is with all these big contraptions?</msg>
+                <msg from="TT">TT: If I had to guess, they appear to facilitate a sort of system involving
+                    punch card-based alchemy.</msg>
+                <msg from="EB">EB: huh.</msg>
+                <msg from="EB">EB: to what end?</msg>
+                <msg from="EB">EB: i mean what are we supposed to be doing in this game?</msg>
+                <msg from="TT">TT: That remains to be seen.</msg>
+                <msg from="TT">TT: Maybe you should go investigate?</msg>
+            </log>
+        </pesterlog>
     </entry>
     <entry>
         <command>John: Get PDA.</command>
@@ -2107,33 +2163,37 @@
     <entry>
         <command>John: Go out to balcony.</command>
         <date>15/05/09</date>
-        <p>pesterlog</p>
-        <p>EB: hey, i'm out on the balcony now.</p>
-        <p>EB: i am messaging from my dad's pda.</p>
-        <p>TT: The one you threw into the yard?</p>
-        <p>EB: no, i am telling you.</p>
-        <p>EB: it jumped out of my sylladex like a frightened weasel.</p>
-        <p>TT: What were you doing with it in the first place?</p>
-        <p>TT: I am not sensing a lot of regard for the personal property of others.</p>
-        <p>TT: Is this how your pent-up frustration with your father manifests itself?</p>
-        <p>EB: what? no.</p>
-        <p>EB: those were all accidents.</p>
-        <p>EB: please take your psycho-babblery elsewhere, miss!</p>
-        <p>TT: Your bathroom is a mess.</p>
-        <p>TT: Did you do that too?</p>
-        <p>EB: oh man, see this isn't cool.</p>
-        <p>EB: all this snooping nonsense!</p>
-        <p>TT: There's a cake in the toilet.</p>
-        <p>EB: yes. there is.</p>
-        <p>TT: I'm tempted to clean it up for you.</p>
-        <p>EB: ok, if that will satisfy your weird ocd complex then go ahead.</p>
-        <p>TT: My Obsessive-Compulsive Disorder complex?</p>
-        <p>TT: Can a disorder also be a complex?</p>
-        <p>EB: in your case, probably!</p>
-        <p>TT: Sounds complicated.</p>
-        <p>EB: anyway...</p>
-        <p>EB: i am going to have a look at this enormous platformy thing you put on the
-            balcony.</p>
+        <pesterlog>
+            <log>
+                <msg from="EB">EB: hey, i'm out on the balcony now.</msg>
+                <msg from="EB">EB: i am messaging from my dad's pda.</msg>
+                <msg from="TT">TT: The one you threw into the yard?</msg>
+                <msg from="EB">EB: no, i am telling you.</msg>
+                <msg from="EB">EB: it jumped out of my sylladex like a frightened weasel.</msg>
+                <msg from="TT">TT: What were you doing with it in the first place?</msg>
+                <msg from="TT">TT: I am not sensing a lot of regard for the personal property of others.</msg>
+                <msg from="TT">TT: Is this how your pent-up frustration with your father manifests
+                    itself?</msg>
+                <msg from="EB">EB: what? no.</msg>
+                <msg from="EB">EB: those were all accidents.</msg>
+                <msg from="EB">EB: please take your psycho-babblery elsewhere, miss!</msg>
+                <msg from="TT">TT: Your bathroom is a mess.</msg>
+                <msg from="TT">TT: Did you do that too?</msg>
+                <msg from="EB">EB: oh man, see this isn't cool.</msg>
+                <msg from="EB">EB: all this snooping nonsense!</msg>
+                <msg from="TT">TT: There's a cake in the toilet.</msg>
+                <msg from="EB">EB: yes. there is.</msg>
+                <msg from="TT">TT: I'm tempted to clean it up for you.</msg>
+                <msg from="EB">EB: ok, if that will satisfy your weird ocd complex then go ahead.</msg>
+                <msg from="TT">TT: My Obsessive-Compulsive Disorder complex?</msg>
+                <msg from="TT">TT: Can a disorder also be a complex?</msg>
+                <msg from="EB">EB: in your case, probably!</msg>
+                <msg from="TT">TT: Sounds complicated.</msg>
+                <msg from="EB">EB: anyway...</msg>
+                <msg from="EB">EB: i am going to have a look at this enormous platformy thing you put on the
+                    balcony.</msg>
+            </log>
+        </pesterlog>
     </entry>
     <entry>
         <command>John: Examine Alchemiter in a cautious manner.</command>
@@ -2154,29 +2214,38 @@
         <img-txt>
             <p>16/20 =&gt; 14</p>
         </img-txt>
-        <p>pesterlog</p>
-        <p>TT: Whoops.</p>
-        <p>EB: whoops what?</p>
+        <pesterlog>
+            <log>
+                <msg from="TT">TT: Whoops.</msg>
+                <msg from="EB">EB: whoops what?</msg>
+            </log>
+        </pesterlog>
     </entry>
     <entry>
         <command>==&gt;</command>
         <date>16/05/09</date>
-        <p>pesterlog</p>
-        <p>EB: what was that noise?</p>
-        <p>EB: is this something i should go investigate?</p>
-        <p>TT: No, I have it under control.</p>
-        <p>TT: You can keep playing with your telescope.</p>
+        <pesterlog>
+            <log>
+                <msg from="EB">EB: what was that noise?</msg>
+                <msg from="EB">EB: is this something i should go investigate?</msg>
+                <msg from="TT">TT: No, I have it under control.</msg>
+                <msg from="TT">TT: You can keep playing with your telescope.</msg>
+            </log>
+        </pesterlog>
     </entry>
     <entry>
         <command>John: Investigate.</command>
         <date>16/05/09</date>
-        <p>pesterlog</p>
-        <p>EB: augh!</p>
-        <p>TT: I think I can patch it up.</p>
-        <p>TT: Just give me a little space.</p>
-        <p>TT: Why don't you go have a look at the Cruxtruder?</p>
-        <p>EB: the what?</p>
-        <p>TT: The thing I put in your living room.</p>
+        <pesterlog>
+            <log>
+                <msg from="EB">EB: augh!</msg>
+                <msg from="TT">TT: I think I can patch it up.</msg>
+                <msg from="TT">TT: Just give me a little space.</msg>
+                <msg from="TT">TT: Why don't you go have a look at the Cruxtruder?</msg>
+                <msg from="EB">EB: the what?</msg>
+                <msg from="TT">TT: The thing I put in your living room.</msg>
+            </log>
+        </pesterlog>
     </entry>
     <entry>
         <command>John: Hop down the hole.</command>
@@ -2206,45 +2275,53 @@
     <entry>
         <command>John: Answer chum.</command>
         <date>17/05/09</date>
-        <p>pesterlog</p>
-        <p>-- gardenGnostic [GG] began pestering ectoBiologist [EB] at 17:25 --</p>
-        <p>GG: john did you get my package??</p>
-        <p>EB: oh hey!</p>
-        <p>EB: no, not yet.</p>
-        <p>GG: darn! are you sure? it was in a green box.....</p>
-        <p>EB: oh!</p>
-        <p>EB: yes, but it is in my dad's car and he is still out at the store.</p>
-        <p>EB: he should be back soon.</p>
-        <p>GG: great!!! so what are you up to today?</p>
-        <p>EB: i am up to my neck in this sburb stuff.</p>
-        <p>EB: TT is making a royal mess of my house.</p>
-        <p>GG: lol!</p>
-        <p>GG: whats sburb??</p>
-        <p>EB: oh, it is this game.</p>
-        <p>EB: it's ok i guess. i'm still figuring it out.</p>
-        <p>GG: whoa what was that?????</p>
-        <p>EB: what was what?</p>
-        <p>GG: there was a loud noise outside my house!!</p>
-        <p>GG: it sounded like an explosion!!!!</p>
-        <p>EB: wow, really?</p>
-        <p>GG: i will go outside and look....</p>
-        <p>EB: oh man, alright but be careful, ok?</p>
-        <p>GG: i will! :)</p>
-        <p>-- gardenGnostic [GG] ceased pestering ectoBiologist [EB] at 17:28 --</p>
+        <pesterlog>
+            <log>
+                <declaration>-- gardenGnostic [GG] began pestering ectoBiologist [EB] at 17:25
+                    --</declaration>
+                <msg from="GG">GG: john did you get my package??</msg>
+                <msg from="EB">EB: oh hey!</msg>
+                <msg from="EB">EB: no, not yet.</msg>
+                <msg from="GG">GG: darn! are you sure? it was in a green box.....</msg>
+                <msg from="EB">EB: oh!</msg>
+                <msg from="EB">EB: yes, but it is in my dad's car and he is still out at the store.</msg>
+                <msg from="EB">EB: he should be back soon.</msg>
+                <msg from="GG">GG: great!!! so what are you up to today?</msg>
+                <msg from="EB">EB: i am up to my neck in this sburb stuff.</msg>
+                <msg from="EB">EB: TT is making a royal mess of my house.</msg>
+                <msg from="GG">GG: lol!</msg>
+                <msg from="GG">GG: whats sburb??</msg>
+                <msg from="EB">EB: oh, it is this game.</msg>
+                <msg from="EB">EB: it's ok i guess. i'm still figuring it out.</msg>
+                <msg from="GG">GG: whoa what was that?????</msg>
+                <msg from="EB">EB: what was what?</msg>
+                <msg from="GG">GG: there was a loud noise outside my house!!</msg>
+                <msg from="GG">GG: it sounded like an explosion!!!!</msg>
+                <msg from="EB">EB: wow, really?</msg>
+                <msg from="GG">GG: i will go outside and look....</msg>
+                <msg from="EB">EB: oh man, alright but be careful, ok?</msg>
+                <msg from="GG">GG: i will! :)</msg>
+                <declaration>-- gardenGnostic [GG] ceased pestering ectoBiologist [EB] at 17:28
+                    --</declaration>
+            </log>
+        </pesterlog>
     </entry>
     <entry>
         <command>John: Might as well check out the Cruxtruder.</command>
         <date>17/05/09</date>
-        <p>pesterlog</p>
-        <p>EB: oh hell no, you put this thing in front of the door?</p>
-        <p>TT: There's a door there?</p>
-        <p>EB: um, YEAH???</p>
-        <p>TT: I didn't see it.</p>
-        <p>TT: I just thought it fit nicely into that groove.</p>
-        <p>EB: you mean you thought it was elegant?</p>
-        <p>EB: ok well what do i do with this thing.</p>
-        <p>EB: hello?</p>
-        <p>EB: what are you doing up there now?</p>
+        <pesterlog>
+            <log>
+                <msg from="EB">EB: oh hell no, you put this thing in front of the door?</msg>
+                <msg from="TT">TT: There's a door there?</msg>
+                <msg from="EB">EB: um, YEAH???</msg>
+                <msg from="TT">TT: I didn't see it.</msg>
+                <msg from="TT">TT: I just thought it fit nicely into that groove.</msg>
+                <msg from="EB">EB: you mean you thought it was elegant?</msg>
+                <msg from="EB">EB: ok well what do i do with this thing.</msg>
+                <msg from="EB">EB: hello?</msg>
+                <msg from="EB">EB: what are you doing up there now?</msg>
+            </log>
+        </pesterlog>
     </entry>
     <entry>
         <command>==&gt;</command>
@@ -2252,8 +2329,11 @@
         <img-txt>
             <p>14/20 =&gt; 12</p>
         </img-txt>
-        <p>pesterlog</p>
-        <p>TT: Oh fuck.</p>
+        <pesterlog>
+            <log>
+                <msg from="TT">TT: Oh fuck.</msg>
+            </log>
+        </pesterlog>
     </entry>
     <entry>
         <command>John: Examine wheel on the Cruxtruder.</command>
@@ -2272,35 +2352,42 @@
     <entry>
         <command>John: Scold TT.</command>
         <date>18/05/09</date>
-        <p>pesterlog</p>
-        <p>EB: you can see me, right.</p>
-        <p>EB: tell me what is wrong with this picture.</p>
-        <p>TT: Sorry. I keep losing the wireless signal.</p>
-        <p>TT: Must be the weather.</p>
-        <p>TT: I would look for a stronger signal in another part of the house, but I'd rather not
-            risk an encounter with my mother.</p>
-        <p>TT: I battled through her cloud of gin and derision once already this evening.</p>
-        <p>EB: haha, yeah I hear you.</p>
-        <p>TT: Yes. Cake, jesters, unfaltering love and support.</p>
-        <p>TT: Quite a road to hoe there.</p>
-        <p>TT: Though I suppose I'm complicit for not informing Social Services about your
-            situation.</p>
-        <p>EB: i know!</p>
-        <p>EB: what about going outside?</p>
-        <p>EB: maybe you could catch a neighbor's signal.</p>
-        <p>TT: That presents the same problem.</p>
-        <p>TT: Also, it's raining, remember?</p>
-        <p>TT: And dark.</p>
-        <p>EB: It's dark already?</p>
-        <p>TT: Yes, the sun has already had its way with us here on the east coast.</p>
-        <p>TT: Its lurid glare has moved on to younger timezones.</p>
-        <p>EB: haha, um, ok.</p>
+        <pesterlog>
+            <log>
+                <msg from="EB">EB: you can see me, right.</msg>
+                <msg from="EB">EB: tell me what is wrong with this picture.</msg>
+                <msg from="TT">TT: Sorry. I keep losing the wireless signal.</msg>
+                <msg from="TT">TT: Must be the weather.</msg>
+                <msg from="TT">TT: I would look for a stronger signal in another part of the house, but I'd
+                    rather not risk an encounter with my mother.</msg>
+                <msg from="TT">TT: I battled through her cloud of gin and derision once already this
+                    evening.</msg>
+                <msg from="EB">EB: haha, yeah I hear you.</msg>
+                <msg from="TT">TT: Yes. Cake, jesters, unfaltering love and support.</msg>
+                <msg from="TT">TT: Quite a road to hoe there.</msg>
+                <msg from="TT">TT: Though I suppose I'm complicit for not informing Social Services about your
+                    situation.</msg>
+                <msg from="EB">EB: i know!</msg>
+                <msg from="EB">EB: what about going outside?</msg>
+                <msg from="EB">EB: maybe you could catch a neighbor's signal.</msg>
+                <msg from="TT">TT: That presents the same problem.</msg>
+                <msg from="TT">TT: Also, it's raining, remember?</msg>
+                <msg from="TT">TT: And dark.</msg>
+                <msg from="EB">EB: It's dark already?</msg>
+                <msg from="TT">TT: Yes, the sun has already had its way with us here on the east coast.</msg>
+                <msg from="TT">TT: Its lurid glare has moved on to younger timezones.</msg>
+                <msg from="EB">EB: haha, um, ok.</msg>
+            </log>
+        </pesterlog>
     </entry>
     <entry>
         <command>John: Hit Cruxtruder with sledgehammer.</command>
         <date>18/05/09</date>
-        <p>pesterlog</p>
-        <p>TT: Need some help?</p>
+        <pesterlog>
+            <log>
+                <msg from="TT">TT: Need some help?</msg>
+            </log>
+        </pesterlog>
     </entry>
     <entry>
         <command>TT: Pick up sledgehammer.</command>
@@ -2319,18 +2406,22 @@
         <img-txt>
             <p>4:13 =&gt; :12 =&gt; :11 =&gt; :10</p>
         </img-txt>
-        <p>pesterlog</p>
-        <p>EB: what is this thing?</p>
-        <p>EB: and what is that clock counting down to?</p>
-        <p>TT: I've been looking at the GameFAQ walkthroughs to figure some of this stuff out.</p>
-        <p>TT: Hold while I read further.</p>
-        <p>EB: ok.</p>
-        <p>TT: All of these walkthroughs are extremely short.</p>
-        <p>TT: None progress much further than this point.</p>
-        <p>EB: weird.</p>
-        <p>EB: well, i mean it is a new game.</p>
-        <p>TT: True.</p>
-        <p>TT: Now that the lid is off, you will need to extrude some "Cruxite".</p>
+        <pesterlog>
+            <log>
+                <msg from="EB">EB: what is this thing?</msg>
+                <msg from="EB">EB: and what is that clock counting down to?</msg>
+                <msg from="TT">TT: I've been looking at the GameFAQ walkthroughs to figure some of this stuff
+                    out.</msg>
+                <msg from="TT">TT: Hold while I read further.</msg>
+                <msg from="EB">EB: ok.</msg>
+                <msg from="TT">TT: All of these walkthroughs are extremely short.</msg>
+                <msg from="TT">TT: None progress much further than this point.</msg>
+                <msg from="EB">EB: weird.</msg>
+                <msg from="EB">EB: well, i mean it is a new game.</msg>
+                <msg from="TT">TT: True.</msg>
+                <msg from="TT">TT: Now that the lid is off, you will need to extrude some "Cruxite".</msg>
+            </log>
+        </pesterlog>
     </entry>
     <entry>
         <command>John: Turn wheel again.</command>
@@ -2343,11 +2434,15 @@
     <entry>
         <command>John: Get cruxite.</command>
         <date>19/05/09</date>
-        <p>pesterlog</p>
-        <p>TT: I feel like we should be hurrying. That countdown is making me nervous.</p>
-        <p>TT: John?</p>
-        <p>TT: Oh. Your PDA is trapped under the cruxite now, isn't it.</p>
-        <p>TT: Anyway, it looks like you are going to need this card too.</p>
+        <pesterlog>
+            <log>
+                <msg from="TT">TT: I feel like we should be hurrying. That countdown is making me
+                    nervous.</msg>
+                <msg from="TT">TT: John?</msg>
+                <msg from="TT">TT: Oh. Your PDA is trapped under the cruxite now, isn't it.</msg>
+                <msg from="TT">TT: Anyway, it looks like you are going to need this card too.</msg>
+            </log>
+        </pesterlog>
     </entry>
     <entry>
         <command>TT: Deploy Pre-punched Card.</command>
@@ -2375,18 +2470,21 @@
         <img-txt>
             <p>SPRITE: (textures)</p>
         </img-txt>
-        <p>pesterlog</p>
-        <p>EB: this thing keeps following me around.</p>
-        <p>EB: i think it's trying to talk to me or something.</p>
-        <p>TT: That is probably the "Kernelsprite".</p>
-        <p>TT: It apparently needs to be "prototyped".</p>
-        <p>TT: Twice, actually.</p>
-        <p>TT: Whatever the hell that means.</p>
-        <p>TT: These walkthroughs are horrendously written.</p>
-        <p>EB: hmm, ok.</p>
-        <p>EB: well, you are the one with the cursor so just do whatever you think is the right
-            thing to do!</p>
-        <p>EB: also, fix my bathroom.</p>
+        <pesterlog>
+            <log>
+                <msg from="EB">EB: this thing keeps following me around.</msg>
+                <msg from="EB">EB: i think it's trying to talk to me or something.</msg>
+                <msg from="TT">TT: That is probably the "Kernelsprite".</msg>
+                <msg from="TT">TT: It apparently needs to be "prototyped".</msg>
+                <msg from="TT">TT: Twice, actually.</msg>
+                <msg from="TT">TT: Whatever the hell that means.</msg>
+                <msg from="TT">TT: These walkthroughs are horrendously written.</msg>
+                <msg from="EB">EB: hmm, ok.</msg>
+                <msg from="EB">EB: well, you are the one with the cursor so just do whatever you think is the
+                    right thing to do!</msg>
+                <msg from="EB">EB: also, fix my bathroom.</msg>
+            </log>
+        </pesterlog>
     </entry>
     <entry>
         <command>TT: Drop maimed harlequin into Kernelsprite.</command>
@@ -2403,22 +2501,25 @@
         <img-txt>
             <p>SPRITE: (spriteglyphs)</p>
         </img-txt>
-        <p>pesterlog</p>
-        <p>EB: i still can't understand this thing's gobbledygook.</p>
-        <p>TT: That was only "Tier One Prototyping".</p>
-        <p>TT: There is still another tier to the prototyping process.</p>
-        <p>TT: Which for all we know merely advances this entity through increasingly esoteric
-            states of linguistics.</p>
-        <p>EB: the clock is ticking.</p>
-        <p>EB: we don't have time for this asinine tomfoolery.</p>
-        <p>TT: This unmitigated poppycock?</p>
-        <p>EB: extravagant hogwash!</p>
-        <p>EB: ok stop</p>
-        <p>EB: stop typing whatever silly thing you're typing.</p>
-        <p>EB: i'm going upstairs to the big platformy thing.</p>
-        <p>TT: The alchemiter?</p>
-        <p>EB: ??</p>
-        <p>TT: Try to learn the lingo.</p>
+        <pesterlog>
+            <log>
+                <msg from="EB">EB: i still can't understand this thing's gobbledygook.</msg>
+                <msg from="TT">TT: That was only "Tier One Prototyping".</msg>
+                <msg from="TT">TT: There is still another tier to the prototyping process.</msg>
+                <msg from="TT">TT: Which for all we know merely advances this entity through increasingly
+                    esoteric states of linguistics.</msg>
+                <msg from="EB">EB: the clock is ticking.</msg>
+                <msg from="EB">EB: we don't have time for this asinine tomfoolery.</msg>
+                <msg from="TT">TT: This unmitigated poppycock?</msg>
+                <msg from="EB">EB: extravagant hogwash!</msg>
+                <msg from="EB">EB: ok stop</msg>
+                <msg from="EB">EB: stop typing whatever silly thing you're typing.</msg>
+                <msg from="EB">EB: i'm going upstairs to the big platformy thing.</msg>
+                <msg from="TT">TT: The alchemiter?</msg>
+                <msg from="EB">EB: ??</msg>
+                <msg from="TT">TT: Try to learn the lingo.</msg>
+            </log>
+        </pesterlog>
     </entry>
     <entry>
         <command>John: Use pre-punched card with the alchemiter.</command>
@@ -2521,12 +2622,15 @@
     <entry>
         <command>==&gt;</command>
         <date>23/05/09</date>
-        <p>pesterlog</p>
-        <p>TT: Your dad is getting home.</p>
-        <p>TT: John?</p>
-        <p>TT: What did you do with your PDA this time?</p>
-        <p>TT: I'm working on the bathroom.</p>
-        <p>TT: But we are running low on Build Grist.</p>
+        <pesterlog>
+            <log>
+                <msg from="TT">TT: Your dad is getting home.</msg>
+                <msg from="TT">TT: John?</msg>
+                <msg from="TT">TT: What did you do with your PDA this time?</msg>
+                <msg from="TT">TT: I'm working on the bathroom.</msg>
+                <msg from="TT">TT: But we are running low on Build Grist.</msg>
+            </log>
+        </pesterlog>
     </entry>
     <entry>
         <command>TT: Revise bathroom.</command>
@@ -2555,77 +2659,87 @@
     <entry>
         <command>John: Answer chums.</command>
         <date>23/05/09</date>
-        <p>pesterlog</p>
-        <p>TT: I'm working on the bathroom.</p>
-        <p>TT: But we are running low on Build Grist.</p>
-        <p>EB: oh man who cares about the bathroom, now there's a meteor heading for my house!!!</p>
-        <p>TT: I see.</p>
-        <p>TT: Do you suppose it has anything to do with the game?</p>
-        <p>EB: i don't know, maybe! what do i do!</p>
-        <p>TT: I think it's very likely.</p>
-        <p>TT: The walkthroughs vaguely suggest an impending threat before they end.</p>
-        <p>TT: The already poorly constructed sentences become even more curt and ambiguous.</p>
-        <p>TT: As if written hastily and with a sense of alarm.</p>
-        <p>TT: Actually, their dedication to updating the walkthrough under such circumstances is
-            admirable.</p>
-        <p>EB: wow, FASCINATING.</p>
-        <p>EB: ??????</p>
-        <p>TT: If the meteor is a game construct, I think the only thing to do is to proceed, and
-            try to solve the dilemma on the game's terms.</p>
-        <p>TT: Try using the lathe.</p>
-        <p>TT: It says you can use the card on it, but isn't more specific than that.</p>
-        <p>EB: ok i'll do that.</p>
-        <p>TT: Really, it is a labor to read this drivel.</p>
-        <p>TT: If I read any more my brain will need to be spoon-fed from a jar.</p>
-        <p>TT: While it blows spit bubbles in a highchair.</p>
-        <p>TT: I think I will write my own walkthrough.</p>
-        <p>TT: That is, after we make sure you don't die.</p>
-        <p>-- turntechGodhead [TG] began pestering ectoBiologist [EB] at 17:34 --</p>
-        <p>TG: i heard you got the box</p>
-        <p>TG: i hope you appreciate my heroic fatherly perseverance in getting it to you</p>
-        <p>TG: in my rough and tumble dirty wifebeaterly sort of way</p>
-        <p>TG: also i hope you appreciate how many no-talent douches had their mitts on that bunny
-            before you</p>
-        <p>TG: its like a grubby baton in some huge douchebag marathon</p>
-        <p>TG: hey where are you</p>
-        <p>EB: oh man, the bunny was awesome, but i don't have time to talk, i'm playing sburb and
-            it's kind of a nightmare.</p>
-        <p>EB: TT is breaking everything in my house.</p>
-        <p>TG: dude i told you to steer clear of that game</p>
-        <p>TG: and for that matter you should probably wash your hands of flighty broads and their
-            snarky horseshit altogether</p>
-        <p>EB: and now there's a meteor coming, and i'm not even joking about that!!!</p>
-        <p>EB: it's like a big asteroid or comet or something.</p>
-        <p>EB: in the sky.</p>
-        <p>EB: heading right for my house!!!!!!!!</p>
-        <p>TG: oh man</p>
-        <p>TG: how big is it</p>
-        <p>EB: i dunno.</p>
-        <p>EB: big, i guess.</p>
-        <p>EB: i gotta go!</p>
-        <p>EB: we'll talk later if i am still alive and the earth isn't blown up.</p>
-        <p>TG: like the size of texas</p>
-        <p>TG: or just rhode island</p>
-        <p>TG: theyre always throwing around these geographical comparisons to give us a sense of
-            scale like it really means anything to us</p>
-        <p>TG: but its like it doesnt matter its always just like: WOW THATS PRETTY FUCKING BIG</p>
-        <p>TG: like mr president theres a meteor coming sir. oh yeah, how big is it? its the size of
-            texas sir</p>
-        <p>TG: OH SHIT</p>
-        <p>TG: or, how big is it? its the size of new york city sir</p>
-        <p>TG: OH SHIT</p>
-        <p>TG: sir im afraid the comet is the size of your moms dick</p>
-        <p>TG: OH SNAP</p>
-        <p>TG: sir are you familiar with jupiter</p>
-        <p>TG: you mean like the planet?</p>
-        <p>TG: yeah</p>
-        <p>TG: well its that big sir</p>
-        <p>TG: hmm that sounds pretty big</p>
-        <p>TG: i have a question</p>
-        <p>TG: is it jupiter?</p>
-        <p>TG: yes sir, earth is literally under seige by planet fucking jupiter</p>
-        <p>TG: OH SHIT</p>
-        <p>TG: anyway later</p>
+        <pesterlog>
+            <log>
+                <msg from="TT">TT: I'm working on the bathroom.</msg>
+                <msg from="TT">TT: But we are running low on Build Grist.</msg>
+                <msg from="EB">EB: oh man who cares about the bathroom, now there's a meteor heading for my
+                    house!!!</msg>
+                <msg from="TT">TT: I see.</msg>
+                <msg from="TT">TT: Do you suppose it has anything to do with the game?</msg>
+                <msg from="EB">EB: i don't know, maybe! what do i do!</msg>
+                <msg from="TT">TT: I think it's very likely.</msg>
+                <msg from="TT">TT: The walkthroughs vaguely suggest an impending threat before they end.</msg>
+                <msg from="TT">TT: The already poorly constructed sentences become even more curt and
+                    ambiguous.</msg>
+                <msg from="TT">TT: As if written hastily and with a sense of alarm.</msg>
+                <msg from="TT">TT: Actually, their dedication to updating the walkthrough under such
+                    circumstances is admirable.</msg>
+                <msg from="EB">EB: wow, FASCINATING.</msg>
+                <msg from="EB">EB: ??????</msg>
+                <msg from="TT">TT: If the meteor is a game construct, I think the only thing to do is to
+                    proceed, and try to solve the dilemma on the game's terms.</msg>
+                <msg from="TT">TT: Try using the lathe.</msg>
+                <msg from="TT">TT: It says you can use the card on it, but isn't more specific than that.</msg>
+                <msg from="EB">EB: ok i'll do that.</msg>
+                <msg from="TT">TT: Really, it is a labor to read this drivel.</msg>
+                <msg from="TT">TT: If I read any more my brain will need to be spoon-fed from a jar.</msg>
+                <msg from="TT">TT: While it blows spit bubbles in a highchair.</msg>
+                <msg from="TT">TT: I think I will write my own walkthrough.</msg>
+                <msg from="TT">TT: That is, after we make sure you don't die.</msg>
+            </log>
+            <log>
+                <declaration>-- turntechGodhead [TG] began pestering ectoBiologist [EB] at 17:34
+                    --</declaration>
+                <msg from="TG">TG: i heard you got the box</msg>
+                <msg from="TG">TG: i hope you appreciate my heroic fatherly perseverance in getting it to
+                    you</msg>
+                <msg from="TG">TG: in my rough and tumble dirty wifebeaterly sort of way</msg>
+                <msg from="TG">TG: also i hope you appreciate how many no-talent douches had their mitts on
+                    that bunny before you</msg>
+                <msg from="TG">TG: its like a grubby baton in some huge douchebag marathon</msg>
+                <msg from="TG">TG: hey where are you</msg>
+                <msg from="EB">EB: oh man, the bunny was awesome, but i don't have time to talk, i'm playing
+                    sburb and it's kind of a nightmare.</msg>
+                <msg from="EB">EB: TT is breaking everything in my house.</msg>
+                <msg from="TG">TG: dude i told you to steer clear of that game</msg>
+                <msg from="TG">TG: and for that matter you should probably wash your hands of flighty broads
+                    and their snarky horseshit altogether</msg>
+                <msg from="EB">EB: and now there's a meteor coming, and i'm not even joking about that!!!</msg>
+                <msg from="EB">EB: it's like a big asteroid or comet or something.</msg>
+                <msg from="EB">EB: in the sky.</msg>
+                <msg from="EB">EB: heading right for my house!!!!!!!!</msg>
+                <msg from="TG">TG: oh man</msg>
+                <msg from="TG">TG: how big is it</msg>
+                <msg from="EB">EB: i dunno.</msg>
+                <msg from="EB">EB: big, i guess.</msg>
+                <msg from="EB">EB: i gotta go!</msg>
+                <msg from="EB">EB: we'll talk later if i am still alive and the earth isn't blown up.</msg>
+                <msg from="TG">TG: like the size of texas</msg>
+                <msg from="TG">TG: or just rhode island</msg>
+                <msg from="TG">TG: theyre always throwing around these geographical comparisons to give us a
+                    sense of scale like it really means anything to us</msg>
+                <msg from="TG">TG: but its like it doesnt matter its always just like: WOW THATS PRETTY FUCKING
+                    BIG</msg>
+                <msg from="TG">TG: like mr president theres a meteor coming sir. oh yeah, how big is it? its
+                    the size of texas sir</msg>
+                <msg from="TG">TG: OH SHIT</msg>
+                <msg from="TG">TG: or, how big is it? its the size of new york city sir</msg>
+                <msg from="TG">TG: OH SHIT</msg>
+                <msg from="TG">TG: sir im afraid the comet is the size of your moms dick</msg>
+                <msg from="TG">TG: OH SNAP</msg>
+                <msg from="TG">TG: sir are you familiar with jupiter</msg>
+                <msg from="TG">TG: you mean like the planet?</msg>
+                <msg from="TG">TG: yeah</msg>
+                <msg from="TG">TG: well its that big sir</msg>
+                <msg from="TG">TG: hmm that sounds pretty big</msg>
+                <msg from="TG">TG: i have a question</msg>
+                <msg from="TG">TG: is it jupiter?</msg>
+                <msg from="TG">TG: yes sir, earth is literally under seige by planet fucking jupiter</msg>
+                <msg from="TG">TG: OH SHIT</msg>
+                <msg from="TG">TG: anyway later</msg>
+            </log>
+        </pesterlog>
     </entry>
     <entry>
         <command>John: Use pre-punched card on totem lathe.</command>
@@ -2668,12 +2782,15 @@
     <entry>
         <command>==&gt;</command>
         <date>25/05/09</date>
-        <p>pesterlog</p>
-        <p>EB: alright, i used the lathe to make this blue shapey thing.</p>
-        <p>EB: now i guess i take it back to the alchemixer again?</p>
-        <p>EB: hello???????</p>
-        <p>-- tentacleTherapist [TT] is no longer connected! --</p>
-        <p>EB: uh...</p>
+        <pesterlog>
+            <log>
+                <msg from="EB">EB: alright, i used the lathe to make this blue shapey thing.</msg>
+                <msg from="EB">EB: now i guess i take it back to the alchemixer again?</msg>
+                <msg from="EB">EB: hello???????</msg>
+                <declaration>-- tentacleTherapist [TT] is no longer connected! --</declaration>
+                <msg from="EB">EB: uh...</msg>
+            </log>
+        </pesterlog>
     </entry>
     <entry>
         <command>==&gt;</command>
@@ -2929,23 +3046,28 @@
             <p>0:41 =&gt; :40 =&gt; :39 =&gt; :38 =&gt; :37 =&gt; :36 =&gt; :35 =&gt; :34 =&gt; :33
                 =&gt; :32 =&gt; :31</p>
         </img-txt>
-        <p>pesterlog</p>
-        <p>TT: I'm back.</p>
-        <p>EB: hurry up and open my door!!!!!!</p>
-        <p>EB: not that it even matters, i think i'm probably dead no matter what!!!!!!</p>
-        <p>TT: Patience. You still haven't used the new totem.</p>
-        <p>EB: ???</p>
-        <p>TT: I believe it will create the item on the punch card.</p>
-        <p>EB: so what is it, like an apple or something?</p>
-        <p>EB: what good will that even do?</p>
-        <p>TT: We'll see.</p>
-        <p>TT: I've found no evidence that anyone has successfully created the item.</p>
-        <p>TT: And the content of the card appears to be variable from session to session.</p>
-        <p>TT: In one instance it was described as an "eggy loking thign" [sic].</p>
-        <p>EB: do we have enough of those building jewels to make it?</p>
-        <p>TT: According to the Atheneum, it is a free item.</p>
-        <p>TT: This speaks to its importance, in my view.</p>
-        <p>TT: Now off you go.</p>
+        <pesterlog>
+            <log>
+                <msg from="TT">TT: I'm back.</msg>
+                <msg from="EB">EB: hurry up and open my door!!!!!!</msg>
+                <msg from="EB">EB: not that it even matters, i think i'm probably dead no matter
+                    what!!!!!!</msg>
+                <msg from="TT">TT: Patience. You still haven't used the new totem.</msg>
+                <msg from="EB">EB: ???</msg>
+                <msg from="TT">TT: I believe it will create the item on the punch card.</msg>
+                <msg from="EB">EB: so what is it, like an apple or something?</msg>
+                <msg from="EB">EB: what good will that even do?</msg>
+                <msg from="TT">TT: We'll see.</msg>
+                <msg from="TT">TT: I've found no evidence that anyone has successfully created the item.</msg>
+                <msg from="TT">TT: And the content of the card appears to be variable from session to
+                    session.</msg>
+                <msg from="TT">TT: In one instance it was described as an "eggy loking thign" [sic].</msg>
+                <msg from="EB">EB: do we have enough of those building jewels to make it?</msg>
+                <msg from="TT">TT: According to the Atheneum, it is a free item.</msg>
+                <msg from="TT">TT: This speaks to its importance, in my view.</msg>
+                <msg from="TT">TT: Now off you go.</msg>
+            </log>
+        </pesterlog>
     </entry>
     <entry>
         <command>Rose: Remove door from hinges.</command>

@@ -1,8 +1,19 @@
 # Schema for acts of Homestuck (CURRENTLY ONLY STRUCTURAL!)
 start = act
-act = element act {entry+}
-entry = element entry {command, date, img-txt*, p*}
-command = element command {text}
-date = element date {text}
-img-txt = element img-txt {p*}
-p = element p {text}
+act = element act { entry+ }
+entry = element entry { command, date, img-txt*, p*, pesterlog* }
+command = element command { text }
+date = element date { text }
+#
+# The plain-text document I used also transcribed anything that was written in the image above the text.
+# I don't think this will be useful to my project, so I put them all in img-text elements without intention to use them.
+img-txt = element img-txt { p* }
+p = element p { text }
+# 
+# Pesterlog vs log? Pesterlog is the entire text box labeled "pesterlog" on the website, which can have multiple conversations within.
+# I have delineated the different conversations within a pesterlog as a "log".
+pesterlog = element pesterlog { log* }
+log = element log { (msg | declaration)* }
+from = attribute from { text }
+msg = element msg { from, text }
+declaration = element declaration { text }
